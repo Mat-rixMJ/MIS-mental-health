@@ -1,0 +1,1501 @@
+patient_id,appointment_date,therapist_name,therapist_id,department,appointment_type,patient_age,patient_gender,city,session_duration_mins,attended,session_fee,payment_status,satisfaction_score,wait_time_days,referral_source
+P0133,2023-04-03,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,31,Male,Bangalore,90,True,422,Paid,4.0,12,Self-referral
+P4232,2024-12-07,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,30,Female,Hyderabad,90,False,939,Waived,,0,Self-referral
+P2054,2024-03-25,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,33,Female,Bangalore,90,True,510,Paid,2.0,17,Online search
+P2230,2023-07-06,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,28,Female,Bangalore,45,True,648,Pending,4.0,10,Self-referral
+P4960,2024-03-03,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,43,Female,Bangalore,45,True,793,Pending,,6,Doctor referral
+P3062,27/03/2024,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,34,Female,Hyderabad,90,True,431,Paid,,16,Word of mouth
+P0103,2024-07-08,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,46,Male,Kolkata,60,False,1243,Waived,,11,Word of mouth
+P4793,2023-06-29,Dr. Neha Desai,T06,Child & Adolescent,Group Session,29,Male,Bangalore,45,True,470,Paid,5.0,16,NGO partner
+P0073,2023-03-03,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,32,Female,Delhi,60,True,857,Pending,5.0,7,Word of mouth
+P0852,13/10/2024,Dr. Neha Desai,T06,Depression,Initial Consultation,43,Female,Chennai,45,True,971,Paid,3.0,13,Word of mouth
+P0941,2024-07-02,Dr. Aarav Sharma,T01,Depression,Initial Consultation,39,Male,Mumbai,60,True,1065,Paid,3.0,4,Doctor referral
+P2105,2024-02-15,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,51,Female,Bangalore,30,False,894,Paid,,6,NGO partner
+P2507,2023-08-01,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,24,Female,Bangalore,45,True,603,Paid,2.0,11,Online search
+P2587,2024-04-04,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,25,Male,Chennai,45,True,1088,Pending,3.0,0,Doctor referral
+P4252,19/11/2024,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,37,Female,Kolkata,45,True,447,Paid,4.0,18,Word of mouth
+P0169,2023-05-23,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,30,Prefer not to say,Hyderabad,60,True,788,Paid,4.0,20,NGO partner
+P4798,2024-06-04,Dr. Rohan Gupta,T03,Depression,Group Session,37,Female,Chennai,30,False,444,Paid,,16,NGO partner
+P3220,2024-07-01,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,26,Female,Kolkata,30,True,726,Pending,,7,Online search
+P0002,2024-01-04,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,43,Male,Kolkata,30,False,1229,Waived,,16,Doctor referral
+P3810,16/11/2024,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,36,Prefer not to say,Kolkata,45,False,1088,Paid,,19,NGO partner
+P3357,2024-07-29,Dr. Priya Patel,T02,Depression,Follow-up,37,Male,Chennai,90,True,577,Paid,5.0,8,Doctor referral
+P2764,2024-09-28,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,22,Female,Delhi,60,True,439,Paid,5.0,10,Word of mouth
+P1834,2023-06-06,Dr. Meera Iyer,T08,Depression,Crisis Intervention,31,Female,Kolkata,45,False,1274,Pending,,12,Online search
+P2307,2024-08-13,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,33,Male,Delhi,60,True,1136,Pending,3.0,0,Online search
+P0438,2024-02-22,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,34,Male,Hyderabad,60,True,908,Paid,1.0,14,Self-referral
+P2650,16/01/2024,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,27,Male,Delhi,45,True,1391,Paid,,12,NGO partner
+P1208,2024-06-09,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,40,Female,Kolkata,60,True,379,Paid,2.0,9,Online search
+P3066,2023-04-03,Dr. Arjun Kumar,T07,Anxiety & Stress,Follow-up,39,Female,Bangalore,45,True,578,Pending,,11,Self-referral
+P1926,23/05/2024,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,31,Female,Kolkata,60,True,834,Waived,2.0,10,Self-referral
+P1141,2023-12-10,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,33,Male,Delhi,60,True,1142,Paid,2.0,17,NGO partner
+P0100,25/05/2024,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,26,Female,Delhi,45,False,1291,Paid,,11,Self-referral
+P3633,06/03/2024,Dr. Neha Desai,T06,Depression,Group Session,59,Female,Mumbai,90,True,416,Paid,2.0,6,Online search
+P0027,2023-09-16,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,39,Non-binary,Delhi,60,True,992,Paid,,15,Word of mouth
+P2070,2024-08-30,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,35,Female,Chennai,60,True,1374,Paid,,15,Word of mouth
+P2854,2023-12-23,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,32,Prefer not to say,Mumbai,90,True,387,Paid,4.0,14,Online search
+P4488,2023-05-22,,T03,Addiction Recovery,Crisis Intervention,38,Non-binary,Hyderabad,45,True,1308,Paid,3.0,6,Doctor referral
+P4905,2023-07-14,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,30,Female,Delhi,30,True,778,Pending,3.0,16,Doctor referral
+P3024,2023-03-23,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,31,Female,Chennai,60,True,1410,Paid,4.0,16,Self-referral
+P2092,2023-08-22,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,41,Female,Hyderabad,30,True,1185,Paid,3.0,4,Self-referral
+P0572,18/07/2024,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,51,Female,Bangalore,60,True,696,Pending,2.0,16,Online search
+P0628,2024-09-06,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,37,Female,Delhi,60,True,1147,Waived,,16,NGO partner
+P1083,2024-04-01,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,43,Male,Mumbai,90,True,913,Paid,2.0,18,Self-referral
+P4685,2024-04-30,Dr. Priya Patel,T02,Depression,Crisis Intervention,42,Male,Kolkata,45,True,1475,Paid,,14,Online search
+P3252,22/04/2023,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,37,Female,Delhi,90,True,892,Paid,,10,Self-referral
+P1297,2024-07-31,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,33,Male,Hyderabad,60,True,482,Paid,,15,Word of mouth
+P3191,22/02/2024,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,45,Male,Chennai,30,True,1230,Paid,1.0,20,NGO partner
+P3251,2024-02-06,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,27,Male,Chennai,30,True,648,Paid,1.0,21,Doctor referral
+P3045,2023-11-11,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,37,Female,Chennai,60,False,1403,Paid,,14,Self-referral
+P0132,2024-01-22,,T01,Child & Adolescent,Follow-up,0,Non-binary,Mumbai,30,True,627,Pending,1.0,10,Doctor referral
+P4008,2023-11-23,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,26,Female,Bangalore,45,True,977,Paid,4.0,0,Online search
+P2302,2023-02-15,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,37,Prefer not to say,Bangalore,60,False,755,Waived,,8,NGO partner
+P0580,2024-01-15,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,34,Female,Hyderabad,60,True,1360,Paid,,16,Self-referral
+P0726,2024-03-12,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,45,Female,Chennai,60,True,749,Pending,1.0,7,Word of mouth
+P2129,2024-03-10,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,40,Male,Delhi,45,True,1023,Pending,3.0,7,NGO partner
+P2597,2024-03-27,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,53,Female,Delhi,60,True,394,Waived,1.0,14,NGO partner
+P2370,2023-02-12,Dr. Meera Iyer,T08,Depression,Initial Consultation,27,Male,Mumbai,30,False,1037,Paid,,15,Online search
+P2280,01/12/2023,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,36,Male,Kolkata,30,False,494,Paid,,15,Self-referral
+P2792,2023-09-02,Dr. Arjun Kumar,T07,Depression,Follow-up,38,Female,Hyderabad,90,True,780,Pending,1.0,13,NGO partner
+P3305,2024-05-16,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,50,Female,Delhi,45,True,492,Paid,,4,Doctor referral
+P1687,2023-09-28,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,32,Male,Mumbai,90,True,482,Paid,2.0,1,Doctor referral
+P2172,2024-12-22,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,31,Male,Delhi,45,True,380,Paid,4.0,5,Self-referral
+P3405,2023-11-12,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,32,Prefer not to say,Kolkata,45,True,1447,Paid,4.0,13,Word of mouth
+P3815,07/12/2023,Dr. Vikram Singh,T05,Trauma & PTSD,Follow-up,29,Female,Delhi,30,True,773,Paid,,14,Self-referral
+P4832,20/12/2024,Dr. Vikram Singh,T05,Depression,Crisis Intervention,24,Male,Bangalore,30,True,-1036,Pending,,17,Doctor referral
+P3520,2024-05-27,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,30,Prefer not to say,Hyderabad,30,True,1192,Paid,3.0,13,Word of mouth
+P0002,2023-04-03,Dr. Aarav Sharma,T01,Depression,Follow-up,34,Female,Hyderabad,45,False,571,Paid,,14,NGO partner
+P4100,2023-02-24,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,26,Female,Hyderabad,90,False,1041,Waived,1.0,16,Online search
+P4999,10/06/2023,Dr. Neha Desai,T06,Depression,Follow-up,52,Male,Kolkata,90,True,702,Paid,,20,NGO partner
+P3730,2024-10-13,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,47,Female,Hyderabad,60,True,1043,Paid,2.0,8,Self-referral
+P1044,31/10/2024,Dr. Rohan Gupta,T03,Depression,Group Session,37,Female,Mumbai,30,True,330,Pending,5.0,9,Word of mouth
+P4075,2023-02-28,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,45,Male,Kolkata,90,True,1338,Pending,1.0,12,Word of mouth
+P1538,2023-08-05,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,2,Male,Delhi,30,False,1187,Paid,,7,Online search
+P2028,2024-03-20,,T06,Anxiety & Stress,Crisis Intervention,31,Female,Kolkata,30,False,1013,Paid,,17,Self-referral
+P3392,2023-06-04,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,28,Female,Delhi,30,True,843,Waived,,12,NGO partner
+P0910,2023-06-30,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,24,Female,Delhi,60,True,325,Pending,4.0,14,Doctor referral
+P2622,2023-04-21,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,34,Male,Delhi,90,True,1064,Pending,3.0,13,Word of mouth
+P0504,2023-03-28,Dr. Priya Patel,T02,Child & Adolescent,Group Session,48,Male,Mumbai,45,True,380,Paid,4.0,18,Self-referral
+P4094,2023-01-26,,T04,Trauma & PTSD,Follow-up,41,Male,Bangalore,30,True,750,Paid,3.0,1,Online search
+P1655,2024-04-06,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,30,Female,Mumbai,60,True,891,Paid,,10,Doctor referral
+P3771,2024-11-17,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,43,Prefer not to say,Mumbai,30,True,1036,Paid,,8,Self-referral
+P1459,2023-11-12,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,53,Male,Delhi,60,True,567,Paid,3.0,13,Doctor referral
+P1214,19/03/2023,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,40,Female,Delhi,30,True,779,Paid,5.0,9,Online search
+P0425,2023-10-08,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,54,Male,Hyderabad,60,True,1135,Paid,2.0,7,Word of mouth
+P1875,2023-10-10,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,51,Male,Hyderabad,30,False,-1266,Paid,,9,Word of mouth
+P0826,2024-11-07,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,57,Female,Delhi,60,True,354,Paid,5.0,15,Online search
+P0813,2024-08-05,Dr. Vikram Singh,T05,Depression,Initial Consultation,32,Female,Hyderabad,45,False,1112,Pending,,8,Self-referral
+P3981,2024-11-05,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,30,Male,Mumbai,30,False,521,Pending,,10,NGO partner
+P2383,2023-07-21,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,47,Female,Mumbai,90,False,1299,Paid,,11,Doctor referral
+P0283,2024-10-28,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,51,Male,Hyderabad,30,True,1474,Paid,4.0,21,Doctor referral
+P1112,2024-11-26,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,34,Male,Chennai,45,True,448,Paid,3.0,9,Online search
+P3990,2023-02-17,Dr. Meera Iyer,T08,Depression,Crisis Intervention,31,Male,Kolkata,90,False,1352,Paid,,1,Self-referral
+P1082,24/06/2024,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,31,Female,Chennai,90,False,984,Paid,,11,NGO partner
+P3241,2024-06-22,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,34,Male,Mumbai,60,True,318,Paid,,9,Online search
+P4345,2024-02-26,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,38,Female,Mumbai,45,True,374,Paid,,3,Online search
+P0192,2024-10-01,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,25,Male,Chennai,90,True,444,Paid,,7,Word of mouth
+P3636,2023-06-29,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,42,Male,Mumbai,90,True,991,Paid,1.0,16,Doctor referral
+P1656,2023-04-09,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,26,Female,Bangalore,45,True,822,Paid,1.0,3,Self-referral
+P2971,17/11/2024,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,24,Male,Delhi,45,True,1130,Paid,1.0,10,Word of mouth
+P2764,2023-04-13,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,35,Female,Hyderabad,90,True,1098,Paid,,14,Self-referral
+P0267,2023-02-25,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,40,Non-binary,Kolkata,90,False,1244,Paid,,21,Doctor referral
+P4303,2023-04-10,Dr. Vikram Singh,T05,Trauma & PTSD,Follow-up,42,Female,Chennai,90,True,652,Pending,5.0,9,Online search
+P1866,2023-03-26,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,47,Female,Mumbai,30,True,428,Paid,3.0,11,Self-referral
+P3451,2024-02-15,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,63,Male,Bangalore,60,False,399,Pending,,4,Online search
+P2280,2023-01-15,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,39,Male,Hyderabad,30,True,975,Paid,2.0,20,Doctor referral
+P1140,2024-02-20,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,32,Male,Chennai,90,True,1222,Paid,4.0,11,Word of mouth
+P2620,09/10/2023,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,26,Male,Mumbai,45,True,1039,Waived,3.0,4,Doctor referral
+P4509,2024-04-29,Dr. Neha Desai,T06,Addiction Recovery,Group Session,33,Non-binary,Kolkata,90,False,408,Paid,,8,Online search
+P0522,2023-01-07,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,53,Female,Bangalore,45,True,1164,Paid,1.0,6,Doctor referral
+P2137,2024-09-26,Dr. Aarav Sharma,T01,Depression,Initial Consultation,60,Female,Hyderabad,60,True,1014,Paid,3.0,7,Online search
+P1333,2023-04-27,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,34,Non-binary,Bangalore,90,True,734,Paid,5.0,9,Word of mouth
+P2548,2023-02-07,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,34,Female,Hyderabad,30,True,1198,Paid,1.0,10,Word of mouth
+P2927,2023-07-01,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,30,Female,Mumbai,30,True,868,Paid,,5,Online search
+P1823,2024-07-06,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,39,Female,Bangalore,60,False,1140,Paid,,5,Word of mouth
+P0265,2023-04-15,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,29,Male,Kolkata,60,False,652,Paid,,2,Word of mouth
+P0829,2023-08-20,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,25,Female,Chennai,30,True,579,Paid,,21,Online search
+P3002,2024-11-04,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,42,Female,Chennai,30,True,1269,Paid,1.0,0,Doctor referral
+P2714,2023-11-08,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,38,Male,Hyderabad,60,True,849,Paid,2.0,18,NGO partner
+P4413,21/12/2023,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,42,Male,Chennai,60,True,1335,Waived,2.0,4,Self-referral
+P4347,2023-08-15,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,39,Female,Delhi,60,True,499,Paid,1.0,11,Doctor referral
+P1086,2024-07-19,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,46,Male,Kolkata,30,True,323,Paid,1.0,6,Doctor referral
+P1726,2023-11-23,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,30,Female,Chennai,60,True,573,Paid,,18,NGO partner
+P3361,2023-02-12,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,40,Male,Chennai,90,True,1120,Paid,2.0,19,Online search
+P3875,2024-07-31,Dr. Arjun Kumar,T07,Depression,Initial Consultation,27,Female,Bangalore,30,True,1008,Paid,5.0,14,Word of mouth
+P3043,2023-06-04,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,40,Male,Hyderabad,30,True,1052,Paid,4.0,10,Self-referral
+P1311,2023-10-09,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,110,Male,Delhi,90,True,838,Paid,5.0,1,Doctor referral
+P2318,2024-10-23,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,30,Female,Chennai,30,True,401,Paid,1.0,16,Self-referral
+P0634,2024-06-03,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,29,Female,Hyderabad,90,True,1429,Pending,2.0,5,Word of mouth
+P4772,2023-03-04,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,58,Male,Mumbai,45,False,492,Paid,,16,Self-referral
+P2750,25/01/2024,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,46,Male,Chennai,90,True,1018,Paid,4.0,13,Online search
+P3147,2023-04-04,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,45,Male,Chennai,45,True,1161,Waived,5.0,12,NGO partner
+P1483,2024-08-03,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,39,Male,Delhi,90,True,355,Waived,2.0,12,Online search
+P1957,11/04/2024,Dr. Arjun Kumar,T07,Trauma & PTSD,Group Session,105,Female,Bangalore,45,False,348,Paid,,13,Self-referral
+P0277,2023-02-13,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,31,Male,Hyderabad,30,True,644,Paid,2.0,12,Word of mouth
+P4866,2023-03-18,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,47,Female,Mumbai,90,True,481,Waived,5.0,4,Doctor referral
+P1822,2024-09-03,Dr. Meera Iyer,T08,Depression,Group Session,35,Male,Hyderabad,45,True,344,Waived,1.0,7,Online search
+P0581,2023-08-23,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,41,Male,Delhi,60,False,-816,Paid,,21,Word of mouth
+P2456,2024-02-04,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,37,Male,Hyderabad,60,True,1100,Paid,,13,Online search
+P3162,04/09/2023,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,50,Female,Chennai,60,True,520,Waived,1.0,0,NGO partner
+P2602,2024-06-03,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,31,Male,Bangalore,90,True,709,Pending,3.0,13,Word of mouth
+P0232,2023-08-31,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,31,Male,Chennai,45,True,488,Paid,,18,Doctor referral
+P3362,2024-01-12,Dr. Rohan Gupta,T03,Trauma & PTSD,Initial Consultation,60,Female,Delhi,90,True,1021,Paid,4.0,4,Online search
+P4116,2024-07-11,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,53,Female,Bangalore,60,False,1176,Paid,,5,Self-referral
+P4192,2024-08-10,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,43,Male,Hyderabad,30,False,1076,Paid,,8,Doctor referral
+P1736,2024-07-01,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,39,Female,Kolkata,60,False,1111,Paid,,9,Online search
+P4478,2024-11-08,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,46,Prefer not to say,Mumbai,90,True,1251,Paid,5.0,3,Word of mouth
+P0297,2024-06-13,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,34,Male,Hyderabad,30,True,1024,Paid,5.0,4,Word of mouth
+P0533,2023-03-29,Dr. Priya Patel,T02,Depression,Initial Consultation,35,Non-binary,Mumbai,90,True,817,Paid,,1,Online search
+P0164,2024-10-02,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,40,Female,Bangalore,30,True,1114,Pending,5.0,10,Online search
+P4192,2024-08-10,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,43,Male,Hyderabad,30,False,1076,Paid,,8,Doctor referral
+P3076,2023-09-04,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,42,Male,Bangalore,90,True,1250,Paid,2.0,8,Word of mouth
+P3372,2023-07-17,Dr. Arjun Kumar,T07,Trauma & PTSD,Group Session,42,Female,Kolkata,60,True,388,Paid,,7,NGO partner
+P2992,2024-09-09,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,57,Female,Delhi,60,True,1008,Paid,2.0,16,Self-referral
+P4751,2023-08-27,Dr. Aarav Sharma,T01,Addiction Recovery,Initial Consultation,29,Male,Mumbai,45,True,1135,Pending,4.0,1,Online search
+P3759,2023-01-04,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,105,Non-binary,Kolkata,45,True,1237,Paid,1.0,13,Self-referral
+P3294,2023-03-06,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,39,Female,Mumbai,45,True,718,Paid,,10,Doctor referral
+P2398,2024-08-06,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,110,Female,Chennai,60,True,436,Paid,3.0,16,Self-referral
+P4021,2023-12-13,,T02,Depression,Follow-up,31,Male,Bangalore,30,True,687,Waived,,11,Self-referral
+P0782,2023-06-29,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,35,Male,Delhi,90,True,1423,Paid,4.0,10,Doctor referral
+P4199,2023-11-09,Dr. Priya Patel,T02,Depression,Follow-up,60,Male,Delhi,45,True,676,Paid,,7,NGO partner
+P3687,2024-07-15,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,36,Male,Delhi,60,True,1459,Paid,,16,Word of mouth
+P1575,2023-02-27,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,53,Female,Bangalore,30,True,498,Pending,2.0,3,Doctor referral
+P2562,2024-01-26,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,29,Male,Mumbai,30,False,1213,Paid,,8,Doctor referral
+P2543,2023-01-11,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,27,Non-binary,Mumbai,60,True,726,Pending,5.0,8,NGO partner
+P1571,2024-02-17,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,57,Male,Hyderabad,30,True,688,Paid,3.0,15,Word of mouth
+P2639,2024-03-12,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,40,Female,Delhi,30,True,1051,Waived,1.0,4,Online search
+P2784,2024-09-15,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,43,Female,Mumbai,45,True,307,Paid,3.0,4,NGO partner
+P3418,2024-08-13,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,24,Female,Mumbai,90,True,441,Paid,,19,Online search
+P4113,2024-03-11,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,54,Male,Bangalore,60,True,489,Pending,4.0,17,Online search
+P0468,2023-01-29,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,45,Female,Chennai,90,True,485,Paid,4.0,21,Online search
+P1669,2023-09-25,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,48,Male,Chennai,90,True,1289,Paid,4.0,5,Online search
+P1147,2024-09-22,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,41,Female,Chennai,90,True,1440,Paid,,11,Word of mouth
+P2415,2023-10-08,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,24,Male,Mumbai,60,True,1160,Pending,3.0,13,Word of mouth
+P3366,2024-08-14,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,36,Female,Chennai,60,True,1433,Paid,3.0,1,Self-referral
+P4584,2024-06-14,,T01,Anxiety & Stress,Follow-up,53,Female,Bangalore,60,True,529,Paid,,6,Doctor referral
+P2336,2024-07-21,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,44,Female,Delhi,60,True,1164,Paid,,14,NGO partner
+P3505,2024-03-27,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,57,Male,Hyderabad,45,False,1000,Pending,3.0,20,Online search
+P4836,2023-02-20,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,40,Male,Mumbai,45,True,1224,Paid,4.0,16,NGO partner
+P2799,2024-12-25,Dr. Vikram Singh,T05,Depression,Crisis Intervention,24,Female,Bangalore,60,True,1139,Paid,,0,Doctor referral
+P2629,2023-04-16,Dr. Aarav Sharma,T01,Depression,Group Session,42,Female,Delhi,60,True,305,Waived,2.0,8,NGO partner
+P3011,2023-06-20,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,33,Female,Mumbai,90,True,1064,Paid,5.0,12,Word of mouth
+P4929,2024-07-09,Dr. Meera Iyer,T08,Depression,Group Session,110,Male,Mumbai,90,True,344,Paid,2.0,0,Online search
+P3970,2024-10-21,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,21,Male,Kolkata,45,True,1182,Pending,4.0,14,Self-referral
+P4617,05/10/2023,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,42,Male,Delhi,60,True,838,Pending,5.0,0,Doctor referral
+P1865,2023-08-16,Dr. Meera Iyer,T08,Depression,Follow-up,36,Male,Mumbai,45,True,735,Paid,,12,Online search
+P3435,2023-06-06,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,34,Male,Kolkata,60,True,1157,Paid,4.0,2,Doctor referral
+P4116,2024-11-13,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,27,Female,Delhi,45,True,1101,Paid,1.0,18,Doctor referral
+P2666,2023-04-26,Dr. Ananya Reddy,T04,Depression,Group Session,46,Female,Hyderabad,90,False,407,Paid,,3,Doctor referral
+P0976,2023-09-17,Dr. Meera Iyer,T08,Depression,Group Session,38,Male,Bangalore,45,True,-447,Pending,2.0,3,Doctor referral
+P2401,2023-06-29,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,44,Female,Mumbai,45,True,1479,Paid,2.0,18,Word of mouth
+P2582,2023-01-18,Dr. Neha Desai,T06,Child & Adolescent,Group Session,33,Male,Mumbai,45,True,466,Paid,1.0,3,NGO partner
+P3744,24/07/2024,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,26,Female,Hyderabad,60,True,842,Paid,3.0,21,Word of mouth
+P0042,2023-05-01,Dr. Aarav Sharma,T01,Depression,Group Session,50,Male,Chennai,60,True,388,Paid,5.0,3,Doctor referral
+P1575,2023-04-13,Dr. Neha Desai,T06,Depression,Initial Consultation,52,Male,Bangalore,90,True,1098,Paid,1.0,3,Online search
+P2130,2024-09-22,Dr. Vikram Singh,T05,Depression,Initial Consultation,23,Male,Hyderabad,30,True,1113,Pending,5.0,15,NGO partner
+P1304,2024-08-21,Dr. Neha Desai,T06,Depression,Crisis Intervention,29,Male,Mumbai,30,True,1034,Pending,,15,Word of mouth
+P3115,02/11/2024,Dr. Vikram Singh,T05,Depression,Follow-up,51,Female,Hyderabad,45,True,526,Paid,5.0,1,NGO partner
+P3134,2024-06-04,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,29,Male,Delhi,60,True,313,Paid,1.0,6,Word of mouth
+P3336,2023-10-03,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,49,Female,Chennai,60,True,1309,Paid,2.0,1,NGO partner
+P4738,2024-09-11,Dr. Vikram Singh,T05,Depression,Crisis Intervention,40,Female,Mumbai,30,True,1483,Pending,5.0,2,Word of mouth
+P4493,2024-02-11,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,29,Male,Mumbai,90,True,848,Paid,,16,Self-referral
+P0480,2023-02-07,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,36,Male,Mumbai,60,True,422,Waived,4.0,19,NGO partner
+P2276,2024-12-17,Dr. Neha Desai,T06,Depression,Initial Consultation,57,Male,Kolkata,90,True,962,Pending,2.0,11,Online search
+P1270,2023-09-06,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,30,Female,Mumbai,45,True,821,Paid,5.0,5,Word of mouth
+P1662,2024-04-01,Dr. Vikram Singh,T05,Anxiety & Stress,Group Session,27,Female,Chennai,60,True,460,Paid,,0,Word of mouth
+P1915,2024-01-15,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,47,Male,Bangalore,30,False,873,Paid,1.0,18,Self-referral
+P2780,2024-06-09,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,20,Male,Hyderabad,45,True,889,Paid,5.0,8,Online search
+P1736,2024-05-05,Dr. Ananya Reddy,T04,Depression,Follow-up,27,Non-binary,Hyderabad,30,True,670,Paid,,15,Doctor referral
+P0480,2024-02-22,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,54,Male,Bangalore,30,True,530,Paid,1.0,10,Doctor referral
+P1578,2024-06-10,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,46,Prefer not to say,Chennai,30,True,1249,Paid,,3,Doctor referral
+P4483,2023-06-06,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,29,Female,Bangalore,30,True,1049,Waived,3.0,14,Online search
+P1243,2024-05-04,Dr. Vikram Singh,T05,Depression,Initial Consultation,29,Male,Chennai,60,True,833,Pending,1.0,2,Doctor referral
+P2353,2023-04-17,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,28,Male,Chennai,30,True,443,Paid,4.0,6,Self-referral
+P3019,2024-09-08,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,20,Male,Chennai,90,True,1071,Paid,2.0,16,Word of mouth
+P1615,2023-09-18,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,29,Male,Bangalore,30,True,1162,Pending,5.0,21,Online search
+P1940,14/10/2024,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,32,Male,Kolkata,60,True,1038,Waived,2.0,12,Online search
+P2053,2023-02-24,Dr. Rohan Gupta,T03,Depression,Initial Consultation,49,Female,Mumbai,60,True,-902,Paid,3.0,6,NGO partner
+P2220,2024-08-30,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,36,Female,Delhi,30,True,611,Paid,2.0,15,Word of mouth
+P2899,13/03/2024,Dr. Vikram Singh,T05,Depression,Group Session,23,Female,Chennai,90,True,366,Waived,,16,Word of mouth
+P2241,2024-05-28,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,45,Male,Bangalore,45,True,608,Paid,5.0,13,Self-referral
+P3959,2024-12-25,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,51,Female,Mumbai,30,True,504,Paid,1.0,17,NGO partner
+P3736,2024-08-31,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,29,Male,Delhi,90,True,1388,Paid,,9,Doctor referral
+P4243,2023-09-17,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,41,Male,Bangalore,30,True,417,Paid,3.0,8,NGO partner
+P1951,2024-05-25,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,31,Female,Bangalore,60,True,351,Paid,1.0,4,Online search
+P0143,03/03/2024,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,27,Male,Kolkata,60,True,1469,Pending,,11,Doctor referral
+P4756,11/01/2023,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,34,Male,Delhi,90,True,932,Paid,5.0,11,Word of mouth
+P3369,2023-07-08,Dr. Priya Patel,T02,Addiction Recovery,Group Session,39,Non-binary,Bangalore,60,True,337,Paid,4.0,4,Doctor referral
+P3330,2024-01-02,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,26,Female,Hyderabad,45,True,627,Pending,5.0,7,Doctor referral
+P2756,2023-10-13,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,22,Female,Bangalore,60,True,1124,Paid,4.0,5,Word of mouth
+P0665,2024-12-22,Dr. Aarav Sharma,T01,Depression,Follow-up,44,Male,Mumbai,30,False,602,Paid,,0,Word of mouth
+P4454,2023-09-04,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,20,Female,Delhi,30,False,1060,Pending,4.0,10,NGO partner
+P3699,2023-03-27,Dr. Neha Desai,T06,Child & Adolescent,Follow-up,36,Non-binary,Mumbai,45,True,771,Pending,3.0,19,NGO partner
+P3402,2023-07-17,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,33,Male,Hyderabad,60,True,791,Paid,5.0,21,Word of mouth
+P3204,2024-04-10,Dr. Priya Patel,T02,Depression,Initial Consultation,27,Female,Mumbai,45,True,988,Paid,4.0,17,Word of mouth
+P3456,01/05/2023,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,44,Male,Hyderabad,30,True,684,Pending,5.0,11,Word of mouth
+P0166,2023-10-04,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,31,Female,Hyderabad,45,True,839,Paid,4.0,3,NGO partner
+P3809,2023-09-25,Dr. Aarav Sharma,T01,Anxiety & Stress,Crisis Intervention,40,Male,Kolkata,30,True,1091,Pending,1.0,20,Word of mouth
+P4382,2023-06-16,Dr. Priya Patel,T02,Depression,Follow-up,60,Prefer not to say,Bangalore,60,True,675,Pending,,0,Online search
+P0199,2023-04-29,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,30,Prefer not to say,Hyderabad,45,True,358,Paid,5.0,15,Self-referral
+P3244,2023-12-18,,T07,Depression,Initial Consultation,51,Female,Chennai,30,True,1052,Paid,4.0,6,Word of mouth
+P2401,2023-05-24,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,33,Female,Chennai,90,True,1390,Paid,2.0,5,Word of mouth
+P2600,2023-06-23,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,45,Female,Bangalore,45,True,1476,Paid,1.0,8,Self-referral
+P4676,2024-01-23,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,36,Male,Delhi,45,True,849,Pending,1.0,12,NGO partner
+P2352,2024-09-06,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,40,Non-binary,Mumbai,60,True,717,Paid,3.0,15,Online search
+P0521,2023-06-28,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,29,Female,Bangalore,60,True,313,Paid,1.0,16,NGO partner
+P0443,2023-04-26,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,30,Male,Kolkata,45,True,742,Paid,1.0,13,Online search
+P3990,2023-05-17,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,60,Male,Mumbai,30,True,1123,Paid,1.0,5,Self-referral
+P1558,2024-03-18,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,41,Female,Hyderabad,90,True,1062,Pending,2.0,18,Self-referral
+P3312,25/11/2023,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,24,Male,Bangalore,30,True,729,Paid,4.0,15,Self-referral
+P2234,2024-03-08,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,29,Male,Hyderabad,30,False,352,Paid,,13,Word of mouth
+P3125,2023-02-26,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,29,Female,Bangalore,60,False,1080,Waived,2.0,5,Doctor referral
+P0360,2024-09-13,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,51,Male,Kolkata,30,True,308,Paid,4.0,18,Self-referral
+P4308,2024-01-28,Dr. Vikram Singh,T05,Depression,Follow-up,60,Female,Hyderabad,30,True,-714,Paid,,12,Online search
+P1326,2023-05-13,Dr. Priya Patel,T02,Child & Adolescent,Group Session,48,Female,Delhi,45,True,343,Pending,4.0,11,Self-referral
+P0213,2024-03-02,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,31,Female,Hyderabad,30,True,926,Paid,3.0,12,Online search
+P4731,2023-02-11,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,41,Male,Chennai,30,True,759,Waived,3.0,5,NGO partner
+P1598,2024-09-13,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,44,Male,Kolkata,45,True,1337,Paid,3.0,10,Doctor referral
+P0354,2024-05-05,Dr. Meera Iyer,T08,Depression,Follow-up,37,Female,Chennai,45,True,582,Paid,2.0,4,NGO partner
+P2890,2023-09-27,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,27,Male,Kolkata,30,False,1302,Pending,,0,NGO partner
+P1465,2023-05-08,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,45,Male,Bangalore,30,True,445,Paid,,14,Self-referral
+P0015,2024-09-12,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,28,Female,Mumbai,30,True,1085,Pending,2.0,10,Word of mouth
+P2938,2023-10-27,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,54,Non-binary,Kolkata,45,True,1410,Paid,3.0,8,Word of mouth
+P2682,2024-12-12,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,29,Female,Mumbai,30,False,416,Pending,,14,Online search
+P3713,2024-11-10,Dr. Arjun Kumar,T07,Trauma & PTSD,Group Session,24,Female,Delhi,30,True,351,Paid,5.0,20,NGO partner
+P0155,2023-11-04,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,36,Male,Bangalore,90,True,830,Pending,4.0,1,Doctor referral
+P0179,2024-06-09,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,41,Female,Kolkata,30,True,1233,Paid,3.0,6,NGO partner
+P1500,2024-02-22,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,34,Male,Kolkata,60,True,1356,Paid,,5,Word of mouth
+P0537,27/02/2023,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,0,Female,Mumbai,60,True,626,Pending,1.0,5,Self-referral
+P3531,31/03/2024,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,39,Male,Chennai,90,True,494,Paid,2.0,3,Self-referral
+P4098,2023-09-08,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,24,Male,Chennai,60,True,1123,Paid,,5,Doctor referral
+P4042,2024-07-23,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,31,Female,Kolkata,30,True,426,Pending,4.0,0,Doctor referral
+P1459,2023-01-25,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,40,Female,Chennai,30,True,1367,Waived,1.0,18,Doctor referral
+P0763,2024-05-15,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,40,Male,Delhi,90,True,743,Paid,1.0,7,Online search
+P2256,2023-09-16,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,33,Female,Bangalore,60,False,482,Paid,,14,Online search
+P2924,2024-10-01,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,53,Male,Delhi,60,True,625,Paid,,15,Doctor referral
+P0903,28/07/2023,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,63,Female,Kolkata,60,True,985,Pending,,4,Online search
+P2880,2024-10-12,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,48,Female,Kolkata,90,True,1147,Paid,3.0,12,NGO partner
+P3503,2024-03-25,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,28,Female,Mumbai,90,True,1352,Paid,2.0,10,Word of mouth
+P3775,2024-09-24,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,50,Female,Hyderabad,30,True,879,Paid,,19,Self-referral
+P2960,2023-03-06,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,57,Female,Bangalore,90,True,394,Waived,5.0,1,Self-referral
+P4036,2024-02-22,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,41,Female,Delhi,30,True,1148,Paid,2.0,13,Doctor referral
+P2716,2024-11-23,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,27,Female,Kolkata,60,True,833,Paid,1.0,6,Doctor referral
+P3823,2024-11-24,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,19,Prefer not to say,Kolkata,90,True,1281,Waived,5.0,8,NGO partner
+P3022,2023-11-27,Dr. Rohan Gupta,T03,Depression,Initial Consultation,57,Female,Kolkata,90,True,-863,Waived,4.0,17,Self-referral
+P1593,2023-03-17,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,28,Female,Kolkata,30,True,307,Paid,4.0,0,Doctor referral
+P2398,2024-08-06,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,110,Female,Chennai,60,True,436,Paid,3.0,16,Self-referral
+P0482,2024-12-26,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,53,Male,Kolkata,45,True,1376,Pending,5.0,15,Online search
+P3776,2024-05-26,Dr. Ananya Reddy,T04,Depression,Group Session,26,Male,Hyderabad,60,True,365,Paid,4.0,5,Doctor referral
+P0585,2023-02-01,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,38,Female,Kolkata,90,True,330,Pending,,3,Word of mouth
+P4372,2024-10-27,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,32,Male,Kolkata,90,False,968,Waived,2.0,17,Self-referral
+P1712,2023-10-24,Dr. Aarav Sharma,T01,Addiction Recovery,Initial Consultation,37,Male,Delhi,60,True,949,Paid,,18,Online search
+P3829,2024-08-13,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,44,Female,Hyderabad,90,True,1109,Paid,,18,Self-referral
+P2023,2023-03-20,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,48,Male,Chennai,45,False,664,Paid,2.0,3,NGO partner
+P1125,2023-08-14,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,26,Male,Kolkata,60,True,1306,Paid,2.0,3,Self-referral
+P4175,2023-05-11,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,48,Male,Hyderabad,45,False,1314,Paid,,7,NGO partner
+P3085,2024-01-06,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,44,Male,Hyderabad,45,True,1147,Paid,,1,Self-referral
+P2370,2024-04-04,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,54,Female,Hyderabad,45,True,1322,Paid,,5,NGO partner
+P1353,2023-04-03,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,21,Female,Mumbai,30,True,839,Paid,,9,NGO partner
+P1425,2024-07-02,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,41,Female,Kolkata,45,True,929,Paid,4.0,1,Online search
+P4592,2023-11-27,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,35,Female,Chennai,45,True,857,Paid,5.0,12,NGO partner
+P4201,2023-06-13,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,52,Female,Chennai,60,False,-504,Paid,,9,Doctor referral
+P1191,2023-12-13,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,46,Female,Chennai,90,True,882,Pending,1.0,2,Self-referral
+P1882,2024-10-15,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,31,Female,Bangalore,90,False,795,Waived,5.0,6,NGO partner
+P1595,2024-01-10,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,37,Prefer not to say,Chennai,60,True,1187,Paid,5.0,2,Word of mouth
+P1711,2023-03-12,Dr. Neha Desai,T06,Depression,Group Session,52,Female,Kolkata,45,False,380,Paid,,13,Online search
+P3586,2023-02-16,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,44,Male,Kolkata,30,True,870,Paid,3.0,11,Online search
+P4634,06/04/2024,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,50,Non-binary,Kolkata,60,True,457,Paid,2.0,13,Doctor referral
+P4084,2023-09-25,Dr. Aarav Sharma,T01,Depression,Group Session,50,Female,Chennai,45,True,464,Pending,,12,Doctor referral
+P0511,2023-05-15,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,0,Female,Mumbai,60,True,1014,Paid,4.0,6,NGO partner
+P3554,2024-01-17,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,36,Prefer not to say,Mumbai,45,False,769,Paid,5.0,4,Doctor referral
+P4950,2024-02-18,Dr. Priya Patel,T02,Trauma & PTSD,Crisis Intervention,53,Male,Hyderabad,60,True,1018,Waived,1.0,16,NGO partner
+P0796,2023-11-08,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,32,Male,Hyderabad,45,False,910,Paid,,17,Word of mouth
+P1756,2023-04-20,Dr. Arjun Kumar,T07,Trauma & PTSD,Follow-up,23,Male,Kolkata,60,True,602,Paid,3.0,14,Self-referral
+P1263,2023-03-06,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,25,Male,Kolkata,60,True,1097,Waived,5.0,13,Online search
+P4663,14/02/2023,Dr. Neha Desai,T06,Depression,Crisis Intervention,27,Female,Delhi,30,False,1166,Paid,,20,Online search
+P0827,2024-08-13,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,28,Female,Chennai,30,True,596,Pending,2.0,4,NGO partner
+P0832,2023-01-20,Dr. Ananya Reddy,T04,Depression,Group Session,38,Female,Chennai,45,False,441,Waived,,9,NGO partner
+P4258,2024-04-29,Dr. Priya Patel,T02,Depression,Follow-up,45,Male,Mumbai,90,True,674,Paid,,3,Word of mouth
+P0729,2024-08-23,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,33,Female,Hyderabad,60,True,487,Paid,,4,Online search
+P0101,2023-08-22,Dr. Priya Patel,T02,Depression,Initial Consultation,110,Female,Mumbai,90,False,822,Paid,,11,Word of mouth
+P3631,2023-06-17,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,49,Female,Hyderabad,45,True,533,Paid,1.0,6,Self-referral
+P3708,2024-06-21,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,47,Female,Hyderabad,60,True,575,Paid,3.0,17,Online search
+P0208,2023-10-26,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,40,Male,Mumbai,45,True,915,Paid,4.0,19,NGO partner
+P4136,22/01/2024,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,30,Female,Bangalore,90,True,1427,Paid,2.0,4,Online search
+P1133,2024-05-21,Dr. Neha Desai,T06,Depression,Crisis Intervention,32,Female,Bangalore,90,True,1246,Paid,3.0,17,Word of mouth
+P3993,2023-07-22,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,22,Male,Delhi,60,True,1070,Paid,1.0,7,Word of mouth
+P0376,2023-02-07,Dr. Priya Patel,T02,Depression,Follow-up,44,Female,Hyderabad,45,True,750,Paid,5.0,0,Doctor referral
+P2941,2023-07-23,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,38,Male,Kolkata,60,True,1436,Paid,5.0,0,Word of mouth
+P2429,2024-02-17,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,33,Female,Hyderabad,90,True,1392,Paid,,2,NGO partner
+P4555,2023-06-28,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,110,Non-binary,Delhi,30,False,1007,Paid,5.0,14,Self-referral
+P3858,2023-06-24,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,35,Female,Hyderabad,60,True,320,Paid,4.0,2,NGO partner
+P2727,2024-01-04,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,48,Male,Hyderabad,90,True,1044,Pending,,14,NGO partner
+P2074,2024-01-18,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,32,Male,Bangalore,60,True,1030,Paid,5.0,19,NGO partner
+P0713,2023-01-26,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,32,Prefer not to say,Bangalore,30,True,362,Pending,5.0,0,Self-referral
+P4665,06/01/2024,Dr. Priya Patel,T02,Depression,Crisis Intervention,43,Male,Chennai,45,True,1309,Pending,2.0,13,NGO partner
+P1885,2023-08-29,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,29,Male,Kolkata,45,True,1303,Paid,3.0,3,Doctor referral
+P2528,2023-02-25,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,41,Female,Bangalore,45,True,424,Paid,1.0,18,Doctor referral
+P0896,2023-11-04,Dr. Priya Patel,T02,Depression,Initial Consultation,105,Male,Hyderabad,45,True,1163,Paid,,16,Doctor referral
+P2372,2024-04-15,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,25,Female,Bangalore,30,True,960,Paid,4.0,10,Doctor referral
+P2785,2023-03-28,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,32,Female,Delhi,90,True,402,Paid,1.0,0,NGO partner
+P0244,2023-09-14,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,26,Female,Hyderabad,30,True,1254,Paid,,2,Word of mouth
+P1526,2023-07-17,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,57,Female,Hyderabad,60,True,969,Pending,3.0,9,NGO partner
+P0446,2023-07-24,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,36,Male,Delhi,45,True,1456,Pending,4.0,19,Word of mouth
+P3754,2023-09-06,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,33,Male,Delhi,60,True,1107,Paid,1.0,10,Online search
+P1688,2024-05-22,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,57,Male,Kolkata,30,True,792,Paid,4.0,7,Online search
+P0494,2024-03-13,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,47,Female,Kolkata,30,True,1412,Paid,5.0,18,Word of mouth
+P2758,2024-12-30,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,36,Female,Chennai,30,True,330,Paid,,1,Self-referral
+P2174,2023-07-30,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,28,Male,Kolkata,45,True,709,Paid,5.0,3,Self-referral
+P3319,2023-10-04,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,23,Female,Kolkata,90,True,462,Paid,3.0,13,NGO partner
+P4887,2024-09-30,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,49,Female,Mumbai,45,True,342,Paid,4.0,12,Word of mouth
+P2593,2024-10-18,,T03,Child & Adolescent,Crisis Intervention,26,Male,Delhi,45,True,-1294,Waived,4.0,15,Online search
+P2033,2024-02-27,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,38,Female,Delhi,30,True,891,Paid,4.0,12,Self-referral
+P4344,2024-08-15,Dr. Arjun Kumar,T07,Trauma & PTSD,Group Session,32,Male,Bangalore,90,True,467,Waived,5.0,9,NGO partner
+P4040,2024-08-08,Dr. Ananya Reddy,T04,Depression,Follow-up,43,Female,Mumbai,45,True,694,Paid,3.0,13,Online search
+P3797,2024-07-17,Dr. Meera Iyer,T08,Depression,Crisis Intervention,36,Male,Mumbai,90,True,1357,Paid,4.0,4,Online search
+P1129,2023-01-06,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,42,Male,Kolkata,45,True,1180,Paid,3.0,2,Online search
+P2178,2024-03-07,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,56,Male,Bangalore,90,True,308,Pending,4.0,17,Word of mouth
+P3842,12/09/2023,Dr. Meera Iyer,T08,Depression,Group Session,47,Female,Kolkata,90,True,449,Pending,1.0,21,Doctor referral
+P2465,2024-07-29,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,24,Female,Hyderabad,30,True,1069,Waived,2.0,15,NGO partner
+P3039,2023-01-06,Dr. Aarav Sharma,T01,Depression,Group Session,35,Female,Chennai,30,True,429,Pending,4.0,18,Doctor referral
+P1435,2024-11-07,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,32,Female,Chennai,90,True,711,Paid,5.0,1,Online search
+P4172,21/06/2023,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,0,Male,Bangalore,90,False,1384,Paid,,5,Online search
+P3161,2023-10-24,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,35,Female,Bangalore,90,True,1101,Paid,4.0,13,Doctor referral
+P0883,2024-07-04,Dr. Aarav Sharma,T01,Addiction Recovery,Initial Consultation,52,Female,Hyderabad,45,False,959,Waived,,18,NGO partner
+P3273,2024-03-05,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,36,Female,Mumbai,90,True,871,Waived,2.0,21,Doctor referral
+P2488,2023-10-03,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,50,Male,Delhi,60,True,634,Paid,,10,Online search
+P0353,05/12/2024,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,21,Female,Mumbai,60,False,932,Pending,,2,Online search
+P3376,2023-02-27,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,49,Male,Hyderabad,45,True,391,Paid,5.0,5,Doctor referral
+P4914,2023-03-12,,T04,Addiction Recovery,Group Session,42,Female,Chennai,60,True,348,Paid,4.0,19,Online search
+P1489,2023-03-27,Dr. Aarav Sharma,T01,Anxiety & Stress,Crisis Intervention,30,Male,Kolkata,90,False,1069,Paid,,10,Doctor referral
+P3761,2023-09-09,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,24,Male,Kolkata,45,True,1247,Paid,,8,NGO partner
+P2683,2023-10-25,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,32,Male,Hyderabad,60,True,1442,Pending,2.0,6,Doctor referral
+P3315,2023-07-23,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,32,Non-binary,Delhi,60,True,846,Paid,,17,Online search
+P2062,2024-03-07,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,22,Female,Kolkata,90,True,1126,Paid,3.0,21,Online search
+P4185,2023-10-25,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,105,Male,Chennai,60,True,513,Paid,3.0,6,Word of mouth
+P2251,2024-07-01,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,30,Male,Bangalore,45,True,864,Paid,4.0,16,NGO partner
+P0891,2024-01-19,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,21,Female,Hyderabad,90,True,393,Paid,3.0,5,Doctor referral
+P4289,2023-10-30,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,33,Male,Kolkata,45,False,1176,Paid,,12,Word of mouth
+P2005,2023-05-08,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,33,Male,Mumbai,60,True,406,Paid,,15,Self-referral
+P3858,2023-06-24,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,35,Female,Hyderabad,60,True,320,Paid,4.0,2,NGO partner
+P4622,2024-11-27,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,29,Female,Mumbai,45,True,1069,Paid,1.0,18,NGO partner
+P0349,12/03/2023,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,25,Male,Kolkata,90,True,1101,Waived,,17,Self-referral
+P0984,2024-01-17,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,44,Female,Delhi,60,True,943,Waived,1.0,14,Doctor referral
+P2510,2024-10-25,Dr. Neha Desai,T06,Depression,Initial Consultation,30,Male,Bangalore,45,False,895,Paid,,0,Word of mouth
+P4097,2023-03-18,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,110,Female,Bangalore,30,False,765,Paid,,17,Self-referral
+P2024,2023-04-23,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,23,Male,Mumbai,45,True,393,Paid,4.0,1,Self-referral
+P0672,2024-01-03,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,29,Non-binary,Delhi,45,True,424,Paid,5.0,8,Self-referral
+P3293,2024-02-04,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,46,Male,Delhi,45,False,690,Paid,5.0,19,Doctor referral
+P3892,2023-11-11,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,36,Female,Hyderabad,45,True,985,Paid,4.0,9,Online search
+P1066,2023-06-27,Dr. Rohan Gupta,T03,Depression,Initial Consultation,24,Male,Chennai,60,True,993,Paid,3.0,0,Online search
+P3880,01/08/2023,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,28,Male,Hyderabad,45,True,1303,Pending,5.0,1,Word of mouth
+P0962,2023-04-02,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,34,Female,Hyderabad,90,False,343,Waived,,14,Word of mouth
+P3829,2024-03-10,Dr. Meera Iyer,T08,Depression,Group Session,50,Female,Delhi,30,False,341,Paid,1.0,8,Online search
+P4531,13/07/2023,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,35,Male,Mumbai,45,True,1244,Paid,4.0,21,Doctor referral
+P3118,2023-05-12,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,35,Male,Bangalore,60,True,389,Paid,3.0,11,Word of mouth
+P4528,2024-03-16,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,25,Male,Delhi,45,True,618,Paid,3.0,0,NGO partner
+P3903,2024-01-03,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,28,Female,Chennai,90,True,988,Pending,4.0,2,Word of mouth
+P1345,2024-01-27,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,27,Male,Kolkata,45,True,-573,Pending,5.0,20,Doctor referral
+P3039,2023-04-16,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,42,Non-binary,Mumbai,60,True,1367,Pending,2.0,0,NGO partner
+P4738,2024-09-11,Dr. Vikram Singh,T05,Depression,Crisis Intervention,40,Female,Mumbai,30,True,1483,Pending,5.0,2,Word of mouth
+P2706,2024-11-12,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,28,Female,Mumbai,90,True,1193,Paid,,12,Doctor referral
+P3596,2023-04-12,Dr. Neha Desai,T06,Depression,Group Session,32,Male,Delhi,60,True,372,Waived,4.0,8,NGO partner
+P2048,2023-01-08,Dr. Ananya Reddy,T04,Depression,Group Session,22,Female,Hyderabad,90,True,348,Paid,4.0,12,Doctor referral
+P2341,2024-06-03,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,26,Female,Delhi,30,True,444,Paid,3.0,14,Online search
+P2637,2024-07-22,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,30,Male,Delhi,45,True,447,Paid,2.0,7,Word of mouth
+P1500,2023-10-28,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,34,Male,Hyderabad,30,True,1041,Paid,5.0,7,Online search
+P3212,2023-08-25,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,105,Male,Chennai,45,True,1163,Paid,5.0,10,Doctor referral
+P1226,2023-10-04,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,23,Female,Mumbai,45,True,784,Waived,2.0,13,Word of mouth
+P0970,2023-03-20,Dr. Ananya Reddy,T04,Depression,Group Session,47,Male,Bangalore,60,True,354,Paid,5.0,3,Word of mouth
+P0865,2024-06-02,Dr. Priya Patel,T02,Child & Adolescent,Group Session,40,Female,Kolkata,90,True,303,Paid,,4,Word of mouth
+P2242,2023-09-02,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,40,Male,Chennai,90,True,1001,Pending,,0,NGO partner
+P1512,2024-04-25,Dr. Aarav Sharma,T01,Anxiety & Stress,Crisis Intervention,24,Female,Hyderabad,30,True,1055,Paid,4.0,7,Word of mouth
+P0039,2023-03-24,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,21,Non-binary,Kolkata,45,True,1170,Paid,1.0,5,NGO partner
+P3821,2024-04-10,Dr. Arjun Kumar,T07,Depression,Group Session,34,Male,Chennai,60,True,373,Waived,2.0,19,NGO partner
+P0669,2024-08-04,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,39,Male,Bangalore,90,True,826,Paid,1.0,15,NGO partner
+P3780,2024-04-30,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,25,Male,Mumbai,60,True,764,Paid,4.0,6,Word of mouth
+P0208,2023-01-06,Dr. Neha Desai,T06,Depression,Crisis Intervention,50,Female,Hyderabad,90,True,1099,Pending,,2,Doctor referral
+P4272,2024-04-07,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,23,Female,Bangalore,30,True,522,Paid,,1,Word of mouth
+P3786,2023-09-13,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,45,Female,Chennai,60,True,628,Paid,3.0,4,Online search
+P0376,2024-10-01,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,45,Male,Hyderabad,60,True,1198,Paid,5.0,20,Self-referral
+P0766,2023-05-04,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,41,Female,Delhi,30,True,-464,Waived,2.0,2,Online search
+P1071,2023-05-05,Dr. Rohan Gupta,T03,Depression,Initial Consultation,2,Non-binary,Bangalore,60,True,831,Pending,,21,Self-referral
+P3059,2024-04-01,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,110,Male,Delhi,45,True,1125,Paid,2.0,17,Word of mouth
+P4028,2024-01-17,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,25,Male,Delhi,45,True,972,Pending,3.0,9,Word of mouth
+P4286,2024-03-02,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,33,Male,Bangalore,45,True,1354,Pending,3.0,5,NGO partner
+P1848,2024-10-14,Dr. Rohan Gupta,T03,Depression,Follow-up,26,Male,Hyderabad,45,True,600,Paid,3.0,13,NGO partner
+P1328,2023-04-18,Dr. Priya Patel,T02,Trauma & PTSD,Crisis Intervention,36,Male,Hyderabad,30,True,1358,Waived,1.0,5,Doctor referral
+P0487,2023-09-27,Dr. Meera Iyer,T08,Depression,Initial Consultation,41,Male,Delhi,60,True,816,Paid,3.0,21,Self-referral
+P3950,2023-02-14,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,36,Male,Kolkata,30,False,1117,Paid,,13,Doctor referral
+P2413,2024-08-08,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,38,Male,Bangalore,45,True,1078,Pending,1.0,3,Self-referral
+P3427,2023-11-09,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,57,Female,Delhi,90,True,893,Pending,4.0,13,Doctor referral
+P0627,2024-05-20,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,30,Non-binary,Chennai,60,True,1390,Paid,,13,Word of mouth
+P1960,2024-09-17,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,47,Male,Bangalore,45,True,492,Paid,5.0,11,NGO partner
+P1071,2024-01-03,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,45,Male,Bangalore,30,False,1150,Paid,,13,Word of mouth
+P1212,2024-11-30,Dr. Priya Patel,T02,Trauma & PTSD,Crisis Intervention,43,Female,Kolkata,60,False,1103,Paid,,2,Self-referral
+P1543,2024-04-26,Dr. Priya Patel,T02,Child & Adolescent,Group Session,25,Female,Mumbai,30,True,415,Paid,1.0,12,Doctor referral
+P3770,11/09/2024,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,28,Male,Chennai,30,True,769,Paid,4.0,2,Online search
+P0689,2024-05-02,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,33,Male,Bangalore,45,True,1180,Paid,,4,Word of mouth
+P0870,2024-08-22,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,44,Male,Hyderabad,60,True,1158,Paid,5.0,19,Self-referral
+P1294,2023-04-13,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,39,Male,Hyderabad,90,False,502,Waived,,15,Doctor referral
+P2964,2023-09-13,Dr. Priya Patel,T02,Addiction Recovery,Group Session,34,Male,Hyderabad,60,True,386,Paid,3.0,20,NGO partner
+P1854,2024-01-19,Dr. Rohan Gupta,T03,Depression,Follow-up,38,Male,Chennai,90,True,551,Paid,5.0,6,Online search
+P3598,2023-06-07,Dr. Priya Patel,T02,Child & Adolescent,Group Session,44,Prefer not to say,Mumbai,45,True,385,Waived,2.0,15,Online search
+P0102,2023-12-29,,T02,Addiction Recovery,Initial Consultation,44,Male,Bangalore,90,True,1105,Paid,4.0,2,NGO partner
+P4084,2023-09-25,Dr. Aarav Sharma,T01,Depression,Group Session,50,Female,Chennai,45,True,464,Pending,,12,Doctor referral
+P3637,2024-11-07,Dr. Neha Desai,T06,Addiction Recovery,Group Session,46,Female,Bangalore,30,True,378,Paid,2.0,11,NGO partner
+P3976,2024-06-19,Dr. Neha Desai,T06,Depression,Group Session,40,Female,Chennai,90,False,396,Paid,,5,Word of mouth
+P3641,2023-10-30,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,33,Male,Bangalore,60,True,1166,Pending,,2,Doctor referral
+P1287,2023-06-21,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,25,Male,Hyderabad,90,False,905,Paid,,16,Word of mouth
+P0606,2024-08-03,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,35,Female,Hyderabad,90,True,914,Paid,5.0,18,Word of mouth
+P3909,2024-07-01,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,51,Male,Mumbai,90,False,1152,Paid,5.0,9,NGO partner
+P1467,2024-11-22,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,54,Female,Chennai,90,True,854,Paid,4.0,19,Online search
+P1377,2024-08-30,Dr. Aarav Sharma,T01,Addiction Recovery,Follow-up,33,Female,Chennai,45,True,671,Paid,4.0,14,Doctor referral
+P0141,2023-01-13,Dr. Arjun Kumar,T07,Trauma & PTSD,Initial Consultation,27,Male,Hyderabad,90,True,1071,Paid,3.0,5,Self-referral
+P2856,2024-12-09,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,41,Female,Hyderabad,60,True,637,Paid,1.0,14,Word of mouth
+P0961,2023-05-28,Dr. Meera Iyer,T08,Depression,Crisis Intervention,30,Male,Bangalore,30,True,1124,Pending,2.0,13,Online search
+P2285,2023-12-27,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,41,Female,Kolkata,30,False,714,Pending,,21,Online search
+P0088,2023-12-07,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,25,Female,Mumbai,60,False,866,Pending,,12,Doctor referral
+P4011,2024-06-11,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,31,Female,Kolkata,30,True,1222,Paid,1.0,19,Online search
+P2158,2024-10-18,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,39,Male,Delhi,30,True,328,Paid,1.0,20,Online search
+P4307,2024-04-23,Dr. Neha Desai,T06,Child & Adolescent,Follow-up,60,Male,Bangalore,30,True,544,Paid,4.0,4,Online search
+P4702,2023-06-07,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,48,Female,Bangalore,45,True,445,Waived,5.0,12,Self-referral
+P3075,2024-03-05,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,24,Prefer not to say,Bangalore,45,True,711,Paid,5.0,5,Word of mouth
+P4659,2023-03-09,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,41,Male,Delhi,45,True,481,Paid,5.0,6,Self-referral
+P0408,2023-04-02,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,29,Male,Chennai,90,True,1101,Paid,,19,Online search
+P1370,2023-05-04,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,33,Male,Delhi,45,False,1088,Paid,,1,Word of mouth
+P0909,2024-12-24,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,27,Male,Chennai,30,True,1024,Paid,,17,Self-referral
+P3567,2024-01-09,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,22,Male,Kolkata,30,True,1075,Pending,3.0,20,Doctor referral
+P0441,2023-11-04,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,48,Female,Kolkata,45,True,790,Pending,3.0,11,Word of mouth
+P0388,2023-11-10,Dr. Rohan Gupta,T03,Depression,Follow-up,37,Male,Kolkata,60,True,633,Paid,3.0,14,Doctor referral
+P1877,2024-04-08,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,43,Female,Kolkata,45,True,650,Paid,2.0,16,Self-referral
+P0219,2024-03-23,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,28,Female,Mumbai,90,True,913,Pending,,16,Online search
+P1064,2024-11-25,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,29,Female,Kolkata,90,True,369,Paid,4.0,19,Online search
+P4084,2023-08-29,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,39,Male,Kolkata,30,True,1035,Paid,1.0,15,Self-referral
+P0324,2023-10-31,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,35,Female,Kolkata,60,True,418,Waived,,13,Self-referral
+P2305,27/11/2024,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,49,Female,Delhi,30,True,1179,Paid,5.0,9,Self-referral
+P1947,2023-11-12,Dr. Priya Patel,T02,Addiction Recovery,Group Session,26,Male,Bangalore,60,True,481,Paid,4.0,6,NGO partner
+P2748,2024-08-24,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,47,Male,Chennai,90,True,873,Pending,5.0,2,Self-referral
+P1093,2023-12-20,Dr. Priya Patel,T02,Anxiety & Stress,Follow-up,51,Male,Kolkata,60,True,553,Paid,3.0,20,Doctor referral
+P2141,2023-04-25,Dr. Aarav Sharma,T01,Depression,Follow-up,29,Non-binary,Bangalore,45,True,577,Paid,2.0,16,Self-referral
+P1777,2023-09-15,Dr. Vikram Singh,T05,Trauma & PTSD,Follow-up,37,Female,Hyderabad,30,True,517,Paid,5.0,3,Self-referral
+P4929,2024-03-11,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,25,Female,Chennai,60,True,478,Paid,4.0,3,Word of mouth
+P2047,2023-12-31,Dr. Meera Iyer,T08,Depression,Follow-up,50,Female,Kolkata,60,True,570,Pending,,2,NGO partner
+P3392,2024-05-29,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,31,Female,Kolkata,60,True,1158,Pending,,17,Word of mouth
+P1112,2024-11-26,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,34,Male,Chennai,45,True,448,Paid,3.0,9,Online search
+P0584,2024-02-09,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,36,Male,Mumbai,30,True,398,Paid,5.0,12,NGO partner
+P3068,2024-08-08,Dr. Neha Desai,T06,Addiction Recovery,Group Session,41,Prefer not to say,Kolkata,90,True,310,Paid,3.0,0,Doctor referral
+P1595,2024-01-10,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,37,Prefer not to say,Chennai,60,True,1187,Paid,5.0,2,Word of mouth
+P2727,2024-01-04,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,48,Male,Hyderabad,90,True,1044,Pending,,14,NGO partner
+P4027,2023-01-24,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,27,Female,Chennai,60,False,352,Paid,,10,Self-referral
+P1778,2024-06-01,Dr. Ananya Reddy,T04,Depression,Initial Consultation,23,Female,Kolkata,45,True,850,Waived,5.0,17,Self-referral
+P0852,2024-10-03,Dr. Aarav Sharma,T01,Depression,Initial Consultation,45,Male,Chennai,90,True,907,Paid,4.0,20,Self-referral
+P0280,2023-10-18,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,40,Female,Bangalore,30,True,1061,Paid,3.0,11,Doctor referral
+P2828,2024-10-22,,T04,Addiction Recovery,Initial Consultation,54,Non-binary,Bangalore,30,True,1031,Paid,5.0,15,Word of mouth
+P0362,2023-11-18,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,38,Female,Mumbai,30,True,1240,Paid,1.0,21,Online search
+P4375,2023-07-20,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,34,Male,Bangalore,60,True,834,Waived,2.0,5,Doctor referral
+P4654,2023-02-08,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,56,Female,Bangalore,60,False,1336,Paid,,0,Word of mouth
+P4580,2024-12-22,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,39,Male,Mumbai,90,True,1155,Pending,2.0,3,Self-referral
+P2419,2023-05-30,Dr. Ananya Reddy,T04,Depression,Initial Consultation,29,Male,Delhi,60,True,933,Paid,4.0,7,Word of mouth
+P1652,2024-10-04,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,32,Female,Kolkata,60,True,368,Waived,2.0,6,Online search
+P4909,2023-08-16,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,30,Male,Mumbai,45,True,620,Pending,1.0,4,Word of mouth
+P4628,2024-10-11,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,110,Female,Kolkata,45,True,1027,Paid,5.0,4,Self-referral
+P3347,2023-07-31,Dr. Arjun Kumar,T07,Depression,Follow-up,51,Female,Mumbai,60,True,644,Paid,2.0,8,Doctor referral
+P3418,2024-08-13,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,24,Female,Mumbai,90,True,441,Paid,,19,Online search
+P0175,2023-07-14,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,30,Female,Kolkata,45,True,1032,Paid,5.0,4,NGO partner
+P0790,03/07/2023,Dr. Aarav Sharma,T01,Anxiety & Stress,Crisis Intervention,20,Male,Hyderabad,90,True,1309,Waived,5.0,14,Doctor referral
+P0058,12/08/2023,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,35,Female,Kolkata,45,True,1128,Pending,5.0,2,Self-referral
+P4075,2024-06-11,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,29,Prefer not to say,Mumbai,90,False,1255,Paid,,16,Word of mouth
+P2659,2024-01-05,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,36,Male,Delhi,60,True,1141,Paid,4.0,18,Self-referral
+P3909,2024-07-01,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,51,Male,Mumbai,90,False,1152,Paid,5.0,9,NGO partner
+P1927,19/04/2023,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,48,Male,Bangalore,45,True,965,Paid,2.0,13,Word of mouth
+P4377,2023-03-09,Dr. Neha Desai,T06,Depression,Follow-up,36,Female,Chennai,90,True,643,Paid,4.0,5,NGO partner
+P0621,2024-01-20,,T03,Child & Adolescent,Follow-up,38,Male,Kolkata,90,True,-556,Waived,4.0,21,Online search
+P4011,2024-06-07,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,24,Male,Mumbai,90,True,1101,Paid,,13,Word of mouth
+P3850,2024-04-09,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,30,Female,Delhi,30,True,885,Paid,5.0,13,Self-referral
+P2040,2023-01-17,Dr. Meera Iyer,T08,Depression,Group Session,28,Male,Chennai,30,True,486,Paid,2.0,4,NGO partner
+P4166,2023-01-20,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,35,Female,Kolkata,90,True,-466,Pending,,19,NGO partner
+P3061,2023-08-13,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,45,Non-binary,Hyderabad,90,True,744,Pending,5.0,17,Doctor referral
+P0080,2024-11-24,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,39,Prefer not to say,Delhi,60,True,661,Paid,5.0,2,Word of mouth
+P0747,2023-08-14,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,41,Female,Hyderabad,60,True,696,Paid,2.0,15,Self-referral
+P3597,2023-09-08,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,33,Female,Bangalore,90,False,508,Paid,,14,Word of mouth
+P2209,2024-04-05,Dr. Ananya Reddy,T04,Depression,Follow-up,30,Male,Bangalore,45,True,641,Paid,,14,Doctor referral
+P4891,2024-02-14,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,53,Female,Chennai,30,True,372,Paid,4.0,11,Word of mouth
+P4055,2023-03-27,Dr. Neha Desai,T06,Depression,Initial Consultation,38,Female,Chennai,90,True,851,Pending,5.0,21,Online search
+P4184,2023-10-30,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,45,Male,Bangalore,30,True,1082,Pending,1.0,14,NGO partner
+P3724,2023-12-17,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,45,Male,Chennai,45,True,1108,Paid,3.0,15,Doctor referral
+P0001,2024-01-08,Dr. Vikram Singh,T05,Depression,Follow-up,34,Male,Kolkata,30,False,716,Paid,,16,Online search
+P0195,2024-10-21,Dr. Neha Desai,T06,Depression,Initial Consultation,52,Female,Hyderabad,60,True,1066,Paid,3.0,10,Doctor referral
+P0583,2023-10-30,Dr. Rohan Gupta,T03,Depression,Follow-up,39,Male,Hyderabad,90,True,534,Paid,1.0,8,Word of mouth
+P4388,2023-06-01,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,21,Male,Bangalore,60,True,854,Pending,3.0,12,Word of mouth
+P4444,2024-03-12,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,41,Female,Delhi,30,False,478,Waived,,19,Online search
+P2254,2023-05-31,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,26,Female,Hyderabad,45,True,988,Pending,5.0,20,Doctor referral
+P0323,2024-11-25,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,50,Female,Bangalore,30,False,549,Paid,,18,Online search
+P4986,2023-07-17,Dr. Priya Patel,T02,Depression,Follow-up,48,Male,Hyderabad,90,True,636,Paid,3.0,5,Self-referral
+P3004,2023-03-04,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,31,Female,Hyderabad,90,True,1115,Paid,2.0,4,Self-referral
+P1482,2023-08-08,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,47,Female,Bangalore,90,True,1187,Paid,1.0,6,NGO partner
+P4207,31/05/2024,Dr. Rohan Gupta,T03,Depression,Initial Consultation,49,Male,Bangalore,45,True,866,Pending,4.0,2,Online search
+P0657,2024-06-14,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,24,Female,Bangalore,45,True,726,Paid,5.0,21,Online search
+P2063,2024-03-29,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,37,Female,Chennai,60,False,733,Pending,,15,Doctor referral
+P0242,2023-04-28,Dr. Vikram Singh,T05,Depression,Initial Consultation,22,Female,Kolkata,30,True,1183,Paid,5.0,14,Word of mouth
+P3902,2024-07-02,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,32,Male,Mumbai,90,False,1293,Paid,,1,NGO partner
+P1590,2024-07-21,,T05,Addiction Recovery,Initial Consultation,27,Female,Kolkata,45,False,1070,Waived,,15,NGO partner
+P4581,2023-04-07,Dr. Neha Desai,T06,Depression,Initial Consultation,41,Prefer not to say,Kolkata,30,True,1119,Paid,3.0,6,Online search
+P0754,2023-07-08,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,51,Female,Delhi,45,True,1058,Paid,4.0,21,Online search
+P4210,2024-10-13,Dr. Arjun Kumar,T07,Depression,Group Session,34,Male,Hyderabad,45,True,312,Paid,1.0,3,NGO partner
+P3427,2023-08-09,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,23,Female,Mumbai,60,True,537,Pending,3.0,1,Online search
+P3129,2023-02-11,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,24,Male,Hyderabad,30,True,967,Paid,1.0,10,Online search
+P3325,2023-10-01,Dr. Arjun Kumar,T07,Depression,Group Session,24,Male,Mumbai,45,True,465,Paid,2.0,6,Self-referral
+P2013,2024-06-17,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,29,Female,Chennai,90,True,1031,Paid,,1,NGO partner
+P3439,2023-04-22,Dr. Rohan Gupta,T03,Depression,Initial Consultation,37,Male,Chennai,30,True,903,Paid,,5,Word of mouth
+P1827,2024-11-01,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,34,Male,Kolkata,90,True,1486,Paid,,21,Online search
+P3465,2024-12-24,Dr. Arjun Kumar,T07,Depression,Initial Consultation,29,Female,Bangalore,60,False,1065,Paid,,9,NGO partner
+P3511,2023-04-14,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,33,Prefer not to say,Mumbai,45,True,-842,Paid,5.0,1,Self-referral
+P3882,2024-06-22,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,37,Female,Chennai,90,False,1366,Pending,,20,NGO partner
+P0805,2023-03-26,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,25,Male,Chennai,60,False,746,Paid,,1,NGO partner
+P1110,2023-05-30,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,57,Female,Delhi,30,False,418,Waived,,8,Online search
+P4724,2023-03-06,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,43,Female,Delhi,60,True,467,Paid,5.0,16,NGO partner
+P1013,2024-10-31,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,34,Male,Kolkata,90,True,824,Paid,4.0,4,Doctor referral
+P3009,2023-02-19,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,36,Male,Kolkata,90,True,1079,Paid,5.0,7,Word of mouth
+P0292,2024-07-18,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,29,Male,Chennai,45,True,1484,Paid,1.0,20,Online search
+P0646,2024-01-07,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,31,Male,Hyderabad,90,True,361,Paid,,2,NGO partner
+P1903,2023-11-25,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,50,Male,Hyderabad,30,True,465,Paid,5.0,5,Word of mouth
+P3384,2023-05-26,,T01,Addiction Recovery,Group Session,42,Female,Bangalore,30,True,323,Paid,5.0,18,Self-referral
+P1069,2023-09-01,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,40,Female,Mumbai,30,True,353,Paid,1.0,18,Doctor referral
+P4253,2024-11-10,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,38,Male,Mumbai,60,False,1142,Paid,,13,Self-referral
+P1274,2023-12-20,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,42,Female,Delhi,90,True,1244,Paid,5.0,18,Online search
+P2778,2024-03-23,Dr. Neha Desai,T06,Depression,Crisis Intervention,40,Male,Bangalore,90,True,1380,Paid,,11,NGO partner
+P1233,2023-03-20,Dr. Vikram Singh,T05,Depression,Initial Consultation,48,Female,Chennai,30,True,884,Pending,4.0,9,Word of mouth
+P2181,2023-08-18,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,29,Male,Hyderabad,90,False,597,Paid,,12,Doctor referral
+P1296,2024-12-19,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,48,Female,Delhi,60,True,1139,Paid,5.0,4,Self-referral
+P1305,2024-05-14,Dr. Rohan Gupta,T03,Anxiety & Stress,Crisis Intervention,23,Female,Chennai,90,False,1153,Paid,,10,Word of mouth
+P0716,2024-08-20,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,46,Male,Bangalore,45,True,642,Paid,4.0,15,Online search
+P1479,2023-03-26,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,31,Female,Kolkata,60,True,1040,Pending,,3,Self-referral
+P4519,2024-10-31,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,41,Female,Mumbai,90,True,1039,Paid,5.0,2,Online search
+P2554,2024-07-27,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,41,Female,Kolkata,30,True,1193,Paid,3.0,19,Doctor referral
+P4891,2024-04-13,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,24,Female,Chennai,90,True,934,Paid,3.0,18,Self-referral
+P4437,2024-01-24,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,48,Male,Mumbai,60,True,720,Paid,1.0,8,NGO partner
+P0087,2023-04-02,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,30,Prefer not to say,Chennai,45,True,1157,Paid,3.0,11,Online search
+P2227,2023-04-27,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,30,Female,Hyderabad,90,False,1204,Paid,,13,Doctor referral
+P1632,2023-02-03,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,105,Male,Kolkata,90,False,-1025,Paid,,16,Word of mouth
+P1603,2023-05-21,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,58,Male,Bangalore,45,False,1446,Paid,,15,Doctor referral
+P4639,2023-10-08,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,58,Male,Mumbai,30,True,330,Paid,1.0,2,Doctor referral
+P4597,2024-12-25,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,22,Male,Hyderabad,30,True,1092,Waived,3.0,6,NGO partner
+P2835,2024-06-14,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,44,Male,Kolkata,30,True,655,Paid,2.0,8,Doctor referral
+P4065,2024-08-04,Dr. Arjun Kumar,T07,Depression,Initial Consultation,45,Male,Delhi,90,True,974,Paid,5.0,16,Online search
+P0549,2024-03-04,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,32,Male,Mumbai,60,True,1017,Paid,4.0,21,Online search
+P2472,2023-02-03,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,29,Male,Mumbai,30,True,1040,Paid,1.0,19,Doctor referral
+P4702,2024-04-25,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,45,Female,Bangalore,60,False,1262,Pending,,9,Online search
+P1700,2024-12-20,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,29,Female,Hyderabad,60,True,1177,Paid,3.0,2,NGO partner
+P0646,2023-02-14,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,43,Male,Kolkata,60,True,1274,Waived,,18,Doctor referral
+P0101,2023-08-22,Dr. Priya Patel,T02,Depression,Initial Consultation,110,Female,Mumbai,90,False,822,Paid,,11,Word of mouth
+P4943,2023-02-26,,T03,Addiction Recovery,Group Session,27,Male,Kolkata,30,True,309,Pending,5.0,1,Self-referral
+P2709,2024-07-15,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,33,Male,Mumbai,30,True,1466,Paid,,21,Self-referral
+P4991,2024-01-15,Dr. Rohan Gupta,T03,Depression,Group Session,28,Male,Chennai,45,True,353,Paid,1.0,5,Word of mouth
+P3070,2023-12-01,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,31,Male,Kolkata,30,False,385,Pending,,5,Online search
+P0520,2023-11-25,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,48,Female,Kolkata,90,True,368,Paid,1.0,15,NGO partner
+P1559,2024-05-15,,T05,Depression,Group Session,33,Female,Chennai,45,False,439,Paid,,1,Online search
+P0766,2024-11-05,Dr. Rohan Gupta,T03,Depression,Initial Consultation,28,Female,Hyderabad,60,True,945,Paid,3.0,7,Doctor referral
+P4782,2024-05-06,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,28,Female,Bangalore,90,True,341,Paid,,4,Word of mouth
+P0732,2023-05-04,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,26,Female,Mumbai,60,True,1355,Paid,4.0,11,Online search
+P0303,2024-12-13,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,52,Male,Delhi,30,True,1323,Paid,4.0,6,Self-referral
+P3252,2023-03-07,Dr. Vikram Singh,T05,Depression,Crisis Intervention,41,Male,Delhi,30,True,1459,Paid,1.0,18,NGO partner
+P2788,2023-08-27,Dr. Arjun Kumar,T07,Trauma & PTSD,Follow-up,30,Male,Delhi,30,True,632,Paid,1.0,18,Online search
+P3849,2023-03-20,Dr. Ananya Reddy,T04,Depression,Initial Consultation,44,Female,Hyderabad,60,True,1091,Paid,2.0,15,Word of mouth
+P4902,2024-03-28,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,105,Male,Kolkata,30,True,1043,Pending,2.0,18,Word of mouth
+P4339,2023-05-25,,T05,Anxiety & Stress,Group Session,35,Male,Chennai,90,True,371,Paid,4.0,11,Online search
+P1006,2023-03-08,,T03,Depression,Group Session,20,Male,Bangalore,90,True,350,Paid,4.0,8,NGO partner
+P0422,2023-12-29,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,42,Male,Chennai,60,False,1444,Paid,,11,Self-referral
+P2885,2023-05-24,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,38,Male,Chennai,45,True,1355,Paid,,3,Self-referral
+P0249,2023-01-31,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,39,Male,Kolkata,45,True,1191,Paid,1.0,20,NGO partner
+P4418,2024-06-28,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,32,Male,Hyderabad,90,True,847,Pending,5.0,16,Word of mouth
+P0034,2024-01-18,Dr. Ananya Reddy,T04,Depression,Initial Consultation,41,Female,Delhi,60,True,964,Paid,1.0,9,Doctor referral
+P1387,2023-07-15,Dr. Neha Desai,T06,Addiction Recovery,Group Session,2,Female,Chennai,90,True,388,Paid,3.0,19,Doctor referral
+P4962,2023-11-05,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,23,Male,Bangalore,30,True,1338,Pending,5.0,16,NGO partner
+P3045,2023-11-11,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,37,Female,Chennai,60,False,1403,Paid,,14,Self-referral
+P2239,2023-03-09,Dr. Arjun Kumar,T07,Depression,Group Session,46,Female,Delhi,60,True,463,Pending,,0,Self-referral
+P4302,2024-06-22,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,48,Female,Chennai,60,False,788,Paid,,17,Doctor referral
+P3106,2023-10-30,Dr. Meera Iyer,T08,Depression,Group Session,45,Male,Mumbai,60,True,438,Paid,5.0,19,Doctor referral
+P1258,2024-12-29,Dr. Rohan Gupta,T03,Depression,Group Session,34,Female,Delhi,30,False,346,Paid,,1,Online search
+P3294,2023-09-29,Dr. Vikram Singh,T05,Depression,Initial Consultation,35,Female,Chennai,30,False,952,Paid,,18,Self-referral
+P2931,2024-02-12,Dr. Neha Desai,T06,Depression,Initial Consultation,36,Male,Mumbai,45,True,858,Pending,2.0,21,Online search
+P4549,2024-02-28,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,40,Female,Mumbai,45,True,1066,Paid,3.0,18,Online search
+P1559,2024-05-15,,T05,Depression,Group Session,33,Female,Chennai,45,False,439,Paid,,1,Online search
+P0669,2024-05-26,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,51,Female,Bangalore,30,True,-894,Paid,3.0,16,Online search
+P2578,2024-10-12,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,30,Male,Chennai,30,True,784,Paid,2.0,11,Self-referral
+P0203,2024-03-18,Dr. Meera Iyer,T08,Depression,Crisis Intervention,43,Male,Bangalore,45,True,1188,Paid,4.0,8,Self-referral
+P1077,2023-11-29,Dr. Rohan Gupta,T03,Anxiety & Stress,Crisis Intervention,39,Female,Mumbai,30,True,1256,Waived,4.0,4,Doctor referral
+P3450,2024-09-12,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,38,Prefer not to say,Delhi,90,True,373,Paid,4.0,20,Doctor referral
+P3852,2023-03-13,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,51,Male,Mumbai,90,True,1183,Paid,5.0,8,NGO partner
+P4865,2023-09-03,,T03,Child & Adolescent,Follow-up,51,Female,Kolkata,30,True,782,Paid,4.0,7,Online search
+P2251,2024-07-08,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,37,Prefer not to say,Delhi,60,True,1046,Paid,5.0,12,Doctor referral
+P3506,2024-07-21,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,28,Male,Mumbai,90,False,1148,Paid,,21,Online search
+P4679,2023-01-07,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,38,Non-binary,Hyderabad,90,True,1426,Paid,3.0,16,Doctor referral
+P4062,2023-11-03,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,37,Male,Chennai,45,True,1400,Paid,2.0,14,Self-referral
+P2262,2023-03-07,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,37,Female,Kolkata,30,False,316,Paid,,19,Word of mouth
+P4862,2024-04-30,Dr. Neha Desai,T06,Child & Adolescent,Follow-up,32,Non-binary,Delhi,90,True,526,Paid,3.0,7,Self-referral
+P2210,2024-02-01,Dr. Rohan Gupta,T03,Depression,Group Session,29,Female,Kolkata,45,True,334,Pending,3.0,1,NGO partner
+P2589,2024-06-16,Dr. Rohan Gupta,T03,Depression,Follow-up,39,Male,Kolkata,45,True,554,Pending,4.0,15,Word of mouth
+P0672,2024-01-05,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,35,Male,Mumbai,90,True,1050,Paid,4.0,4,Word of mouth
+P4814,2024-04-21,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,37,Non-binary,Hyderabad,90,True,473,Paid,3.0,8,Word of mouth
+P2792,2024-08-30,Dr. Priya Patel,T02,Anxiety & Stress,Follow-up,38,Female,Chennai,30,True,742,Paid,,20,Online search
+P3693,2024-12-15,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,39,Prefer not to say,Hyderabad,90,True,1091,Pending,,11,Word of mouth
+P3872,20/08/2024,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,46,Female,Mumbai,30,False,1050,Paid,,18,Online search
+P1147,2024-08-18,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,28,Female,Chennai,45,True,679,Paid,5.0,3,Online search
+P1122,2023-11-16,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,54,Female,Bangalore,45,True,1150,Pending,3.0,8,Online search
+P1263,2023-04-02,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,25,Male,Kolkata,90,True,906,Pending,3.0,13,Online search
+P0086,2023-07-10,Dr. Priya Patel,T02,Depression,Group Session,34,Male,Hyderabad,60,True,451,Pending,2.0,14,Self-referral
+P3530,2023-01-22,,T03,Depression,Follow-up,30,Male,Mumbai,60,True,714,Paid,5.0,8,Self-referral
+P4360,2024-06-03,Dr. Neha Desai,T06,Depression,Crisis Intervention,48,Female,Kolkata,60,True,1263,Paid,3.0,21,NGO partner
+P0459,2023-04-13,Dr. Rohan Gupta,T03,Depression,Follow-up,31,Female,Chennai,90,True,623,Paid,,11,Doctor referral
+P2496,2023-07-12,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,110,Male,Delhi,30,True,1055,Paid,,21,NGO partner
+P2945,2023-11-17,Dr. Aarav Sharma,T01,Depression,Follow-up,39,Male,Hyderabad,60,True,613,Waived,3.0,15,Word of mouth
+P2585,2024-06-13,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,22,Male,Delhi,90,False,411,Paid,,1,Doctor referral
+P0760,2023-12-15,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,23,Female,Mumbai,60,True,339,Paid,1.0,11,NGO partner
+P0263,2023-10-04,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,34,Male,Bangalore,60,True,666,Paid,2.0,2,Doctor referral
+P2808,2023-02-25,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,37,Male,Chennai,90,False,570,Paid,,4,Online search
+P1455,2023-04-10,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,46,Prefer not to say,Delhi,90,True,691,Paid,,0,NGO partner
+P2931,2024-04-14,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,38,Female,Chennai,45,False,302,Paid,,11,NGO partner
+P0581,2023-08-23,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,41,Male,Delhi,60,False,-816,Paid,,21,Word of mouth
+P0567,2024-04-17,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,51,Female,Hyderabad,90,True,724,Paid,,4,Online search
+P0544,2024-09-30,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,38,Male,Mumbai,90,False,1485,Paid,,12,Word of mouth
+P4141,2023-10-16,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,40,Male,Kolkata,30,True,675,Paid,3.0,2,Word of mouth
+P1311,2023-10-09,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,110,Male,Delhi,90,True,838,Paid,5.0,1,Doctor referral
+P4015,2024-10-10,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,31,Male,Hyderabad,30,True,-482,Paid,4.0,17,Word of mouth
+P1700,2024-07-23,,T07,Anxiety & Stress,Crisis Intervention,26,Non-binary,Delhi,45,True,1032,Paid,1.0,0,NGO partner
+P2480,2023-11-07,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,34,Female,Delhi,45,True,476,Pending,4.0,0,Doctor referral
+P3020,2023-07-28,Dr. Vikram Singh,T05,Depression,Crisis Intervention,50,Female,Bangalore,30,True,1079,Paid,4.0,15,Doctor referral
+P4958,2023-02-22,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,26,Female,Kolkata,30,True,607,Paid,3.0,17,Online search
+P1013,2024-04-13,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,36,Female,Mumbai,45,True,1057,Pending,,9,Doctor referral
+P1736,2023-04-05,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,33,Male,Chennai,30,False,1500,Paid,,7,Word of mouth
+P1470,2024-08-08,Dr. Priya Patel,T02,Depression,Group Session,32,Female,Chennai,30,True,330,Paid,,12,Self-referral
+P0564,2024-06-02,Dr. Ananya Reddy,T04,Depression,Group Session,43,Female,Kolkata,60,False,333,Paid,,5,Word of mouth
+P3747,2024-02-29,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,29,Female,Chennai,45,True,1124,Paid,4.0,15,Self-referral
+P0637,2023-08-03,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,23,Female,Bangalore,90,True,540,Waived,1.0,1,Doctor referral
+P1353,2024-03-22,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,29,Female,Delhi,30,True,1014,Paid,4.0,12,NGO partner
+P3012,2023-06-08,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,27,Male,Kolkata,45,True,1114,Paid,5.0,13,NGO partner
+P4346,2024-01-05,Dr. Neha Desai,T06,Child & Adolescent,Group Session,21,Female,Chennai,30,False,355,Paid,,3,Online search
+P3809,2024-06-18,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,48,Male,Hyderabad,60,True,457,Paid,4.0,10,Doctor referral
+P1626,2024-03-20,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,30,Non-binary,Delhi,60,False,983,Paid,,1,Doctor referral
+P2615,2024-05-05,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,32,Male,Hyderabad,90,False,345,Paid,,18,Doctor referral
+P3055,2023-09-11,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,33,Female,Bangalore,90,True,1224,Paid,3.0,10,NGO partner
+P0082,2024-05-01,,T08,Trauma & PTSD,Follow-up,30,Female,Chennai,45,True,723,Paid,4.0,2,NGO partner
+P0307,2024-05-29,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,30,Male,Delhi,45,True,512,Paid,5.0,21,Word of mouth
+P4216,2024-04-10,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,31,Female,Hyderabad,90,True,961,Paid,4.0,13,Self-referral
+P3444,2024-04-30,Dr. Rohan Gupta,T03,Anxiety & Stress,Crisis Intervention,32,Male,Mumbai,45,True,1003,Paid,2.0,6,Self-referral
+P4405,2024-11-05,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,41,Female,Kolkata,30,True,386,Paid,4.0,18,Self-referral
+P3817,2024-12-11,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,31,Female,Mumbai,45,True,609,Pending,5.0,13,Word of mouth
+P3845,2023-09-09,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,59,Male,Kolkata,60,True,1032,Paid,5.0,17,Word of mouth
+P4286,2023-12-12,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,34,Female,Hyderabad,45,True,1007,Paid,,18,Doctor referral
+P2802,2024-11-16,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,18,Female,Delhi,45,True,347,Paid,4.0,11,Word of mouth
+P0619,2024-05-31,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,24,Female,Mumbai,30,True,437,Paid,1.0,17,Doctor referral
+P0595,2023-03-11,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,47,Male,Delhi,45,False,1262,Paid,,20,Word of mouth
+P3463,2023-06-29,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,32,Male,Bangalore,45,True,987,Waived,1.0,11,Self-referral
+P1441,2024-09-23,Dr. Neha Desai,T06,Depression,Crisis Intervention,51,Male,Mumbai,90,True,-1022,Paid,5.0,16,Self-referral
+P1687,2023-05-24,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,26,Male,Delhi,60,True,1063,Paid,2.0,10,Self-referral
+P1951,2024-06-18,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,25,Female,Mumbai,60,False,427,Pending,,10,NGO partner
+P1949,2024-05-25,Dr. Meera Iyer,T08,Depression,Initial Consultation,48,Male,Chennai,90,False,1111,Paid,,14,Word of mouth
+P0910,2023-07-01,Dr. Priya Patel,T02,Depression,Follow-up,48,Male,Hyderabad,60,True,653,Waived,,9,Self-referral
+P0696,2024-05-24,Dr. Vikram Singh,T05,Depression,Initial Consultation,47,Female,Hyderabad,30,True,1021,Paid,5.0,11,Online search
+P0217,2023-04-22,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,52,Male,Delhi,90,True,357,Paid,3.0,6,Doctor referral
+P1384,26/08/2023,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,49,Female,Chennai,30,True,336,Pending,5.0,17,NGO partner
+P1517,2023-08-25,Dr. Vikram Singh,T05,Depression,Initial Consultation,32,Male,Delhi,90,True,1169,Waived,5.0,8,NGO partner
+P1704,2023-09-26,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,34,Female,Mumbai,90,True,547,Pending,,0,Word of mouth
+P2476,2023-01-26,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,46,Female,Mumbai,45,True,456,Pending,4.0,1,Self-referral
+P2500,2024-08-26,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,23,Male,Delhi,45,False,1024,Paid,,15,Self-referral
+P1428,2023-10-18,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,27,Male,Chennai,45,False,612,Paid,1.0,5,Doctor referral
+P1665,2024-04-22,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,36,Male,Kolkata,90,True,1169,Paid,,1,NGO partner
+P0638,2024-09-18,Dr. Neha Desai,T06,Depression,Follow-up,20,Female,Kolkata,60,True,789,Paid,3.0,5,Self-referral
+P3291,2023-03-09,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,36,Male,Chennai,90,True,1146,Paid,4.0,7,NGO partner
+P4497,2023-07-18,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,42,Male,Hyderabad,30,True,892,Waived,1.0,9,Self-referral
+P2941,2024-01-29,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,33,Female,Hyderabad,60,True,1062,Waived,,12,Self-referral
+P4189,16/10/2023,Dr. Vikram Singh,T05,Depression,Crisis Intervention,33,Male,Delhi,60,True,1042,Paid,2.0,3,Online search
+P3901,2023-12-23,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,38,Female,Hyderabad,90,False,1480,Paid,,9,NGO partner
+P0566,2023-02-16,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,26,Female,Mumbai,60,True,1176,Paid,1.0,13,Doctor referral
+P2370,2023-02-12,Dr. Meera Iyer,T08,Depression,Initial Consultation,27,Male,Mumbai,30,False,1037,Paid,,15,Online search
+P0909,2024-02-29,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,32,Female,Hyderabad,90,True,355,Paid,4.0,16,Online search
+P4352,2024-07-24,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,47,Female,Chennai,60,True,562,Paid,,14,NGO partner
+P2476,2023-07-18,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,24,Female,Bangalore,45,True,500,Paid,1.0,3,Online search
+P4643,2024-12-30,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,40,Male,Hyderabad,60,True,1475,Pending,2.0,12,Doctor referral
+P2810,2024-12-22,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,61,Female,Hyderabad,90,True,1473,Paid,,6,NGO partner
+P4717,2023-06-17,,T02,Child & Adolescent,Group Session,41,Female,Bangalore,45,True,327,Paid,,2,NGO partner
+P0335,2024-06-11,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,29,Male,Kolkata,45,True,313,Paid,5.0,20,NGO partner
+P4186,2024-05-31,Dr. Priya Patel,T02,Depression,Follow-up,31,Non-binary,Delhi,45,True,703,Waived,,0,Doctor referral
+P4539,2024-07-02,Dr. Meera Iyer,T08,Depression,Group Session,45,Female,Bangalore,60,True,326,Paid,3.0,18,Self-referral
+P3219,2024-06-08,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,40,Male,Chennai,60,True,1472,Pending,3.0,5,Doctor referral
+P0409,2024-08-31,Dr. Rohan Gupta,T03,Depression,Group Session,44,Female,Mumbai,45,True,435,Paid,1.0,3,Self-referral
+P3134,2024-10-18,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,45,Female,Bangalore,90,False,1191,Pending,,2,NGO partner
+P2344,2023-11-14,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,55,Prefer not to say,Mumbai,60,True,1417,Paid,2.0,8,Self-referral
+P3977,2024-09-28,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,43,Female,Kolkata,90,True,1327,Paid,3.0,11,Doctor referral
+P3359,2023-04-13,Dr. Neha Desai,T06,Depression,Crisis Intervention,55,Prefer not to say,Mumbai,90,True,1051,Waived,2.0,8,Online search
+P1620,22/10/2023,,T08,Addiction Recovery,Initial Consultation,53,Male,Delhi,45,True,-1026,Paid,2.0,3,Self-referral
+P0422,2023-12-29,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,42,Male,Chennai,60,False,1444,Paid,,11,Self-referral
+P1786,2024-05-22,Dr. Meera Iyer,T08,Depression,Follow-up,56,Male,Kolkata,60,True,542,Paid,4.0,7,Self-referral
+P1609,2024-11-07,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,34,Female,Chennai,90,True,1374,Pending,2.0,8,Word of mouth
+P2543,2023-12-15,,T04,Addiction Recovery,Crisis Intervention,57,Male,Delhi,30,False,1375,Paid,,16,Doctor referral
+P3766,2024-07-28,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,32,Female,Kolkata,60,True,469,Paid,2.0,21,Online search
+P0327,2024-04-27,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,29,Female,Bangalore,60,True,808,Paid,2.0,20,NGO partner
+P3898,2024-08-20,Dr. Aarav Sharma,T01,Addiction Recovery,Follow-up,35,Female,Chennai,60,True,675,Pending,5.0,5,NGO partner
+P0546,2023-02-24,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,24,Male,Hyderabad,60,False,1335,Paid,,21,Online search
+P0427,2023-03-08,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,2,Male,Delhi,45,False,1035,Pending,,2,Doctor referral
+P2392,2023-04-27,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,50,Female,Chennai,60,True,1188,Pending,3.0,3,Self-referral
+P2692,2023-03-12,Dr. Ananya Reddy,T04,Depression,Follow-up,22,Female,Chennai,30,True,800,Paid,,8,Doctor referral
+P1101,01/11/2024,Dr. Arjun Kumar,T07,Depression,Group Session,36,Female,Bangalore,45,True,487,Paid,2.0,16,Self-referral
+P4199,2023-08-14,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,47,Male,Kolkata,60,True,1140,Waived,4.0,17,Doctor referral
+P0921,2024-12-01,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,49,Female,Delhi,30,False,1351,Paid,5.0,7,Self-referral
+P1426,26/08/2023,Dr. Neha Desai,T06,Child & Adolescent,Follow-up,43,Male,Bangalore,30,False,553,Paid,,1,NGO partner
+P4517,2024-01-26,Dr. Neha Desai,T06,Depression,Group Session,36,Male,Bangalore,90,True,416,Pending,1.0,7,Word of mouth
+P4536,2023-01-07,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,23,Female,Chennai,45,True,356,Pending,3.0,3,Self-referral
+P2546,2023-05-05,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,25,Male,Mumbai,90,True,1122,Paid,2.0,2,Doctor referral
+P0653,2024-07-28,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,33,Male,Hyderabad,45,True,345,Paid,4.0,15,Self-referral
+P1848,2024-05-19,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,30,Female,Hyderabad,30,True,564,Pending,2.0,12,Online search
+P3323,2024-12-24,Dr. Priya Patel,T02,Trauma & PTSD,Crisis Intervention,30,Female,Delhi,60,True,1130,Paid,1.0,4,NGO partner
+P3884,2024-10-29,Dr. Vikram Singh,T05,Depression,Crisis Intervention,47,Male,Hyderabad,45,True,1262,Paid,1.0,19,Self-referral
+P3994,2024-03-08,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,38,Female,Bangalore,60,True,475,Paid,1.0,17,Self-referral
+P0999,2023-11-12,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,34,Male,Delhi,60,True,673,Paid,4.0,10,Online search
+P4973,2023-05-24,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,33,Prefer not to say,Delhi,60,True,1420,Paid,1.0,3,NGO partner
+P4205,2024-07-26,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,27,Female,Chennai,60,True,1057,Pending,,14,Word of mouth
+P3703,2024-05-16,Dr. Arjun Kumar,T07,Anxiety & Stress,Follow-up,60,Male,Hyderabad,30,True,795,Pending,4.0,12,NGO partner
+P1307,2023-01-12,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,35,Female,Mumbai,60,True,300,Pending,5.0,6,Doctor referral
+P0754,2023-03-18,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,27,Female,Mumbai,30,True,833,Paid,2.0,14,Self-referral
+P2664,2023-11-02,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,34,Male,Kolkata,60,True,1046,Waived,,6,Doctor referral
+P2251,2024-10-04,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,49,Female,Mumbai,60,True,338,Paid,3.0,16,Self-referral
+P1579,2023-08-04,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,32,Male,Delhi,90,True,1167,Paid,5.0,19,Doctor referral
+P2338,2024-01-27,Dr. Neha Desai,T06,Depression,Group Session,41,Prefer not to say,Delhi,60,True,323,Paid,2.0,2,Doctor referral
+P2274,2024-03-09,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,37,Non-binary,Kolkata,30,True,1042,Paid,2.0,16,Doctor referral
+P1493,2024-10-02,,T05,Child & Adolescent,Crisis Intervention,2,Female,Mumbai,60,False,-1057,Paid,,16,Word of mouth
+P1148,2023-12-05,Dr. Meera Iyer,T08,Depression,Crisis Intervention,56,Female,Chennai,60,True,1358,Paid,1.0,0,Doctor referral
+P1318,2023-04-04,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,29,Female,Bangalore,90,True,1178,Paid,1.0,9,Word of mouth
+P2292,2024-11-01,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,32,Male,Hyderabad,60,True,1050,Paid,,6,Word of mouth
+P4950,30/03/2024,Dr. Neha Desai,T06,Depression,Initial Consultation,45,Female,Chennai,45,True,946,Paid,1.0,0,Word of mouth
+P2713,2023-03-13,Dr. Vikram Singh,T05,Anxiety & Stress,Group Session,25,Male,Mumbai,60,True,389,Paid,5.0,5,NGO partner
+P0876,2024-07-25,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,34,Prefer not to say,Delhi,45,True,610,Paid,3.0,10,Word of mouth
+P4594,2023-07-10,Dr. Priya Patel,T02,Anxiety & Stress,Follow-up,44,Male,Mumbai,45,False,756,Paid,,16,Online search
+P2093,2024-12-12,Dr. Rohan Gupta,T03,Depression,Initial Consultation,41,Male,Mumbai,60,True,992,Paid,1.0,6,NGO partner
+P4921,2024-12-09,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,42,Prefer not to say,Hyderabad,60,False,357,Paid,,12,Word of mouth
+P1562,2023-12-08,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,36,Female,Delhi,60,True,668,Paid,3.0,0,Online search
+P3694,2024-05-13,Dr. Priya Patel,T02,Depression,Initial Consultation,28,Female,Delhi,60,True,907,Paid,3.0,0,Doctor referral
+P0637,2024-02-05,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,34,Female,Mumbai,30,True,751,Paid,2.0,0,NGO partner
+P3570,2023-01-11,Dr. Aarav Sharma,T01,Depression,Follow-up,36,Prefer not to say,Delhi,30,False,553,Paid,,6,Online search
+P2125,2023-10-07,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,34,Female,Kolkata,30,False,590,Paid,4.0,15,Online search
+P3659,2023-10-17,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,36,Female,Bangalore,60,True,450,Paid,2.0,10,NGO partner
+P1173,2024-09-16,Dr. Priya Patel,T02,Depression,Crisis Intervention,49,Male,Bangalore,60,True,1317,Paid,5.0,14,Online search
+P1009,2024-05-05,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,38,Prefer not to say,Mumbai,30,True,624,Paid,5.0,17,Online search
+P0824,2023-08-29,Dr. Priya Patel,T02,Child & Adolescent,Group Session,34,Prefer not to say,Delhi,60,True,358,Waived,1.0,0,Self-referral
+P3503,2024-03-25,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,28,Female,Mumbai,90,True,1352,Paid,2.0,10,Word of mouth
+P2927,2023-06-01,Dr. Aarav Sharma,T01,Child & Adolescent,Crisis Intervention,53,Male,Mumbai,45,True,1438,Paid,,18,Word of mouth
+P4532,2024-05-19,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,30,Female,Mumbai,90,True,1486,Paid,4.0,0,Word of mouth
+P3108,2023-06-05,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,43,Female,Bangalore,45,True,1103,Waived,4.0,16,NGO partner
+P4171,2023-08-24,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,24,Male,Bangalore,45,True,1003,Paid,3.0,4,NGO partner
+P4000,2024-08-05,Dr. Arjun Kumar,T07,Trauma & PTSD,Follow-up,32,Female,Mumbai,60,True,539,Paid,2.0,1,NGO partner
+P3902,2023-06-14,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,36,Female,Hyderabad,45,True,398,Paid,3.0,17,Word of mouth
+P2817,2024-12-15,Dr. Meera Iyer,T08,Child & Adolescent,Crisis Intervention,38,Female,Delhi,45,True,1010,Paid,4.0,18,Online search
+P2401,2023-05-24,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,33,Female,Chennai,90,True,1390,Paid,2.0,5,Word of mouth
+P2789,2024-11-17,Dr. Aarav Sharma,T01,Depression,Follow-up,31,Female,Chennai,60,True,-739,Waived,1.0,9,Word of mouth
+P2978,2024-06-26,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,36,Female,Chennai,90,True,625,Pending,2.0,11,Online search
+P1025,2024-02-28,Dr. Meera Iyer,T08,Depression,Follow-up,27,Female,Hyderabad,60,False,594,Paid,,2,Doctor referral
+P0550,2024-12-28,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,31,Male,Delhi,30,True,1165,Paid,1.0,9,Word of mouth
+P4259,2023-04-28,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,28,Female,Delhi,45,True,800,Waived,,3,Word of mouth
+P1778,2024-06-01,Dr. Ananya Reddy,T04,Depression,Initial Consultation,23,Female,Kolkata,45,True,850,Waived,5.0,17,Self-referral
+P4558,2023-04-06,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,21,Prefer not to say,Chennai,60,True,1049,Pending,2.0,21,Self-referral
+P0823,2023-12-07,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,57,Female,Hyderabad,60,False,1448,Paid,,16,Self-referral
+P4193,2024-02-07,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,28,Male,Delhi,45,True,1133,Waived,5.0,3,Self-referral
+P1868,2023-03-08,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,23,Female,Hyderabad,60,True,533,Paid,,6,Self-referral
+P2060,2023-08-25,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,38,Male,Hyderabad,60,True,1107,Pending,3.0,2,Doctor referral
+P0995,31/08/2024,,T06,Trauma & PTSD,Initial Consultation,30,Male,Hyderabad,30,True,948,Paid,1.0,6,NGO partner
+P3846,2024-12-15,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,47,Female,Bangalore,60,True,751,Paid,3.0,5,Self-referral
+P2103,2024-04-02,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,0,Male,Hyderabad,30,True,935,Paid,3.0,1,Word of mouth
+P1599,2023-12-23,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,105,Male,Bangalore,30,True,1200,Paid,3.0,4,Online search
+P2254,2024-01-22,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,31,Male,Delhi,90,True,462,Paid,5.0,12,NGO partner
+P0377,2024-08-02,Dr. Rohan Gupta,T03,Anxiety & Stress,Crisis Intervention,32,Non-binary,Hyderabad,90,True,1403,Pending,1.0,0,Self-referral
+P0513,2024-08-29,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,30,Male,Mumbai,45,True,1199,Pending,3.0,11,Online search
+P2619,2023-06-26,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,42,Male,Hyderabad,30,True,-1044,Pending,,17,NGO partner
+P2418,2024-02-14,Dr. Priya Patel,T02,Depression,Group Session,39,Male,Chennai,60,True,362,Paid,4.0,13,Online search
+P3946,2023-08-10,Dr. Priya Patel,T02,Depression,Crisis Intervention,26,Female,Delhi,90,False,1310,Waived,,19,Doctor referral
+P2622,2023-12-02,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,41,Female,Kolkata,45,True,458,Waived,3.0,20,Doctor referral
+P0629,2024-04-17,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,24,Female,Chennai,90,True,1019,Paid,,14,NGO partner
+P1545,2023-01-29,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,28,Female,Bangalore,45,False,317,Paid,,17,Doctor referral
+P2541,2024-07-03,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,26,Non-binary,Hyderabad,45,True,400,Paid,1.0,1,Doctor referral
+P0766,2023-05-04,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,41,Female,Delhi,30,True,-464,Waived,2.0,2,Online search
+P3485,2023-11-28,Dr. Aarav Sharma,T01,Child & Adolescent,Initial Consultation,20,Prefer not to say,Kolkata,60,True,826,Paid,,16,Self-referral
+P4335,2024-11-27,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,36,Female,Chennai,30,True,1305,Paid,4.0,21,Self-referral
+P2912,2024-05-16,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,32,Prefer not to say,Delhi,60,True,1381,Paid,3.0,1,Online search
+P0228,2023-04-06,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,56,Female,Hyderabad,30,True,1023,Paid,2.0,18,Word of mouth
+P0379,2024-06-29,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,59,Female,Chennai,45,True,1355,Paid,2.0,17,Online search
+P1840,2023-07-03,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,38,Female,Delhi,90,True,1083,Pending,4.0,10,Online search
+P1653,2024-09-21,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,48,Male,Hyderabad,30,False,393,Waived,,17,Doctor referral
+P0225,2023-09-07,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,36,Male,Mumbai,60,True,498,Paid,5.0,2,Word of mouth
+P2008,2023-09-08,Dr. Ananya Reddy,T04,Depression,Group Session,36,Male,Hyderabad,90,True,489,Paid,,5,Self-referral
+P3874,2024-11-10,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,26,Female,Bangalore,45,True,727,Paid,4.0,0,NGO partner
+P1806,2023-02-11,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,50,Female,Kolkata,30,True,782,Pending,5.0,10,Self-referral
+P0491,2023-05-11,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,39,Male,Mumbai,60,True,1180,Paid,5.0,19,Online search
+P1218,2024-12-29,Dr. Vikram Singh,T05,Depression,Initial Consultation,35,Female,Kolkata,45,False,801,Pending,,12,Word of mouth
+P0928,2024-12-07,Dr. Aarav Sharma,T01,Depression,Follow-up,27,Male,Chennai,45,True,737,Waived,5.0,12,Word of mouth
+P2326,2023-02-02,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,31,Female,Delhi,60,True,-1013,Paid,4.0,21,NGO partner
+P2181,2024-03-01,Dr. Rohan Gupta,T03,Trauma & PTSD,Initial Consultation,48,Non-binary,Hyderabad,60,True,1022,Paid,,14,Doctor referral
+P2340,2023-09-24,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,39,Male,Delhi,30,False,1109,Paid,,4,Self-referral
+P0656,2024-12-22,Dr. Meera Iyer,T08,Depression,Group Session,32,Male,Hyderabad,60,True,328,Paid,,14,NGO partner
+P3311,2024-04-05,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,57,Male,Bangalore,60,True,408,Paid,1.0,20,Doctor referral
+P3023,2024-02-03,Dr. Aarav Sharma,T01,Anxiety & Stress,Follow-up,30,Female,Mumbai,45,True,734,Paid,3.0,13,Online search
+P4757,2024-07-27,Dr. Priya Patel,T02,Depression,Crisis Intervention,43,Male,Mumbai,45,False,1202,Paid,,17,Doctor referral
+P3123,2023-09-16,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,38,Male,Hyderabad,90,True,759,Paid,4.0,6,Word of mouth
+P2031,2024-04-18,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,41,Female,Bangalore,45,True,303,Pending,2.0,18,Doctor referral
+P2548,2023-03-05,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,64,Prefer not to say,Hyderabad,60,True,1038,Paid,5.0,11,NGO partner
+P4478,2024-01-27,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,23,Male,Bangalore,45,True,1054,Waived,,18,Self-referral
+P4857,2024-08-24,Dr. Neha Desai,T06,Depression,Follow-up,57,Male,Chennai,45,True,555,Paid,1.0,20,NGO partner
+P4964,2023-03-11,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,53,Male,Chennai,60,False,1192,Paid,,4,Online search
+P3488,2023-02-15,Dr. Ananya Reddy,T04,Depression,Follow-up,41,Female,Kolkata,60,True,654,Paid,2.0,12,Word of mouth
+P0336,2023-11-07,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,37,Male,Kolkata,30,True,1147,Paid,4.0,1,Word of mouth
+P3401,2023-02-07,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,57,Female,Kolkata,60,True,-972,Paid,1.0,11,Word of mouth
+P1895,2024-07-29,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,43,Male,Mumbai,45,True,1153,Paid,2.0,14,Word of mouth
+P3759,2023-08-06,Dr. Neha Desai,T06,Depression,Crisis Intervention,26,Male,Kolkata,45,False,1202,Paid,,7,NGO partner
+P0468,2024-11-29,Dr. Vikram Singh,T05,Depression,Initial Consultation,24,Female,Hyderabad,30,False,1117,Paid,,4,Self-referral
+P3421,2024-07-14,Dr. Priya Patel,T02,Child & Adolescent,Group Session,29,Non-binary,Chennai,60,False,317,Paid,,18,Word of mouth
+P2496,2024-12-22,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,27,Female,Delhi,90,True,702,Paid,5.0,4,NGO partner
+P0343,2023-11-02,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,29,Male,Chennai,90,True,302,Paid,1.0,17,NGO partner
+P1843,2023-01-12,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,20,Female,Chennai,90,True,859,Waived,5.0,8,Self-referral
+P3200,2024-03-28,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,53,Male,Bangalore,30,True,1125,Pending,1.0,19,Self-referral
+P1218,2024-03-19,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,34,Male,Chennai,30,True,746,Pending,4.0,0,Doctor referral
+P4447,2024-03-11,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,36,Non-binary,Delhi,60,True,472,Paid,,11,Word of mouth
+P2594,2024-05-26,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,59,Female,Mumbai,30,True,970,Pending,2.0,20,Word of mouth
+P2464,2024-01-05,Dr. Neha Desai,T06,Depression,Group Session,34,Non-binary,Hyderabad,30,True,316,Paid,,20,Word of mouth
+P2009,2024-01-13,Dr. Meera Iyer,T08,Depression,Crisis Intervention,46,Male,Mumbai,90,True,1395,Paid,5.0,0,Doctor referral
+P0809,2024-06-04,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,27,Prefer not to say,Delhi,45,True,760,Pending,2.0,10,Self-referral
+P4233,2024-08-09,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,25,Female,Chennai,30,True,528,Paid,,21,Online search
+P2686,2023-06-04,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,105,Female,Chennai,60,True,446,Paid,2.0,17,NGO partner
+P2141,2024-03-08,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,34,Male,Chennai,60,False,1495,Paid,,5,NGO partner
+P1257,2023-08-30,Dr. Priya Patel,T02,Child & Adolescent,Group Session,34,Female,Kolkata,60,True,392,Paid,5.0,14,Self-referral
+P0524,2023-11-11,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,25,Male,Mumbai,90,True,1033,Paid,,19,NGO partner
+P1903,2024-06-17,Dr. Priya Patel,T02,Child & Adolescent,Group Session,46,Female,Kolkata,30,True,434,Paid,4.0,17,NGO partner
+P4596,21/01/2024,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,34,Female,Bangalore,60,True,409,Paid,,17,NGO partner
+P0281,2023-09-29,Dr. Neha Desai,T06,Depression,Group Session,30,Non-binary,Bangalore,30,True,307,Paid,4.0,17,Word of mouth
+P0888,2024-08-06,Dr. Vikram Singh,T05,Depression,Follow-up,55,Female,Delhi,60,False,589,Waived,,4,Word of mouth
+P1105,2023-09-26,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,29,Male,Chennai,45,True,1004,Pending,2.0,15,Word of mouth
+P4158,2024-09-25,Dr. Priya Patel,T02,Depression,Group Session,25,Female,Bangalore,45,False,494,Paid,,8,Self-referral
+P4029,2024-03-27,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,30,Male,Kolkata,60,False,729,Paid,,2,Online search
+P3427,2023-11-09,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,57,Female,Delhi,90,True,893,Pending,4.0,13,Doctor referral
+P0301,24/12/2023,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,105,Female,Bangalore,45,True,1424,Paid,,17,NGO partner
+P4141,2023-05-20,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,54,Female,Bangalore,90,False,696,Paid,3.0,13,Word of mouth
+P4365,2024-01-31,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,26,Non-binary,Chennai,30,True,740,Paid,3.0,8,Online search
+P4528,2024-03-16,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,25,Male,Delhi,45,True,618,Paid,3.0,0,NGO partner
+P3607,2023-11-08,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,37,Male,Bangalore,45,True,1002,Paid,3.0,9,Online search
+P1247,2024-04-29,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,21,Female,Mumbai,45,False,1197,Paid,,16,NGO partner
+P4816,2024-04-05,Dr. Priya Patel,T02,Depression,Crisis Intervention,47,Non-binary,Delhi,90,True,1348,Waived,5.0,16,Self-referral
+P1198,2023-05-04,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,45,Female,Mumbai,45,True,705,Paid,,2,Self-referral
+P3916,2024-10-14,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,30,Female,Kolkata,60,True,1342,Paid,5.0,15,Doctor referral
+P1805,2023-03-20,Dr. Priya Patel,T02,Child & Adolescent,Group Session,45,Female,Hyderabad,60,True,439,Paid,3.0,11,NGO partner
+P1473,2024-08-06,Dr. Aarav Sharma,T01,Anxiety & Stress,Follow-up,26,Female,Kolkata,45,True,-743,Paid,5.0,7,NGO partner
+P2160,2024-10-04,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,42,Female,Kolkata,60,True,1382,Paid,3.0,7,Online search
+P3315,2024-06-30,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,49,Male,Delhi,90,False,331,Waived,,10,Doctor referral
+P0903,2023-06-18,Dr. Arjun Kumar,T07,Depression,Group Session,46,Female,Mumbai,90,True,447,Paid,1.0,5,Online search
+P1971,2024-10-09,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,44,Male,Bangalore,45,True,573,Waived,3.0,21,Self-referral
+P3531,10/08/2024,,T02,Addiction Recovery,Crisis Intervention,46,Female,Bangalore,90,True,-1312,Pending,1.0,4,Online search
+P3197,2024-12-02,Dr. Meera Iyer,T08,Child & Adolescent,Initial Consultation,37,Male,Chennai,60,True,884,Waived,5.0,6,Doctor referral
+P3564,2024-12-15,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,34,Female,Hyderabad,60,True,733,Paid,5.0,11,Word of mouth
+P3086,2023-04-16,Dr. Neha Desai,T06,Child & Adolescent,Group Session,62,Male,Kolkata,30,True,489,Paid,2.0,16,Online search
+P3139,2023-03-28,Dr. Neha Desai,T06,Depression,Follow-up,54,Male,Hyderabad,90,True,578,Paid,4.0,20,Doctor referral
+P0709,2023-04-22,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,32,Female,Bangalore,45,True,1002,Paid,,4,NGO partner
+P4737,2023-02-06,Dr. Rohan Gupta,T03,Depression,Group Session,56,Male,Chennai,30,True,486,Paid,4.0,21,Online search
+P3443,2024-02-18,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,45,Male,Hyderabad,60,False,959,Pending,,8,Self-referral
+P2468,2024-12-27,,T08,Child & Adolescent,Follow-up,46,Male,Chennai,60,True,520,Paid,1.0,2,Online search
+P4503,2024-08-23,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,50,Male,Hyderabad,60,True,765,Pending,1.0,11,Online search
+P0713,2023-01-26,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,32,Prefer not to say,Bangalore,30,True,362,Pending,5.0,0,Self-referral
+P1922,2023-04-11,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,46,Male,Kolkata,30,True,-797,Paid,2.0,6,Online search
+P1752,2023-05-29,Dr. Neha Desai,T06,Child & Adolescent,Group Session,20,Male,Chennai,60,True,331,Paid,3.0,7,NGO partner
+P4951,2024-07-04,Dr. Aarav Sharma,T01,Trauma & PTSD,Initial Consultation,35,Prefer not to say,Delhi,90,True,1169,Paid,3.0,7,Online search
+P0596,14/09/2024,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,54,Male,Hyderabad,45,True,1190,Paid,4.0,3,Doctor referral
+P3945,2023-12-13,Dr. Neha Desai,T06,Depression,Crisis Intervention,57,Male,Hyderabad,90,True,1469,Waived,2.0,17,Online search
+P2656,2023-10-23,Dr. Vikram Singh,T05,Depression,Follow-up,37,Male,Chennai,45,False,660,Paid,,11,Online search
+P4554,2023-12-30,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,21,Female,Chennai,45,True,387,Paid,3.0,2,Doctor referral
+P0109,2024-11-20,Dr. Vikram Singh,T05,Depression,Initial Consultation,50,Prefer not to say,Hyderabad,90,True,1022,Paid,1.0,14,Word of mouth
+P2984,2024-10-21,Dr. Priya Patel,T02,Depression,Group Session,24,Male,Bangalore,45,True,481,Pending,1.0,11,Self-referral
+P0656,2023-07-03,Dr. Priya Patel,T02,Depression,Crisis Intervention,30,Male,Mumbai,60,True,-1272,Paid,,18,Online search
+P2796,2023-01-21,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,38,Female,Bangalore,45,True,496,Paid,5.0,5,Self-referral
+P2372,2023-02-07,Dr. Rohan Gupta,T03,Anxiety & Stress,Crisis Intervention,32,Female,Mumbai,60,True,1403,Waived,,18,NGO partner
+P1125,2023-01-31,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,50,Female,Hyderabad,90,True,357,Paid,,16,NGO partner
+P1357,2024-09-03,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,31,Female,Mumbai,90,True,1078,Paid,,11,Doctor referral
+P0343,2023-10-12,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,32,Female,Delhi,45,True,749,Paid,4.0,2,Self-referral
+P2850,2024-09-02,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,42,Prefer not to say,Mumbai,45,True,755,Paid,3.0,6,Self-referral
+P3530,2023-10-25,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,52,Male,Hyderabad,90,False,459,Paid,,7,Doctor referral
+P0338,2023-05-18,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,49,Female,Chennai,60,True,951,Paid,5.0,13,Word of mouth
+P3256,2023-10-30,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,47,Female,Kolkata,30,True,329,Pending,2.0,12,Self-referral
+P0790,03/07/2023,Dr. Aarav Sharma,T01,Anxiety & Stress,Crisis Intervention,20,Male,Hyderabad,90,True,1309,Waived,5.0,14,Doctor referral
+P0179,2024-06-09,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,41,Female,Kolkata,30,True,1233,Paid,3.0,6,NGO partner
+P3370,2024-12-19,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,57,Male,Bangalore,30,True,844,Paid,1.0,20,Word of mouth
+P3001,2023-12-07,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,34,Prefer not to say,Mumbai,90,True,481,Paid,,13,Self-referral
+P0720,2023-11-18,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,37,Male,Kolkata,30,True,820,Paid,2.0,2,Self-referral
+P2312,2023-02-20,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,45,Female,Delhi,90,False,895,Pending,3.0,0,Doctor referral
+P0979,2024-03-20,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,31,Male,Hyderabad,45,True,1032,Pending,2.0,0,Doctor referral
+P2641,2023-10-06,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,41,Male,Kolkata,30,True,1224,Paid,4.0,2,Doctor referral
+P0966,2024-11-26,Dr. Neha Desai,T06,Addiction Recovery,Follow-up,35,Female,Kolkata,90,False,776,Paid,,9,Online search
+P0156,2024-12-23,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,45,Male,Delhi,45,True,1229,Waived,,17,NGO partner
+P3888,2024-11-28,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,28,Male,Chennai,60,True,923,Paid,2.0,11,Doctor referral
+P1345,2024-01-27,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,27,Male,Kolkata,45,True,-573,Pending,5.0,20,Doctor referral
+P3955,2023-05-16,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,36,Female,Hyderabad,90,True,881,Paid,,5,NGO partner
+P0353,05/12/2024,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,21,Female,Mumbai,60,False,932,Pending,,2,Online search
+P3602,2023-08-11,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,110,Female,Bangalore,30,True,306,Paid,,14,Doctor referral
+P3687,2024-12-13,Dr. Meera Iyer,T08,Child & Adolescent,Crisis Intervention,35,Male,Kolkata,45,True,1319,Pending,5.0,5,Word of mouth
+P3706,2024-08-12,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,29,Female,Hyderabad,45,True,300,Paid,3.0,0,Self-referral
+P1083,2024-01-22,Dr. Priya Patel,T02,Depression,Crisis Intervention,38,Female,Mumbai,60,True,1010,Waived,1.0,4,NGO partner
+P0301,2023-01-20,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,39,Female,Kolkata,90,True,1097,Paid,2.0,20,Doctor referral
+P3312,2024-08-19,Dr. Priya Patel,T02,Depression,Initial Consultation,0,Male,Kolkata,30,False,1113,Paid,,11,NGO partner
+P3028,2023-08-30,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,42,Male,Kolkata,60,True,1076,Paid,3.0,5,NGO partner
+P2034,2024-05-31,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,42,Non-binary,Bangalore,60,False,1214,Paid,,9,Word of mouth
+P4394,2024-12-03,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,35,Male,Delhi,90,True,494,Paid,2.0,7,Online search
+P3362,2023-07-15,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,30,Male,Chennai,90,True,1025,Paid,2.0,1,Doctor referral
+P1324,2023-02-15,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,31,Male,Chennai,90,True,970,Pending,3.0,17,Self-referral
+P3533,2023-07-25,Dr. Meera Iyer,T08,Depression,Crisis Intervention,22,Female,Chennai,30,True,1091,Waived,5.0,14,Online search
+P4372,2024-02-11,Dr. Ananya Reddy,T04,Addiction Recovery,Follow-up,30,Female,Kolkata,60,True,782,Waived,4.0,11,NGO partner
+P3873,2024-12-06,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,47,Male,Kolkata,60,True,308,Paid,2.0,9,Word of mouth
+P0113,2023-08-12,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,44,Male,Mumbai,60,True,328,Paid,1.0,6,Word of mouth
+P0789,2023-03-30,Dr. Ananya Reddy,T04,Depression,Initial Consultation,53,Prefer not to say,Mumbai,45,False,1122,Paid,,0,Online search
+P2048,2024-10-18,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,42,Male,Hyderabad,30,True,1143,Paid,2.0,21,Word of mouth
+P1849,2023-09-06,Dr. Ananya Reddy,T04,Depression,Initial Consultation,47,Non-binary,Mumbai,30,False,1142,Pending,,13,Online search
+P3233,2024-07-27,Dr. Neha Desai,T06,Addiction Recovery,Group Session,37,Male,Delhi,60,True,373,Pending,4.0,1,Online search
+P2955,2024-06-01,Dr. Vikram Singh,T05,Depression,Follow-up,40,Male,Delhi,90,True,543,Paid,4.0,7,Doctor referral
+P4451,2023-12-10,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,27,Female,Bangalore,45,False,416,Paid,,16,Word of mouth
+P3917,2023-06-05,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,29,Male,Bangalore,30,True,400,Paid,4.0,17,Doctor referral
+P1331,2023-07-11,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,28,Male,Hyderabad,60,False,493,Waived,,19,Word of mouth
+P3194,2023-02-11,Dr. Meera Iyer,T08,Depression,Crisis Intervention,49,Male,Kolkata,60,False,1149,Paid,,9,Self-referral
+P2360,2023-07-30,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,61,Female,Mumbai,45,True,604,Waived,5.0,16,NGO partner
+P3987,2024-07-11,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,33,Male,Chennai,90,True,588,Paid,5.0,10,NGO partner
+P0176,2024-05-04,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,27,Female,Mumbai,45,True,500,Paid,,17,NGO partner
+P1668,2024-06-14,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,49,Female,Chennai,45,True,459,Paid,1.0,9,Word of mouth
+P2847,2023-11-25,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,28,Male,Delhi,90,True,404,Paid,4.0,21,NGO partner
+P4688,2024-05-14,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,48,Male,Bangalore,45,True,1091,Paid,5.0,16,Self-referral
+P3074,2024-07-20,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,25,Non-binary,Chennai,90,True,631,Paid,3.0,2,Online search
+P4264,2023-02-07,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,48,Male,Kolkata,45,True,399,Paid,2.0,2,NGO partner
+P4734,2024-06-29,Dr. Meera Iyer,T08,Depression,Follow-up,28,Prefer not to say,Hyderabad,30,True,-696,Paid,5.0,7,Online search
+P1040,2024-02-26,Dr. Rohan Gupta,T03,Depression,Initial Consultation,31,Male,Delhi,45,False,941,Paid,3.0,10,Doctor referral
+P3972,2023-01-11,,T01,Child & Adolescent,Group Session,35,Female,Mumbai,30,True,329,Paid,4.0,17,Doctor referral
+P1637,2024-01-21,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,28,Male,Chennai,45,True,-400,Paid,,21,NGO partner
+P4782,2023-01-18,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,23,Male,Hyderabad,30,True,384,Waived,,19,Word of mouth
+P3745,2023-04-24,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,2,Male,Mumbai,90,True,360,Pending,4.0,19,NGO partner
+P3771,07/10/2024,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,29,Male,Chennai,60,True,306,Paid,5.0,9,Online search
+P1527,2023-12-05,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,29,Male,Bangalore,30,True,1490,Paid,2.0,19,Doctor referral
+P1173,2024-04-18,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,26,Female,Mumbai,90,True,317,Paid,3.0,7,Doctor referral
+P3963,2024-06-01,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,55,Prefer not to say,Delhi,60,True,1200,Paid,4.0,19,Word of mouth
+P2259,2024-06-28,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,33,Male,Hyderabad,30,True,1421,Paid,2.0,1,Word of mouth
+P0874,2023-09-07,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,25,Male,Delhi,45,False,502,Paid,,16,Word of mouth
+P3932,2023-06-18,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,29,Female,Mumbai,60,True,379,Waived,1.0,8,Doctor referral
+P3440,2023-03-13,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,56,Female,Kolkata,45,True,515,Paid,4.0,11,Online search
+P3810,2023-11-08,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,2,Female,Bangalore,45,True,353,Pending,3.0,16,Word of mouth
+P2224,2024-07-10,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,34,Male,Mumbai,60,True,380,Paid,3.0,4,Self-referral
+P1755,2023-10-17,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,42,Female,Bangalore,30,True,601,Paid,5.0,15,NGO partner
+P0995,2023-11-13,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,33,Male,Delhi,30,False,839,Pending,,8,Doctor referral
+P0164,2024-10-02,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,40,Female,Bangalore,30,True,1114,Pending,5.0,10,Online search
+P4585,2024-03-27,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,42,Female,Mumbai,45,True,939,Paid,1.0,17,Online search
+P4689,2023-07-02,Dr. Arjun Kumar,T07,Trauma & PTSD,Follow-up,41,Female,Delhi,90,True,645,Pending,5.0,18,Online search
+P3219,2024-06-08,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,40,Male,Chennai,60,True,1472,Pending,3.0,5,Doctor referral
+P4663,2024-09-25,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,44,Non-binary,Delhi,60,True,534,Waived,1.0,3,Self-referral
+P0077,2023-05-15,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,19,Female,Chennai,30,True,417,Pending,1.0,2,NGO partner
+P2724,2023-08-26,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,40,Female,Hyderabad,30,True,1189,Paid,3.0,3,NGO partner
+P3183,2024-02-20,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,28,Female,Kolkata,60,True,1452,Pending,4.0,10,Word of mouth
+P4663,2023-09-30,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,39,Male,Bangalore,30,True,536,Paid,5.0,14,Online search
+P0848,2023-10-09,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,2,Male,Bangalore,30,True,873,Pending,5.0,3,Doctor referral
+P3443,2024-02-18,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,45,Male,Hyderabad,60,False,959,Pending,,8,Self-referral
+P1198,2024-06-10,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,45,Male,Kolkata,30,True,728,Paid,5.0,7,Word of mouth
+P2065,2023-10-21,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,20,Female,Chennai,60,True,1042,Pending,3.0,8,Online search
+P3117,2024-07-26,Dr. Rohan Gupta,T03,Depression,Initial Consultation,32,Male,Mumbai,60,True,1154,Pending,4.0,20,Word of mouth
+P0542,2023-08-04,Dr. Vikram Singh,T05,Depression,Initial Consultation,21,Female,Bangalore,45,True,833,Paid,4.0,21,Word of mouth
+P4269,2023-08-16,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,50,Female,Hyderabad,30,True,320,Pending,4.0,5,Word of mouth
+P3610,2023-06-22,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,34,Male,Delhi,45,True,1143,Pending,2.0,1,NGO partner
+P3867,2023-12-21,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,27,Female,Delhi,90,True,1484,Pending,1.0,7,Doctor referral
+P3740,2024-08-28,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,30,Male,Kolkata,60,False,437,Paid,,0,Word of mouth
+P4962,2023-05-15,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,40,Female,Chennai,45,True,513,Pending,3.0,19,Doctor referral
+P2034,2024-12-22,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,36,Female,Bangalore,30,True,910,Paid,1.0,21,Online search
+P4169,2024-04-17,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,29,Prefer not to say,Bangalore,90,True,1131,Paid,3.0,15,Doctor referral
+P0631,2023-12-09,Dr. Arjun Kumar,T07,Depression,Initial Consultation,28,Male,Hyderabad,30,False,890,Paid,,19,Online search
+P5000,2023-08-31,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,30,Female,Delhi,45,False,679,Paid,,6,Doctor referral
+P4408,2024-12-11,Dr. Neha Desai,T06,Depression,Initial Consultation,29,Prefer not to say,Delhi,60,True,956,Waived,2.0,17,Word of mouth
+P3109,2023-05-04,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,54,Female,Mumbai,60,True,1161,Paid,2.0,11,NGO partner
+P4867,2024-08-12,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,44,Female,Kolkata,90,True,856,Paid,2.0,15,Doctor referral
+P2474,2023-09-25,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,23,Female,Hyderabad,30,True,1120,Pending,3.0,8,Online search
+P3790,2023-07-16,Dr. Ananya Reddy,T04,Depression,Follow-up,39,Non-binary,Mumbai,90,True,774,Paid,3.0,17,Self-referral
+P1196,2023-07-18,Dr. Neha Desai,T06,Trauma & PTSD,Group Session,54,Male,Kolkata,30,True,429,Paid,,0,NGO partner
+P3546,2023-11-07,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,2,Female,Delhi,90,True,358,Paid,4.0,21,Self-referral
+P2343,2024-08-19,Dr. Meera Iyer,T08,Child & Adolescent,Crisis Intervention,58,Non-binary,Mumbai,30,True,1345,Paid,,0,Word of mouth
+P1632,2024-11-03,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,30,Female,Mumbai,90,True,1285,Paid,3.0,6,Self-referral
+P1982,2023-12-10,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,45,Prefer not to say,Bangalore,45,False,792,Pending,,19,Word of mouth
+P2846,2023-10-07,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,51,Female,Hyderabad,60,True,1090,Paid,2.0,16,Online search
+P4376,2023-04-13,Dr. Vikram Singh,T05,Depression,Follow-up,50,Male,Kolkata,30,True,651,Paid,1.0,1,NGO partner
+P3072,2024-11-08,Dr. Neha Desai,T06,Depression,Crisis Intervention,33,Male,Kolkata,90,True,1005,Paid,4.0,19,NGO partner
+P2302,2024-09-03,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,39,Male,Bangalore,60,False,515,Paid,,18,Doctor referral
+P4686,2023-05-12,Dr. Aarav Sharma,T01,Depression,Initial Consultation,0,Male,Mumbai,30,True,924,Paid,2.0,0,Self-referral
+P4726,2023-12-23,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,32,Male,Kolkata,60,False,597,Pending,,0,Online search
+P1331,2023-06-28,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,46,Male,Bangalore,45,True,592,Paid,,9,Word of mouth
+P3318,2023-09-04,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,42,Male,Delhi,30,True,1123,Paid,2.0,13,Self-referral
+P1428,2023-06-11,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,36,Male,Hyderabad,60,True,1405,Waived,3.0,7,NGO partner
+P4155,2024-11-10,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,29,Male,Hyderabad,90,False,1168,Paid,1.0,10,Word of mouth
+P4252,2024-04-01,,T04,Child & Adolescent,Initial Consultation,43,Female,Kolkata,90,True,989,Paid,5.0,20,Word of mouth
+P0187,2023-03-18,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,37,Female,Kolkata,60,True,319,Paid,4.0,5,Self-referral
+P0419,2024-08-22,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,38,Female,Hyderabad,30,True,1237,Paid,,6,Word of mouth
+P3646,2023-08-25,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,41,Male,Kolkata,30,True,1161,Paid,2.0,11,NGO partner
+P2922,2024-07-08,Dr. Ananya Reddy,T04,Addiction Recovery,Crisis Intervention,43,Male,Delhi,30,True,1480,Pending,1.0,12,Online search
+P0423,2024-04-05,Dr. Priya Patel,T02,Addiction Recovery,Group Session,40,Female,Bangalore,30,True,323,Waived,,2,Doctor referral
+P3095,2023-07-31,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,51,Female,Kolkata,90,False,899,Paid,,16,Doctor referral
+P2211,2024-04-30,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,28,Male,Delhi,45,True,583,Waived,1.0,6,Self-referral
+P0991,2023-11-28,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,30,Female,Delhi,45,False,396,Waived,3.0,19,NGO partner
+P2125,2024-08-03,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,29,Male,Bangalore,30,True,-595,Paid,2.0,20,Doctor referral
+P2735,2024-06-21,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,47,Male,Mumbai,45,True,985,Pending,,18,Doctor referral
+P1435,2023-12-22,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,41,Non-binary,Delhi,45,True,400,Pending,,19,Word of mouth
+P2228,2023-03-23,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,50,Female,Hyderabad,60,True,1320,Waived,5.0,13,Doctor referral
+P1952,2024-12-26,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,50,Male,Mumbai,45,True,441,Pending,5.0,8,Doctor referral
+P3347,2023-07-31,Dr. Arjun Kumar,T07,Depression,Follow-up,51,Female,Mumbai,60,True,644,Paid,2.0,8,Doctor referral
+P4825,2024-12-07,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,27,Male,Chennai,30,True,322,Paid,4.0,12,Online search
+P4270,2024-03-29,Dr. Arjun Kumar,T07,Depression,Follow-up,35,Male,Bangalore,90,True,517,Paid,1.0,21,Online search
+P3122,2024-11-14,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,36,Male,Delhi,90,True,407,Paid,5.0,3,Online search
+P4055,2023-03-07,Dr. Neha Desai,T06,Depression,Crisis Intervention,29,Male,Delhi,45,True,1092,Paid,3.0,4,NGO partner
+P3601,2023-08-30,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,30,Male,Kolkata,30,True,1111,Paid,3.0,15,NGO partner
+P1626,2024-03-20,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,30,Non-binary,Delhi,60,False,983,Paid,,1,Doctor referral
+P4419,2023-04-03,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,42,Male,Chennai,60,True,383,Paid,2.0,5,Online search
+P4112,2024-11-27,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,0,Female,Hyderabad,45,True,1283,Paid,5.0,13,Doctor referral
+P0211,2024-08-10,,T08,Depression,Initial Consultation,33,Male,Chennai,45,True,1004,Paid,4.0,0,Online search
+P0242,2023-04-28,Dr. Vikram Singh,T05,Depression,Initial Consultation,22,Female,Kolkata,30,True,1183,Paid,5.0,14,Word of mouth
+P2856,2023-07-18,Dr. Rohan Gupta,T03,Trauma & PTSD,Crisis Intervention,34,Female,Hyderabad,90,True,1490,Paid,,20,Online search
+P3988,2023-10-23,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,39,Female,Delhi,30,True,568,Paid,2.0,4,Word of mouth
+P4345,2023-06-06,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,55,Prefer not to say,Chennai,60,True,495,Pending,,15,Self-referral
+P2811,2023-07-11,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,31,Female,Delhi,90,True,360,Paid,,13,Doctor referral
+P1352,2023-12-13,,T02,Trauma & PTSD,Crisis Intervention,28,Female,Bangalore,45,True,-1360,Paid,,1,Self-referral
+P1840,2024-05-22,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,44,Female,Kolkata,90,True,432,Paid,,17,Word of mouth
+P0645,2023-11-02,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,48,Female,Bangalore,45,True,352,Pending,4.0,14,Word of mouth
+P3815,2024-07-23,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,23,Male,Hyderabad,30,True,641,Paid,,21,Online search
+P0425,2024-11-28,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,30,Male,Bangalore,90,False,1001,Paid,,8,Self-referral
+P0230,2023-10-04,,T04,Depression,Initial Consultation,55,Male,Kolkata,45,True,853,Waived,3.0,17,Self-referral
+P3227,2024-07-17,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,37,Prefer not to say,Kolkata,60,True,459,Paid,1.0,4,Doctor referral
+P2278,2024-01-30,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,21,Male,Hyderabad,30,True,454,Paid,5.0,18,Word of mouth
+P1947,2024-12-03,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,41,Female,Chennai,60,False,1230,Pending,,11,Word of mouth
+P1644,2023-10-17,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,49,Male,Chennai,60,True,383,Paid,3.0,19,Doctor referral
+P0990,2024-05-19,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,41,Female,Delhi,90,True,709,Pending,2.0,6,Online search
+P3190,2023-03-27,Dr. Priya Patel,T02,Anxiety & Stress,Crisis Intervention,39,Female,Bangalore,90,False,1388,Pending,,17,NGO partner
+P2940,2024-01-17,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,20,Male,Delhi,90,True,1337,Paid,1.0,15,Online search
+P0493,2023-06-15,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,35,Female,Kolkata,45,True,941,Paid,3.0,14,Self-referral
+P2221,2023-05-01,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,42,Male,Kolkata,60,True,-1150,Paid,,18,Doctor referral
+P4134,2024-12-30,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,54,Male,Delhi,90,False,766,Paid,1.0,2,Online search
+P3049,2023-03-23,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,0,Male,Kolkata,60,False,1415,Paid,,20,Online search
+P4798,2023-10-28,Dr. Priya Patel,T02,Depression,Initial Consultation,23,Male,Bangalore,90,True,993,Paid,1.0,21,Self-referral
+P0910,2024-10-16,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,32,Male,Delhi,30,True,370,Paid,3.0,10,Word of mouth
+P0696,2024-12-13,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,30,Female,Hyderabad,45,True,1458,Paid,4.0,4,Self-referral
+P3308,2023-02-28,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,26,Female,Chennai,45,True,895,Paid,2.0,18,NGO partner
+P4371,2024-03-24,Dr. Vikram Singh,T05,Depression,Crisis Intervention,32,Male,Delhi,90,True,1202,Paid,2.0,17,Online search
+P1659,2023-03-10,Dr. Meera Iyer,T08,Depression,Follow-up,39,Male,Kolkata,45,True,798,Paid,2.0,12,Self-referral
+P4128,2024-12-04,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,42,Male,Hyderabad,60,True,472,Waived,2.0,3,Online search
+P4374,2023-04-17,Dr. Arjun Kumar,T07,Trauma & PTSD,Follow-up,42,Female,Bangalore,60,True,592,Paid,2.0,10,NGO partner
+P0093,2024-09-22,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,54,Male,Hyderabad,60,True,1211,Paid,2.0,8,Self-referral
+P1363,2024-12-19,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,37,Female,Mumbai,90,True,855,Pending,3.0,10,Word of mouth
+P3315,2024-08-12,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,56,Non-binary,Bangalore,30,True,361,Pending,2.0,7,Online search
+P3678,23/11/2023,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,32,Female,Kolkata,30,True,526,Paid,3.0,8,Word of mouth
+P4632,2024-02-26,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,25,Male,Bangalore,30,True,489,Paid,3.0,8,Doctor referral
+P1287,2023-06-21,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,25,Male,Hyderabad,90,False,905,Paid,,16,Word of mouth
+P3717,2024-05-19,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,46,Female,Hyderabad,90,True,849,Paid,4.0,18,Doctor referral
+P4478,2024-01-27,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,23,Male,Bangalore,45,True,1054,Waived,,18,Self-referral
+P3362,2024-04-20,Dr. Neha Desai,T06,Depression,Follow-up,27,Female,Hyderabad,30,True,550,Paid,4.0,19,Doctor referral
+P0830,2024-04-09,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,47,Male,Hyderabad,30,True,1237,Pending,,14,NGO partner
+P4898,2023-11-04,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,43,Female,Chennai,90,True,649,Paid,4.0,9,Self-referral
+P2787,2024-12-06,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,26,Male,Delhi,60,True,880,Paid,2.0,10,Online search
+P2362,05/04/2023,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,48,Female,Bangalore,90,True,1093,Pending,2.0,5,Doctor referral
+P1441,2024-09-23,Dr. Neha Desai,T06,Depression,Crisis Intervention,51,Male,Mumbai,90,True,-1022,Paid,5.0,16,Self-referral
+P1100,2023-02-07,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,38,Male,Chennai,45,True,572,Pending,,18,Online search
+P0977,2023-01-14,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,48,Female,Bangalore,90,True,1344,Pending,1.0,18,Self-referral
+P3080,2023-09-02,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,59,Male,Bangalore,45,True,1376,Paid,,0,Online search
+P2482,2024-05-22,Dr. Priya Patel,T02,Depression,Follow-up,41,Non-binary,Chennai,30,True,536,Pending,4.0,6,Self-referral
+P2114,2023-11-14,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,41,Male,Bangalore,45,True,1240,Paid,5.0,21,Online search
+P3029,2024-11-13,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,2,Male,Kolkata,30,True,401,Paid,,9,Online search
+P4991,2023-01-08,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,31,Female,Chennai,90,True,1359,Paid,5.0,5,NGO partner
+P0801,2024-07-14,Dr. Neha Desai,T06,Trauma & PTSD,Initial Consultation,28,Female,Mumbai,90,True,1144,Paid,4.0,11,Doctor referral
+P2461,2024-06-23,Dr. Meera Iyer,T08,Depression,Initial Consultation,46,Female,Delhi,60,True,948,Paid,4.0,7,NGO partner
+P4788,2023-01-20,Dr. Arjun Kumar,T07,Addiction Recovery,Initial Consultation,40,Female,Chennai,90,True,915,Paid,2.0,20,Doctor referral
+P2960,2024-12-07,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,43,Male,Hyderabad,45,True,871,Paid,3.0,5,Online search
+P3278,2023-05-12,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,41,Female,Mumbai,60,True,1038,Paid,2.0,21,Word of mouth
+P1452,2023-04-16,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,32,Female,Bangalore,90,True,631,Paid,1.0,21,NGO partner
+P4915,2023-04-15,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,42,Female,Hyderabad,90,False,628,Paid,,21,Doctor referral
+P2108,2023-06-08,,T05,Depression,Follow-up,42,Female,Mumbai,45,True,575,Paid,,18,Online search
+P1478,2023-07-09,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,30,Male,Mumbai,60,True,596,Pending,,5,Doctor referral
+P3691,2024-04-05,Dr. Aarav Sharma,T01,Anxiety & Stress,Follow-up,38,Non-binary,Kolkata,30,True,664,Paid,1.0,16,Doctor referral
+P3623,2024-12-18,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,31,Male,Hyderabad,90,True,1228,Paid,,6,Online search
+P3792,2023-12-30,Dr. Vikram Singh,T05,Depression,Group Session,105,Prefer not to say,Delhi,90,True,449,Paid,1.0,1,Self-referral
+P4950,2023-08-17,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,45,Female,Chennai,45,True,1180,Paid,4.0,14,Doctor referral
+P3496,2024-08-10,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,34,Female,Kolkata,45,True,1420,Waived,4.0,5,Online search
+P2570,2024-03-05,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,38,Male,Mumbai,60,True,1453,Paid,3.0,16,NGO partner
+P1972,2024-03-18,Dr. Priya Patel,T02,Depression,Follow-up,58,Female,Chennai,45,True,-511,Paid,,15,Word of mouth
+P2373,2024-03-05,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,33,Male,Chennai,30,True,885,Paid,2.0,6,Word of mouth
+P3524,2023-11-24,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,2,Male,Delhi,30,True,1107,Paid,3.0,6,Self-referral
+P3433,2024-08-12,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,32,Prefer not to say,Hyderabad,45,True,1244,Waived,4.0,15,Doctor referral
+P1806,2023-09-10,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,33,Male,Mumbai,30,True,1113,Paid,2.0,7,Online search
+P0610,2024-11-15,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,44,Male,Delhi,60,True,981,Paid,2.0,8,Word of mouth
+P3122,2024-11-14,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,36,Male,Delhi,90,True,407,Paid,5.0,3,Online search
+P4388,2023-11-17,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,33,Non-binary,Bangalore,90,True,1295,Pending,5.0,10,Online search
+P0175,16/06/2024,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,31,Female,Delhi,90,True,1481,Paid,,12,Word of mouth
+P1908,2023-02-16,Dr. Priya Patel,T02,Anxiety & Stress,Follow-up,48,Male,Bangalore,60,False,648,Paid,,14,Online search
+P0296,2023-12-06,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,23,Female,Chennai,30,True,1110,Paid,1.0,16,Word of mouth
+P2231,2023-09-09,Dr. Rohan Gupta,T03,Trauma & PTSD,Initial Consultation,29,Female,Mumbai,30,False,966,Paid,3.0,12,Doctor referral
+P2526,2024-02-21,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,55,Male,Kolkata,30,True,1074,Paid,4.0,2,Doctor referral
+P2810,2023-10-12,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,27,Female,Kolkata,60,True,592,Pending,3.0,0,Self-referral
+P1004,2023-05-14,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,44,Female,Bangalore,45,True,431,Waived,4.0,4,Self-referral
+P0921,2023-02-15,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,36,Female,Delhi,45,True,602,Pending,1.0,9,Self-referral
+P4389,2024-11-01,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,52,Male,Hyderabad,45,True,1065,Paid,2.0,9,Doctor referral
+P0916,2023-05-08,Dr. Arjun Kumar,T07,Depression,Initial Consultation,39,Male,Kolkata,90,True,874,Paid,5.0,21,Online search
+P0356,2024-01-01,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,51,Male,Delhi,45,True,1115,Paid,1.0,13,NGO partner
+P1749,2024-09-06,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,51,Male,Hyderabad,60,False,1054,Paid,,3,Doctor referral
+P0839,2024-04-22,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,40,Male,Chennai,60,True,473,Paid,5.0,17,NGO partner
+P2482,2024-08-24,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,30,Male,Delhi,60,True,660,Paid,1.0,17,Self-referral
+P3515,2024-05-16,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,38,Male,Bangalore,30,True,-866,Paid,4.0,1,NGO partner
+P2835,2024-06-14,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,44,Male,Kolkata,30,True,655,Paid,2.0,8,Doctor referral
+P2273,2023-07-09,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,31,Male,Kolkata,60,True,307,Paid,,5,NGO partner
+P2026,2023-12-25,Dr. Aarav Sharma,T01,Depression,Follow-up,52,Male,Mumbai,45,True,535,Paid,1.0,7,Doctor referral
+P0346,2023-02-17,Dr. Arjun Kumar,T07,Depression,Initial Consultation,44,Female,Mumbai,45,True,859,Paid,1.0,11,Word of mouth
+P2257,2024-09-10,Dr. Rohan Gupta,T03,Depression,Group Session,42,Female,Mumbai,45,True,450,Paid,4.0,14,Self-referral
+P1658,2023-01-10,Dr. Aarav Sharma,T01,Depression,Initial Consultation,33,Female,Bangalore,90,True,1077,Pending,1.0,5,Online search
+P4955,2023-06-16,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,43,Male,Hyderabad,60,False,561,Paid,,13,Doctor referral
+P0477,2024-12-12,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,28,Male,Chennai,30,True,384,Paid,2.0,15,NGO partner
+P0895,2023-01-17,Dr. Vikram Singh,T05,Anxiety & Stress,Group Session,57,Male,Chennai,90,True,438,Paid,3.0,3,NGO partner
+P2964,2024-02-28,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,46,Male,Bangalore,45,True,1459,Paid,,0,NGO partner
+P0391,2024-10-07,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,57,Female,Mumbai,45,True,424,Paid,5.0,1,Doctor referral
+P4823,2023-04-11,Dr. Vikram Singh,T05,Depression,Group Session,30,Male,Chennai,60,True,467,Paid,2.0,21,Doctor referral
+P4286,2023-10-17,Dr. Priya Patel,T02,Depression,Initial Consultation,24,Female,Kolkata,90,True,854,Paid,3.0,9,Doctor referral
+P1937,2024-10-29,Dr. Aarav Sharma,T01,Depression,Initial Consultation,28,Male,Bangalore,90,False,847,Paid,,15,Doctor referral
+P3647,2024-10-26,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,27,Non-binary,Kolkata,90,True,1075,Pending,,19,Online search
+P1615,2023-09-18,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,29,Male,Bangalore,30,True,1162,Pending,5.0,21,Online search
+P4780,2024-12-05,Dr. Neha Desai,T06,Child & Adolescent,Crisis Intervention,26,Male,Mumbai,45,True,1138,Paid,,10,Doctor referral
+P0086,2024-02-23,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,50,Non-binary,Delhi,60,False,383,Paid,,5,Online search
+P4468,2023-03-27,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,24,Prefer not to say,Hyderabad,30,True,323,Paid,2.0,19,Self-referral
+P3901,2024-06-23,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,27,Male,Chennai,60,True,514,Waived,3.0,17,Word of mouth
+P2534,2024-11-26,Dr. Vikram Singh,T05,Depression,Group Session,27,Male,Mumbai,60,True,384,Paid,3.0,19,Self-referral
+P3757,2023-10-15,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,110,Female,Delhi,60,False,556,Paid,,7,Online search
+P4029,2024-02-12,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,55,Female,Mumbai,30,False,301,Pending,,13,NGO partner
+P2358,2023-08-15,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,32,Male,Bangalore,90,True,509,Pending,5.0,20,NGO partner
+P4916,2023-05-24,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,2,Male,Kolkata,30,True,641,Pending,5.0,21,Online search
+P2818,2023-09-01,Dr. Aarav Sharma,T01,Depression,Follow-up,34,Male,Hyderabad,90,True,703,Paid,4.0,14,Doctor referral
+P0815,2024-01-29,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,39,Female,Mumbai,45,True,1330,Pending,2.0,12,Self-referral
+P4556,2024-06-04,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,33,Female,Kolkata,90,True,1007,Pending,3.0,12,NGO partner
+P1004,2023-05-14,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,44,Female,Bangalore,45,True,431,Waived,4.0,4,Self-referral
+P0175,2023-02-06,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,24,Male,Mumbai,60,True,725,Waived,1.0,8,NGO partner
+P3964,2024-08-06,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,36,Female,Mumbai,60,False,1088,Pending,,2,Online search
+P4798,2024-06-04,Dr. Rohan Gupta,T03,Depression,Group Session,37,Female,Chennai,30,False,444,Paid,,16,NGO partner
+P3642,2023-07-01,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,41,Female,Delhi,30,True,863,Paid,,8,Online search
+P0840,2024-06-14,Dr. Rohan Gupta,T03,Depression,Group Session,29,Female,Delhi,45,True,395,Paid,2.0,6,NGO partner
+P0102,2024-07-23,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,29,Male,Chennai,90,True,1282,Paid,4.0,3,Word of mouth
+P0444,2024-03-09,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,45,Non-binary,Mumbai,90,False,1239,Pending,3.0,10,Self-referral
+P1636,2024-04-17,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,42,Female,Delhi,60,True,499,Pending,2.0,1,Word of mouth
+P0787,2023-11-01,Dr. Priya Patel,T02,Depression,Crisis Intervention,48,Prefer not to say,Chennai,90,True,1279,Pending,4.0,10,NGO partner
+P3850,2024-04-09,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,30,Female,Delhi,30,True,885,Paid,5.0,13,Self-referral
+P0961,2023-05-28,Dr. Meera Iyer,T08,Depression,Crisis Intervention,30,Male,Bangalore,30,True,1124,Pending,2.0,13,Online search
+P1099,2024-04-19,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,36,Female,Delhi,60,True,1087,Paid,5.0,6,Online search
+P2797,2023-06-07,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,41,Male,Mumbai,90,False,1186,Paid,,8,Self-referral
+P4271,2024-12-24,Dr. Priya Patel,T02,Addiction Recovery,Group Session,48,Male,Delhi,30,True,309,Pending,,20,Self-referral
+P2952,2023-05-15,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,47,Male,Delhi,45,True,485,Pending,,9,Self-referral
+P4462,2024-01-08,Dr. Vikram Singh,T05,Depression,Initial Consultation,42,Male,Kolkata,60,True,1106,Paid,,17,NGO partner
+P1964,2024-10-22,Dr. Aarav Sharma,T01,Addiction Recovery,Initial Consultation,40,Male,Chennai,90,True,1178,Paid,,9,Online search
+P4005,2023-06-18,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,56,Female,Chennai,90,True,-433,Paid,5.0,1,Word of mouth
+P1756,2024-12-06,Dr. Vikram Singh,T05,Depression,Initial Consultation,38,Male,Hyderabad,45,True,945,Pending,5.0,21,Doctor referral
+P0256,2023-01-01,Dr. Aarav Sharma,T01,Depression,Group Session,33,Male,Bangalore,90,False,328,Paid,,20,Online search
+P4664,2023-02-12,Dr. Ananya Reddy,T04,Depression,Initial Consultation,0,Male,Bangalore,45,True,955,Paid,4.0,13,NGO partner
+P4108,2024-12-10,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,31,Female,Mumbai,30,True,1041,Paid,,18,Self-referral
+P1128,2023-08-13,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,43,Female,Kolkata,60,False,578,Paid,,12,Word of mouth
+P0154,2023-02-05,Dr. Priya Patel,T02,Child & Adolescent,Initial Consultation,39,Female,Delhi,30,True,836,Pending,4.0,1,Word of mouth
+P1286,2023-08-19,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,44,Male,Bangalore,60,True,1253,Paid,4.0,0,NGO partner
+P4549,2024-02-28,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,40,Female,Mumbai,45,True,1066,Paid,3.0,18,Online search
+P2341,2023-08-09,Dr. Ananya Reddy,T04,Trauma & PTSD,Group Session,57,Male,Mumbai,30,True,312,Pending,4.0,13,Doctor referral
+P0196,2024-11-06,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,31,Female,Bangalore,45,True,1479,Pending,4.0,8,NGO partner
+P3335,2024-07-06,,T04,Depression,Follow-up,37,Male,Mumbai,30,True,792,Waived,4.0,21,Word of mouth
+P4523,2024-01-15,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,27,Male,Delhi,45,True,1180,Pending,4.0,14,Online search
+P1955,2024-07-28,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,61,Non-binary,Mumbai,90,False,570,Paid,,18,Doctor referral
+P4854,2024-06-17,Dr. Vikram Singh,T05,Addiction Recovery,Group Session,31,Non-binary,Delhi,60,True,493,Paid,5.0,13,NGO partner
+P3147,2023-01-20,Dr. Meera Iyer,T08,Depression,Group Session,46,Male,Chennai,60,False,430,Pending,,2,NGO partner
+P4597,2024-03-12,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,24,Male,Hyderabad,45,True,394,Waived,3.0,2,NGO partner
+P0873,2024-02-19,Dr. Meera Iyer,T08,Depression,Initial Consultation,29,Female,Chennai,45,True,1102,Waived,,7,Doctor referral
+P2613,2024-10-31,Dr. Vikram Singh,T05,Trauma & PTSD,Follow-up,28,Female,Chennai,30,False,769,Paid,,1,Online search
+P2162,2024-09-03,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,40,Female,Chennai,30,True,925,Paid,4.0,13,Self-referral
+P0608,2023-02-04,Dr. Priya Patel,T02,Addiction Recovery,Group Session,39,Male,Delhi,90,True,305,Pending,,5,Self-referral
+P3751,2024-10-16,Dr. Aarav Sharma,T01,Depression,Group Session,27,Male,Bangalore,60,True,481,Paid,4.0,14,NGO partner
+P4835,2023-12-27,Dr. Neha Desai,T06,Anxiety & Stress,Crisis Intervention,59,Male,Hyderabad,45,True,1316,Paid,3.0,10,Self-referral
+P1101,2024-09-18,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,32,Male,Mumbai,30,True,1141,Pending,1.0,17,Doctor referral
+P3558,2023-03-22,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,51,Female,Mumbai,45,True,1194,Pending,,20,NGO partner
+P2828,2024-10-22,,T04,Addiction Recovery,Initial Consultation,54,Non-binary,Bangalore,30,True,1031,Paid,5.0,15,Word of mouth
+P0268,2023-06-21,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,30,Female,Delhi,60,True,1089,Paid,3.0,5,Word of mouth
+P1426,2024-07-21,Dr. Vikram Singh,T05,Trauma & PTSD,Follow-up,27,Non-binary,Chennai,60,True,598,Pending,,12,NGO partner
+P3949,2024-03-27,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,110,Female,Bangalore,90,True,1258,Paid,2.0,2,Online search
+P3066,2023-04-03,Dr. Arjun Kumar,T07,Anxiety & Stress,Follow-up,39,Female,Bangalore,45,True,578,Pending,,11,Self-referral
+P3501,2023-04-06,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,47,Female,Mumbai,60,True,382,Pending,1.0,15,Doctor referral
+P2487,2023-10-15,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,35,Male,Chennai,60,True,1332,Waived,,9,Word of mouth
+P1478,2023-07-09,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,30,Male,Mumbai,60,True,596,Pending,,5,Doctor referral
+P4663,2023-07-20,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,36,Female,Bangalore,45,False,1056,Paid,,17,Doctor referral
+P1470,2024-11-14,Dr. Aarav Sharma,T01,Depression,Group Session,39,Male,Delhi,45,True,349,Pending,1.0,4,Online search
+P3570,2023-01-17,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,39,Male,Delhi,30,True,513,Paid,2.0,9,Word of mouth
+P1503,2023-09-18,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,38,Prefer not to say,Chennai,30,True,391,Paid,5.0,15,Word of mouth
+P3304,2024-04-21,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,22,Male,Bangalore,90,False,1166,Paid,,4,Doctor referral
+P0182,2024-09-25,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,48,Female,Bangalore,30,True,1254,Waived,2.0,11,Word of mouth
+P3567,29/08/2023,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,51,Non-binary,Hyderabad,90,True,1414,Paid,5.0,7,Self-referral
+P4581,2023-04-07,Dr. Neha Desai,T06,Depression,Initial Consultation,41,Prefer not to say,Kolkata,30,True,1119,Paid,3.0,6,Online search
+P4079,2023-01-11,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,32,Male,Hyderabad,30,True,1346,Paid,4.0,12,Self-referral
+P4255,2024-05-27,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,40,Female,Delhi,45,True,823,Paid,4.0,10,NGO partner
+P4654,2023-08-26,Dr. Ananya Reddy,T04,Anxiety & Stress,Initial Consultation,30,Male,Mumbai,45,True,1101,Pending,5.0,1,Self-referral
+P0534,2024-07-24,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,24,Female,Chennai,30,True,573,Paid,1.0,19,Doctor referral
+P2846,2023-02-14,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,38,Female,Bangalore,30,True,598,Paid,5.0,13,Self-referral
+P1531,2024-02-15,,T08,Depression,Follow-up,42,Female,Bangalore,60,True,570,Paid,5.0,17,Online search
+P1835,2024-02-27,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,42,Male,Kolkata,60,False,1003,Paid,,21,Online search
+P2722,2023-11-09,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,24,Male,Delhi,30,True,587,Paid,2.0,21,Word of mouth
+P3957,2024-05-24,Dr. Aarav Sharma,T01,Depression,Group Session,20,Female,Hyderabad,90,False,464,Paid,,9,Word of mouth
+P1895,2024-07-29,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,43,Male,Mumbai,45,True,1153,Paid,2.0,14,Word of mouth
+P1190,2024-06-29,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,31,Female,Bangalore,30,True,694,Paid,3.0,9,Word of mouth
+P4866,2023-03-18,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,47,Female,Mumbai,90,True,481,Waived,5.0,4,Doctor referral
+P0969,2024-02-29,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,38,Male,Delhi,90,True,1500,Pending,,15,Word of mouth
+P2089,2024-04-09,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,30,Male,Delhi,90,True,1212,Paid,3.0,2,Self-referral
+P2483,2023-11-19,Dr. Meera Iyer,T08,Depression,Crisis Intervention,25,Female,Bangalore,90,True,1226,Paid,5.0,4,Online search
+P1272,2023-08-29,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,0,Non-binary,Mumbai,30,True,470,Paid,2.0,18,Self-referral
+P4252,2024-12-26,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,38,Female,Mumbai,30,True,1287,Waived,5.0,18,Self-referral
+P0337,2023-04-15,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,43,Male,Chennai,90,True,475,Paid,5.0,21,Online search
+P4725,2024-07-31,Dr. Neha Desai,T06,Addiction Recovery,Initial Consultation,52,Male,Hyderabad,45,True,814,Paid,,18,Word of mouth
+P4960,2023-12-18,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,62,Male,Kolkata,90,True,660,Paid,3.0,11,NGO partner
+P1736,2023-04-05,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,33,Male,Chennai,30,False,1500,Paid,,7,Word of mouth
+P3192,2023-09-10,Dr. Vikram Singh,T05,Addiction Recovery,Initial Consultation,28,Male,Kolkata,30,True,842,Paid,2.0,2,Self-referral
+P2161,2024-07-28,Dr. Arjun Kumar,T07,Addiction Recovery,Follow-up,23,Male,Hyderabad,30,False,607,Paid,,3,Doctor referral
+P0544,2023-06-11,Dr. Rohan Gupta,T03,Anxiety & Stress,Initial Consultation,31,Male,Bangalore,90,True,807,Paid,4.0,13,NGO partner
+P4175,2024-08-21,Dr. Vikram Singh,T05,Child & Adolescent,Crisis Intervention,35,Female,Mumbai,30,True,1459,Paid,2.0,3,Doctor referral
+P3992,2023-04-27,Dr. Meera Iyer,T08,Depression,Initial Consultation,25,Male,Hyderabad,90,True,1017,Pending,5.0,12,Self-referral
+P4380,2024-04-07,Dr. Priya Patel,T02,Child & Adolescent,Group Session,32,Female,Chennai,30,True,331,Paid,,15,NGO partner
+P2252,2023-11-07,Dr. Vikram Singh,T05,Depression,Follow-up,105,Male,Kolkata,30,True,525,Paid,4.0,19,Word of mouth
+P3524,2023-05-22,Dr. Ananya Reddy,T04,Depression,Group Session,52,Male,Hyderabad,45,True,476,Paid,2.0,10,Self-referral
+P4644,2023-09-27,Dr. Priya Patel,T02,Depression,Initial Consultation,46,Male,Kolkata,45,True,1054,Paid,4.0,8,Self-referral
+P4085,2023-11-22,Dr. Arjun Kumar,T07,Anxiety & Stress,Group Session,36,Male,Kolkata,90,True,350,Paid,,3,Self-referral
+P0830,2023-07-29,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,61,Male,Kolkata,30,True,1066,Paid,2.0,11,Word of mouth
+P3199,2024-08-14,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,31,Male,Bangalore,60,False,1065,Pending,,16,Doctor referral
+P2418,2024-02-14,Dr. Priya Patel,T02,Depression,Group Session,39,Male,Chennai,60,True,362,Paid,4.0,13,Online search
+P3576,2023-02-25,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,43,Female,Bangalore,30,True,593,Paid,4.0,14,Online search
+P1586,2023-08-19,Dr. Meera Iyer,T08,Addiction Recovery,Group Session,42,Male,Bangalore,45,True,493,Pending,2.0,21,Self-referral
+P0337,2023-05-03,Dr. Neha Desai,T06,Anxiety & Stress,Follow-up,33,Female,Kolkata,30,True,592,Pending,1.0,17,NGO partner
+P0893,2024-04-08,Dr. Neha Desai,T06,Depression,Group Session,38,Male,Mumbai,45,True,359,Paid,5.0,14,Word of mouth
+P4849,2023-05-09,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,45,Female,Delhi,45,True,457,Paid,2.0,21,NGO partner
+P0013,2023-07-04,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,22,Male,Mumbai,90,False,648,Paid,1.0,20,Self-referral
+P3648,2024-04-30,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,42,Male,Bangalore,30,True,1011,Paid,,14,NGO partner
+P2764,2023-04-13,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,35,Female,Hyderabad,90,True,1098,Paid,,14,Self-referral
+P0625,2024-02-06,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,105,Female,Chennai,30,True,456,Paid,1.0,3,NGO partner
+P1549,2024-04-30,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,0,Male,Mumbai,45,True,407,Paid,3.0,16,Online search
+P3779,2024-04-24,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,49,Male,Chennai,30,True,409,Waived,,13,Self-referral
+P3779,2024-04-09,Dr. Neha Desai,T06,Depression,Crisis Intervention,64,Male,Kolkata,60,True,1015,Waived,4.0,19,NGO partner
+P0851,2023-06-12,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,41,Female,Bangalore,45,True,541,Paid,5.0,4,Doctor referral
+P4613,2024-11-06,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,47,Female,Hyderabad,90,True,1066,Waived,5.0,17,Doctor referral
+P1647,2023-11-04,Dr. Vikram Singh,T05,Depression,Follow-up,43,Male,Delhi,90,True,589,Paid,1.0,0,Online search
+P2764,2024-09-20,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,42,Male,Hyderabad,90,True,418,Paid,2.0,2,Self-referral
+P1026,2024-11-29,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,55,Female,Hyderabad,90,True,1082,Paid,4.0,17,Doctor referral
+P3726,2024-02-09,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,47,Male,Bangalore,30,True,572,Paid,5.0,17,Self-referral
+P1022,2023-03-03,Dr. Priya Patel,T02,Child & Adolescent,Group Session,34,Female,Kolkata,30,True,-366,Pending,1.0,14,Online search
+P1329,2023-02-14,Dr. Arjun Kumar,T07,Depression,Follow-up,35,Male,Delhi,30,True,671,Paid,2.0,13,Online search
+P0399,2023-09-04,Dr. Aarav Sharma,T01,Depression,Follow-up,44,Female,Hyderabad,30,True,534,Pending,5.0,12,Word of mouth
+P2156,2023-11-29,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,110,Male,Delhi,60,False,1357,Waived,,12,Online search
+P1716,2024-01-14,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,43,Male,Hyderabad,45,True,1032,Paid,2.0,10,Word of mouth
+P3329,2023-06-14,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,40,Female,Kolkata,30,True,1323,Paid,,15,Word of mouth
+P0213,2024-06-26,Dr. Rohan Gupta,T03,Depression,Group Session,26,Male,Bangalore,90,True,401,Pending,1.0,17,Self-referral
+P0035,2024-04-25,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,48,Female,Chennai,60,False,579,Paid,,15,Word of mouth
+P3180,2023-03-16,Dr. Rohan Gupta,T03,Child & Adolescent,Follow-up,43,Female,Kolkata,45,False,763,Paid,,12,NGO partner
+P0398,2023-07-08,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,40,Male,Bangalore,45,True,1068,Paid,,20,Doctor referral
+P1817,2023-05-14,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,35,Male,Delhi,45,True,1324,Paid,2.0,12,Online search
+P4693,2024-01-23,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,32,Female,Chennai,30,True,487,Paid,1.0,5,NGO partner
+P0102,2024-07-23,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,29,Male,Chennai,90,True,1282,Paid,4.0,3,Word of mouth
+P3759,2023-01-04,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,105,Non-binary,Kolkata,45,True,1237,Paid,1.0,13,Self-referral
+P4591,2024-05-02,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,45,Male,Kolkata,60,True,-1030,Paid,3.0,0,Word of mouth
+P0695,2023-12-25,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,57,Non-binary,Chennai,90,True,-467,Paid,5.0,20,Online search
+P3686,2023-12-21,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,29,Male,Hyderabad,60,True,441,Pending,1.0,16,Self-referral
+P2714,2023-02-27,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,28,Male,Mumbai,30,True,1159,Paid,4.0,7,Doctor referral
+P3500,2024-06-07,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,25,Female,Delhi,60,True,1072,Paid,2.0,20,Online search
+P4055,2024-06-14,Dr. Ananya Reddy,T04,Child & Adolescent,Follow-up,34,Male,Mumbai,45,True,700,Paid,2.0,15,NGO partner
+P2034,2023-05-29,Dr. Vikram Singh,T05,Depression,Group Session,40,Male,Kolkata,30,True,448,Pending,,9,Self-referral
+P0241,2023-01-11,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,38,Female,Mumbai,60,True,606,Paid,,13,Self-referral
+P2010,2024-07-15,Dr. Ananya Reddy,T04,Depression,Follow-up,40,Male,Bangalore,45,True,640,Paid,2.0,4,Self-referral
+P4183,2023-01-11,Dr. Meera Iyer,T08,Trauma & PTSD,Follow-up,42,Female,Hyderabad,45,True,765,Paid,5.0,19,Doctor referral
+P2754,2024-02-20,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,31,Male,Chennai,60,True,1434,Paid,2.0,18,Word of mouth
+P2916,2024-01-01,Dr. Aarav Sharma,T01,Depression,Group Session,23,Male,Hyderabad,30,True,401,Paid,4.0,10,Word of mouth
+P3955,2024-11-26,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,32,Female,Kolkata,90,False,676,Paid,,2,Self-referral
+P0065,2023-07-26,,T04,Anxiety & Stress,Group Session,32,Female,Hyderabad,90,True,445,Paid,3.0,13,Word of mouth
+P3437,2023-08-27,Dr. Ananya Reddy,T04,Depression,Initial Consultation,39,Male,Bangalore,60,True,1087,Paid,5.0,0,Doctor referral
+P4578,2024-03-16,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,49,Female,Mumbai,90,True,566,Paid,5.0,1,Word of mouth
+P1128,2023-12-30,Dr. Vikram Singh,T05,Anxiety & Stress,Crisis Intervention,30,Female,Mumbai,45,True,1246,Paid,2.0,9,NGO partner
+P2716,2024-11-23,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,27,Female,Kolkata,60,True,833,Paid,1.0,6,Doctor referral
+P0290,2024-05-20,Dr. Ananya Reddy,T04,Addiction Recovery,Initial Consultation,110,Male,Mumbai,90,False,1088,Paid,,19,NGO partner
+P3555,2024-11-14,Dr. Rohan Gupta,T03,Child & Adolescent,Group Session,48,Prefer not to say,Kolkata,60,True,452,Paid,1.0,16,Online search
+P3347,2024-08-16,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,48,Male,Bangalore,45,True,1228,Paid,1.0,12,NGO partner
+P0653,2023-08-26,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,61,Male,Chennai,60,True,941,Paid,5.0,17,Online search
+P4719,2024-07-28,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,29,Prefer not to say,Mumbai,90,True,624,Paid,3.0,13,Online search
+P4845,2023-06-14,Dr. Meera Iyer,T08,Depression,Follow-up,29,Male,Delhi,60,True,700,Paid,4.0,2,Doctor referral
+P0958,2024-07-17,Dr. Vikram Singh,T05,Addiction Recovery,Follow-up,27,Male,Hyderabad,60,True,616,Paid,4.0,17,Word of mouth
+P1335,2024-12-06,Dr. Meera Iyer,T08,Depression,Crisis Intervention,43,Female,Chennai,45,False,1374,Paid,,15,Word of mouth
+P2924,2024-10-01,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,53,Male,Delhi,60,True,625,Paid,,15,Doctor referral
+P1850,2023-08-13,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,52,Male,Delhi,45,True,491,Pending,1.0,0,NGO partner
+P2651,2023-02-02,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,0,Female,Delhi,60,True,399,Paid,4.0,13,Online search
+P3074,2024-08-26,Dr. Aarav Sharma,T01,Addiction Recovery,Follow-up,41,Male,Chennai,30,True,563,Waived,1.0,19,Self-referral
+P0383,2023-05-04,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,46,Female,Kolkata,45,True,749,Paid,3.0,16,NGO partner
+P4164,2023-12-02,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,27,Female,Bangalore,45,True,527,Paid,2.0,2,Word of mouth
+P2024,2023-07-29,Dr. Neha Desai,T06,Depression,Crisis Intervention,58,Female,Chennai,60,True,1297,Pending,3.0,5,Word of mouth
+P3408,2023-08-31,,T02,Anxiety & Stress,Follow-up,44,Female,Hyderabad,90,True,666,Paid,,9,Doctor referral
+P3931,2023-11-28,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,50,Female,Hyderabad,60,True,514,Pending,,19,Self-referral
+P2800,2024-09-20,Dr. Neha Desai,T06,Child & Adolescent,Follow-up,39,Male,Hyderabad,45,True,722,Paid,5.0,20,Doctor referral
+P3568,18/01/2024,Dr. Vikram Singh,T05,Depression,Initial Consultation,41,Female,Bangalore,45,True,961,Waived,2.0,20,Online search
+P0305,2023-03-06,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,19,Male,Bangalore,90,True,610,Paid,1.0,13,Doctor referral
+P2292,2024-11-01,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,32,Male,Hyderabad,60,True,1050,Paid,,6,Word of mouth
+P1189,2023-02-13,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,37,Male,Kolkata,45,False,429,Paid,,18,Doctor referral
+P4763,30/10/2023,Dr. Arjun Kumar,T07,Anxiety & Stress,Crisis Intervention,45,Male,Hyderabad,45,True,1395,Paid,,1,Doctor referral
+P4977,2024-06-25,Dr. Priya Patel,T02,Anxiety & Stress,Group Session,38,Male,Mumbai,45,True,479,Paid,3.0,10,Word of mouth
+P2952,2023-05-15,Dr. Meera Iyer,T08,Child & Adolescent,Group Session,47,Male,Delhi,45,True,485,Pending,,9,Self-referral
+P1932,2024-07-12,Dr. Meera Iyer,T08,Addiction Recovery,Crisis Intervention,34,Prefer not to say,Bangalore,90,False,1160,Paid,,16,NGO partner
+P4700,2024-07-13,Dr. Aarav Sharma,T01,Depression,Group Session,26,Female,Chennai,90,True,465,Paid,3.0,10,Self-referral
+P3539,2024-12-16,Dr. Arjun Kumar,T07,Depression,Initial Consultation,26,Female,Chennai,60,True,871,Pending,,21,Online search
+P1013,2024-02-22,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,40,Female,Mumbai,45,False,1189,Paid,,15,Online search
+P0176,2023-07-06,Dr. Priya Patel,T02,Child & Adolescent,Group Session,36,Male,Chennai,60,True,416,Paid,4.0,0,NGO partner
+P1632,2024-03-12,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,27,Female,Bangalore,45,True,1151,Paid,,0,Word of mouth
+P1549,2024-03-24,Dr. Neha Desai,T06,Depression,Follow-up,38,Female,Hyderabad,60,True,726,Paid,5.0,1,NGO partner
+P0376,2023-02-07,Dr. Priya Patel,T02,Depression,Follow-up,44,Female,Hyderabad,45,True,750,Paid,5.0,0,Doctor referral
+P2105,2024-02-15,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,51,Female,Bangalore,30,False,894,Paid,,6,NGO partner
+P4131,2024-03-03,Dr. Aarav Sharma,T01,Anxiety & Stress,Initial Consultation,35,Male,Bangalore,90,False,820,Paid,,15,Self-referral
+P3377,2024-02-07,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,32,Female,Delhi,45,True,740,Paid,3.0,10,NGO partner
+P3942,2024-10-12,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,49,Female,Kolkata,90,False,639,Paid,,12,Doctor referral
+P0361,2023-09-23,Dr. Priya Patel,T02,Child & Adolescent,Group Session,56,Female,Bangalore,45,True,385,Paid,,4,Doctor referral
+P2775,2023-10-05,Dr. Neha Desai,T06,Trauma & PTSD,Follow-up,50,Female,Bangalore,30,True,645,Paid,3.0,4,Self-referral
+P3010,2023-08-30,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,22,Female,Hyderabad,60,False,325,Paid,,1,Word of mouth
+P4279,2023-04-16,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,31,Male,Hyderabad,90,True,643,Paid,2.0,10,NGO partner
+P1840,2023-02-13,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,45,Male,Mumbai,45,True,449,Paid,4.0,8,Online search
+P4148,2024-09-20,Dr. Ananya Reddy,T04,Child & Adolescent,Crisis Intervention,39,Female,Mumbai,45,True,1048,Paid,1.0,14,Online search
+P3511,2023-08-27,Dr. Aarav Sharma,T01,Depression,Initial Consultation,31,Female,Chennai,30,True,1115,Paid,2.0,1,Doctor referral
+P3787,2024-01-20,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,43,Female,Kolkata,90,True,791,Pending,4.0,14,NGO partner
+P0882,2024-03-19,Dr. Meera Iyer,T08,Trauma & PTSD,Crisis Intervention,28,Female,Bangalore,90,True,1216,Paid,3.0,6,NGO partner
+P4236,2023-09-22,Dr. Ananya Reddy,T04,Depression,Follow-up,28,Female,Bangalore,45,True,739,Pending,,14,NGO partner
+P3538,2024-04-06,Dr. Vikram Singh,T05,Depression,Crisis Intervention,47,Female,Hyderabad,90,True,1116,Paid,,2,NGO partner
+P2917,2023-09-05,Dr. Ananya Reddy,T04,Depression,Group Session,110,Male,Mumbai,30,True,352,Pending,,2,Word of mouth
+P1440,2023-08-16,Dr. Arjun Kumar,T07,Trauma & PTSD,Crisis Intervention,53,Male,Hyderabad,60,True,1487,Paid,,18,Word of mouth
+P4092,2023-11-28,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,48,Male,Mumbai,90,True,303,Paid,2.0,8,NGO partner
+P2291,2024-12-18,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,38,Male,Delhi,45,False,393,Paid,,18,Doctor referral
+P2667,2023-01-04,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,25,Male,Delhi,90,True,304,Pending,,12,NGO partner
+P4011,2023-02-15,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,30,Male,Bangalore,60,True,-1352,Paid,1.0,3,Self-referral
+P4193,2024-02-07,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,28,Male,Delhi,45,True,1133,Waived,5.0,3,Self-referral
+P0852,2024-09-14,Dr. Meera Iyer,T08,Anxiety & Stress,Crisis Intervention,42,Female,Kolkata,30,True,1251,Paid,5.0,19,Doctor referral
+P3997,2023-02-07,Dr. Vikram Singh,T05,Depression,Crisis Intervention,38,Female,Hyderabad,30,True,1204,Paid,5.0,16,Self-referral
+P3224,2023-06-27,Dr. Vikram Singh,T05,Child & Adolescent,Group Session,26,Male,Chennai,45,True,372,Waived,2.0,0,Self-referral
+P4268,2024-12-23,Dr. Arjun Kumar,T07,Depression,Crisis Intervention,31,Female,Kolkata,45,True,1143,Paid,,3,Online search
+P1692,2023-03-12,Dr. Meera Iyer,T08,Depression,Crisis Intervention,48,Male,Delhi,60,False,1489,Paid,,13,Word of mouth
+P1422,2024-09-15,Dr. Aarav Sharma,T01,Child & Adolescent,Crisis Intervention,24,Female,Chennai,90,False,1002,Paid,,12,NGO partner
+P1080,2024-07-07,Dr. Rohan Gupta,T03,Anxiety & Stress,Group Session,26,Female,Kolkata,45,True,344,Pending,,18,Online search
+P4224,2023-01-03,Dr. Ananya Reddy,T04,Anxiety & Stress,Crisis Intervention,35,Male,Bangalore,90,False,1111,Paid,,1,Online search
+P2535,2023-09-26,Dr. Priya Patel,T02,Depression,Follow-up,41,Male,Delhi,60,True,543,Waived,,14,Doctor referral
+P4418,2024-06-19,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,38,Female,Kolkata,30,True,925,Paid,1.0,10,NGO partner
+P2663,2024-09-16,Dr. Rohan Gupta,T03,Trauma & PTSD,Initial Consultation,42,Male,Delhi,45,True,1106,Paid,1.0,18,Word of mouth
+P0300,2024-04-02,Dr. Aarav Sharma,T01,Trauma & PTSD,Group Session,45,Male,Hyderabad,90,True,376,Paid,3.0,7,Doctor referral
+P4451,2024-09-21,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,28,Prefer not to say,Kolkata,30,True,362,Waived,5.0,12,Doctor referral
+P3953,2024-12-27,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,32,Male,Delhi,45,True,417,Paid,4.0,6,Doctor referral
+P2190,2024-06-20,Dr. Priya Patel,T02,Child & Adolescent,Follow-up,27,Male,Mumbai,60,True,623,Paid,3.0,12,Word of mouth
+P0357,2023-03-11,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,36,Female,Kolkata,60,False,999,Paid,2.0,0,Online search
+P0095,2023-06-14,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,34,Male,Hyderabad,90,True,332,Paid,4.0,13,Self-referral
+P0597,2023-01-26,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,47,Female,Bangalore,45,False,925,Paid,,12,Word of mouth
+P2555,2023-01-11,Dr. Meera Iyer,T08,Depression,Group Session,35,Male,Delhi,30,True,406,Paid,1.0,17,Word of mouth
+P4441,2024-07-16,Dr. Meera Iyer,T08,Anxiety & Stress,Initial Consultation,31,Male,Hyderabad,90,True,1093,Paid,3.0,17,Doctor referral
+P3348,2024-05-03,,T05,Addiction Recovery,Follow-up,42,Male,Delhi,30,True,542,Pending,,0,NGO partner
+P3603,2023-07-09,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,33,Female,Kolkata,45,True,397,Paid,3.0,8,NGO partner
+P4268,2023-06-12,Dr. Neha Desai,T06,Anxiety & Stress,Initial Consultation,42,Male,Kolkata,90,False,-1181,Paid,,20,Online search
+P2205,2023-03-19,Dr. Neha Desai,T06,Depression,Follow-up,30,Female,Hyderabad,45,True,743,Paid,5.0,15,Doctor referral
+P0820,2023-11-21,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,42,Male,Kolkata,90,True,1292,Paid,4.0,16,Online search
+P0979,2023-07-05,Dr. Rohan Gupta,T03,Addiction Recovery,Initial Consultation,32,Male,Mumbai,30,False,1132,Paid,2.0,12,NGO partner
+P4406,2024-10-03,Dr. Arjun Kumar,T07,Anxiety & Stress,Initial Consultation,33,Female,Mumbai,90,True,968,Paid,5.0,18,NGO partner
+P0262,2024-01-03,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,31,Female,Kolkata,90,True,391,Pending,5.0,3,NGO partner
+P4671,2023-05-17,,T07,Anxiety & Stress,Crisis Intervention,36,Female,Kolkata,45,True,1053,Paid,3.0,14,Self-referral
+P4176,2023-08-29,Dr. Aarav Sharma,T01,Depression,Crisis Intervention,34,Female,Mumbai,60,True,1196,Paid,,11,NGO partner
+P1664,2024-01-10,Dr. Priya Patel,T02,Depression,Group Session,32,Male,Chennai,30,True,320,Pending,3.0,12,Doctor referral
+P3117,2024-07-25,Dr. Priya Patel,T02,Child & Adolescent,Crisis Intervention,52,Female,Bangalore,60,True,1310,Paid,5.0,18,Word of mouth
+P4820,2024-03-24,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,22,Non-binary,Delhi,45,True,1061,Paid,1.0,0,Self-referral
+P3263,2023-06-12,Dr. Priya Patel,T02,Addiction Recovery,Crisis Intervention,28,Female,Chennai,60,True,1034,Paid,3.0,9,NGO partner
+P2095,2024-04-18,Dr. Rohan Gupta,T03,Child & Adolescent,Crisis Intervention,56,Male,Mumbai,30,True,1107,Paid,4.0,20,Word of mouth
+P0571,2024-03-31,Dr. Priya Patel,T02,Trauma & PTSD,Follow-up,47,Female,Mumbai,90,False,657,Pending,,10,Word of mouth
+P3350,2024-06-16,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,36,Female,Mumbai,45,True,992,Paid,3.0,13,NGO partner
+P1919,2024-07-06,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,110,Male,Kolkata,60,True,528,Paid,,7,Online search
+P2758,2024-09-09,Dr. Arjun Kumar,T07,Addiction Recovery,Group Session,28,Female,Hyderabad,60,True,424,Paid,4.0,10,Doctor referral
+P3926,2023-09-16,Dr. Ananya Reddy,T04,Trauma & PTSD,Follow-up,46,Female,Bangalore,90,True,716,Paid,5.0,17,Self-referral
+P3049,2024-07-02,Dr. Rohan Gupta,T03,Trauma & PTSD,Follow-up,34,Female,Hyderabad,45,True,536,Paid,2.0,13,Doctor referral
+P3264,2024-09-13,Dr. Priya Patel,T02,Anxiety & Stress,Initial Consultation,25,Male,Kolkata,90,True,-1024,Paid,3.0,16,Word of mouth
+P3397,2024-02-29,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,43,Female,Mumbai,30,False,502,Waived,3.0,4,Online search
+P1452,2024-07-20,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,60,Non-binary,Delhi,45,True,1429,Paid,,3,Word of mouth
+P0247,2023-08-03,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,32,Female,Delhi,45,False,1230,Pending,,9,Self-referral
+P0318,2023-02-08,Dr. Meera Iyer,T08,Child & Adolescent,Follow-up,28,Female,Kolkata,45,True,641,Paid,4.0,1,Word of mouth
+P1726,2023-10-25,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,33,Male,Hyderabad,45,True,690,Paid,4.0,5,NGO partner
+P3233,2023-08-19,Dr. Neha Desai,T06,Anxiety & Stress,Group Session,24,Female,Delhi,60,True,404,Paid,3.0,12,Word of mouth
+P4116,2024-12-04,Dr. Ananya Reddy,T04,Trauma & PTSD,Initial Consultation,26,Female,Bangalore,60,True,983,Waived,2.0,5,Word of mouth
+P4092,2023-11-28,Dr. Rohan Gupta,T03,Addiction Recovery,Group Session,48,Male,Mumbai,90,True,303,Paid,2.0,8,NGO partner
+P3491,2024-02-22,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,31,Male,Mumbai,90,True,479,Paid,3.0,20,Self-referral
+P4087,2024-04-01,Dr. Vikram Singh,T05,Child & Adolescent,Follow-up,53,Female,Chennai,90,True,517,Paid,3.0,1,Self-referral
+P4784,2024-12-28,Dr. Ananya Reddy,T04,Depression,Follow-up,57,Male,Hyderabad,60,True,519,Paid,4.0,15,NGO partner
+P0260,2024-12-14,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,25,Male,Bangalore,90,True,653,Paid,,12,NGO partner
+P4156,2023-06-16,Dr. Neha Desai,T06,Trauma & PTSD,Crisis Intervention,105,Female,Chennai,90,True,1315,Waived,3.0,18,Online search
+P1964,2024-01-29,Dr. Meera Iyer,T08,Depression,Follow-up,45,Female,Kolkata,60,True,791,Paid,1.0,21,Self-referral
+P2332,2023-12-26,Dr. Priya Patel,T02,Addiction Recovery,Follow-up,31,Female,Kolkata,90,True,795,Pending,2.0,14,Self-referral
+P4063,2023-12-03,Dr. Arjun Kumar,T07,Depression,Follow-up,49,Non-binary,Mumbai,45,True,553,Paid,1.0,7,Word of mouth
+P4253,2024-11-10,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,38,Male,Mumbai,60,False,1142,Paid,,13,Self-referral
+P0980,2024-08-18,Dr. Neha Desai,T06,Addiction Recovery,Crisis Intervention,24,Male,Chennai,30,True,1289,Paid,4.0,8,Doctor referral
+P0175,16/06/2024,Dr. Rohan Gupta,T03,Addiction Recovery,Crisis Intervention,31,Female,Delhi,90,True,1481,Paid,,12,Word of mouth
+P0749,2024-09-22,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,40,Female,Delhi,45,True,1107,Paid,2.0,5,Word of mouth
+P2835,2023-07-02,Dr. Neha Desai,T06,Child & Adolescent,Initial Consultation,50,Non-binary,Delhi,45,False,987,Paid,5.0,12,Online search
+P0217,2023-04-22,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,52,Male,Delhi,90,True,357,Paid,3.0,6,Doctor referral
+P2960,2024-12-07,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,43,Male,Hyderabad,45,True,871,Paid,3.0,5,Online search
+P2791,2024-05-27,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,53,Male,Chennai,90,True,313,Paid,1.0,10,Self-referral
+P3575,2023-02-09,,T05,Trauma & PTSD,Initial Consultation,31,Female,Chennai,30,True,1105,Waived,3.0,12,NGO partner
+P0282,2024-09-07,Dr. Rohan Gupta,T03,Trauma & PTSD,Group Session,56,Female,Kolkata,60,True,337,Paid,,16,Self-referral
+P0431,2024-08-14,Dr. Ananya Reddy,T04,Depression,Group Session,35,Male,Bangalore,90,True,313,Paid,1.0,15,Online search
+P1304,2024-08-21,Dr. Neha Desai,T06,Depression,Crisis Intervention,29,Male,Mumbai,30,True,1034,Pending,,15,Word of mouth
+P2375,2023-06-03,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,27,Prefer not to say,Kolkata,45,True,380,Paid,5.0,2,NGO partner
+P4789,2024-07-03,Dr. Vikram Singh,T05,Child & Adolescent,Initial Consultation,53,Female,Hyderabad,60,True,1032,Paid,3.0,3,Doctor referral
+P1989,2024-02-03,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,23,Female,Bangalore,60,False,348,Paid,3.0,13,Self-referral
+P0147,2023-06-25,Dr. Meera Iyer,T08,Trauma & PTSD,Group Session,39,Male,Mumbai,90,True,451,Paid,3.0,9,Doctor referral
+P2005,2023-05-08,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,33,Male,Mumbai,60,True,406,Paid,,15,Self-referral
+P4706,2023-09-05,Dr. Priya Patel,T02,Trauma & PTSD,Group Session,23,Female,Delhi,90,True,364,Paid,5.0,16,Self-referral
+P0482,2024-12-24,Dr. Vikram Singh,T05,Addiction Recovery,Crisis Intervention,40,Male,Delhi,45,True,1323,Paid,4.0,7,Self-referral
+P1853,2024-12-21,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,44,Female,Hyderabad,90,True,800,Pending,5.0,0,Self-referral
+P3467,2023-05-12,Dr. Rohan Gupta,T03,Depression,Crisis Intervention,105,Male,Chennai,45,True,1484,Paid,5.0,9,Word of mouth
+P3735,2024-01-28,,T02,Trauma & PTSD,Group Session,20,Male,Chennai,60,True,342,Waived,3.0,13,Doctor referral
+P1655,2023-11-14,Dr. Ananya Reddy,T04,Depression,Crisis Intervention,56,Female,Kolkata,45,True,1248,Paid,1.0,0,Online search
+P4710,2024-09-12,Dr. Ananya Reddy,T04,Anxiety & Stress,Follow-up,26,Male,Kolkata,45,False,732,Pending,,13,NGO partner
+P0757,2023-02-07,Dr. Ananya Reddy,T04,Trauma & PTSD,Crisis Intervention,37,Female,Hyderabad,30,True,1186,Paid,2.0,8,Self-referral
+P2368,2023-07-16,Dr. Meera Iyer,T08,Depression,Follow-up,58,Prefer not to say,Hyderabad,90,True,642,Paid,3.0,10,Word of mouth
+P0741,2023-03-10,Dr. Meera Iyer,T08,Addiction Recovery,Initial Consultation,42,Male,Delhi,45,True,1095,Paid,2.0,12,Online search
+P2337,2023-03-02,Dr. Arjun Kumar,T07,Child & Adolescent,Follow-up,33,Male,Hyderabad,90,True,694,Pending,4.0,4,Doctor referral
+P4045,2023-05-13,Dr. Meera Iyer,T08,Addiction Recovery,Follow-up,36,Male,Delhi,45,True,602,Paid,4.0,17,Self-referral
+P4516,2023-09-07,Dr. Vikram Singh,T05,Trauma & PTSD,Initial Consultation,40,Female,Delhi,90,True,1113,Paid,5.0,5,NGO partner
+P3298,2024-12-04,Dr. Arjun Kumar,T07,Anxiety & Stress,Follow-up,33,Female,Hyderabad,45,True,535,Paid,4.0,0,NGO partner
+P4042,2024-01-21,Dr. Rohan Gupta,T03,Depression,Initial Consultation,54,Female,Hyderabad,90,True,954,Waived,5.0,3,Self-referral
+P1122,2024-10-16,Dr. Arjun Kumar,T07,Depression,Group Session,53,Female,Delhi,90,True,406,Paid,5.0,9,NGO partner
+P4519,2024-10-31,Dr. Arjun Kumar,T07,Child & Adolescent,Crisis Intervention,41,Female,Mumbai,90,True,1039,Paid,5.0,2,Online search
+P2974,2023-04-03,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,41,Female,Kolkata,90,True,483,Paid,,19,Doctor referral
+P2001,2023-05-10,Dr. Aarav Sharma,T01,Addiction Recovery,Crisis Intervention,55,Female,Delhi,90,True,1092,Paid,5.0,15,Self-referral
+P1507,2024-06-21,Dr. Arjun Kumar,T07,Trauma & PTSD,Group Session,34,Non-binary,Bangalore,45,True,478,Paid,4.0,7,Online search
+P1840,2024-11-03,Dr. Aarav Sharma,T01,Trauma & PTSD,Follow-up,52,Female,Chennai,90,True,695,Waived,1.0,17,Self-referral
+P1208,2024-06-09,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,40,Female,Kolkata,60,True,379,Paid,2.0,9,Online search
+P2899,2024-11-25,Dr. Arjun Kumar,T07,Child & Adolescent,Group Session,31,Female,Chennai,60,True,435,Pending,5.0,10,Online search
+P3325,2024-08-21,Dr. Rohan Gupta,T03,Child & Adolescent,Initial Consultation,36,Male,Chennai,45,True,932,Pending,5.0,11,Doctor referral
+P3245,2023-11-04,Dr. Vikram Singh,T05,Trauma & PTSD,Group Session,22,Male,Chennai,30,True,496,Waived,3.0,5,Doctor referral
+P1320,2024-10-02,Dr. Priya Patel,T02,Trauma & PTSD,Initial Consultation,110,Non-binary,Chennai,60,True,1167,Paid,2.0,14,Doctor referral
+P2007,2023-08-30,Dr. Ananya Reddy,T04,Child & Adolescent,Initial Consultation,22,Female,Delhi,45,True,1018,Waived,2.0,9,Online search
+P0968,2023-12-22,Dr. Meera Iyer,T08,Anxiety & Stress,Group Session,40,Female,Kolkata,90,True,342,Pending,3.0,8,NGO partner
+P0469,2023-08-11,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,32,Male,Chennai,90,True,1096,Paid,3.0,16,NGO partner
+P2174,2024-10-29,Dr. Vikram Singh,T05,Anxiety & Stress,Initial Consultation,33,Female,Chennai,45,True,-917,Paid,4.0,1,Doctor referral
+P2343,2024-06-12,Dr. Arjun Kumar,T07,Child & Adolescent,Initial Consultation,36,Male,Delhi,90,True,897,Paid,3.0,9,NGO partner
+P2869,2023-06-06,Dr. Aarav Sharma,T01,Child & Adolescent,Group Session,38,Female,Delhi,30,False,364,Paid,,12,Word of mouth
+P2651,2023-05-14,Dr. Ananya Reddy,T04,Anxiety & Stress,Group Session,44,Female,Mumbai,45,True,483,Paid,,18,Doctor referral
+P3013,2024-03-24,Dr. Priya Patel,T02,Addiction Recovery,Initial Consultation,38,Female,Delhi,60,False,1115,Pending,,13,Self-referral
+P0655,2024-05-20,Dr. Priya Patel,T02,Child & Adolescent,Group Session,27,Female,Mumbai,30,True,487,Paid,4.0,10,NGO partner
+P0712,2024-01-04,Dr. Aarav Sharma,T01,Addiction Recovery,Follow-up,44,Male,Bangalore,60,False,500,Pending,,21,Word of mouth
+P1526,2024-09-22,Dr. Aarav Sharma,T01,Child & Adolescent,Crisis Intervention,57,Male,Kolkata,30,True,1168,Paid,3.0,3,Word of mouth
+P1212,2024-11-30,Dr. Priya Patel,T02,Trauma & PTSD,Crisis Intervention,43,Female,Kolkata,60,False,1103,Paid,,2,Self-referral
+P1838,2024-01-03,Dr. Aarav Sharma,T01,Trauma & PTSD,Crisis Intervention,48,Male,Bangalore,45,True,1052,Paid,5.0,16,Online search
+P1994,2023-06-22,Dr. Meera Iyer,T08,Depression,Crisis Intervention,39,Male,Delhi,30,True,1488,Paid,2.0,3,Word of mouth
+P1214,2023-01-08,Dr. Rohan Gupta,T03,Anxiety & Stress,Follow-up,31,Male,Delhi,45,True,628,Paid,3.0,16,NGO partner
+P2747,2024-01-31,Dr. Ananya Reddy,T04,Depression,Initial Consultation,61,Male,Delhi,30,True,991,Paid,1.0,9,Word of mouth
+P1791,2024-04-06,Dr. Aarav Sharma,T01,Depression,Follow-up,44,Male,Bangalore,45,True,730,Paid,1.0,19,Word of mouth
+P2105,2023-05-18,Dr. Meera Iyer,T08,Depression,Initial Consultation,42,Male,Kolkata,60,True,959,Paid,,19,Self-referral
+P1003,2024-10-01,Dr. Aarav Sharma,T01,Child & Adolescent,Follow-up,42,Female,Kolkata,30,True,564,Pending,1.0,17,NGO partner
+P2345,2023-01-09,Dr. Vikram Singh,T05,Depression,Initial Consultation,60,Male,Chennai,60,True,1110,Paid,,7,Doctor referral
+P0409,2024-08-31,Dr. Rohan Gupta,T03,Depression,Group Session,44,Female,Mumbai,45,True,435,Paid,1.0,3,Self-referral
+P2279,2024-05-22,Dr. Meera Iyer,T08,Anxiety & Stress,Follow-up,46,Female,Chennai,45,True,538,Paid,3.0,17,Word of mouth
+P4506,2024-06-06,Dr. Aarav Sharma,T01,Anxiety & Stress,Group Session,60,Male,Mumbai,45,True,426,Paid,4.0,18,Self-referral
+P2279,2023-03-23,Dr. Meera Iyer,T08,Trauma & PTSD,Initial Consultation,39,Female,Hyderabad,45,False,925,Paid,,1,Doctor referral
+P2328,2024-10-08,Dr. Aarav Sharma,T01,Addiction Recovery,Group Session,37,Non-binary,Hyderabad,45,True,316,Paid,4.0,10,Self-referral
+P2469,2023-06-19,Dr. Arjun Kumar,T07,Addiction Recovery,Crisis Intervention,54,Female,Mumbai,45,True,1000,Paid,2.0,7,Doctor referral
+P0844,2023-08-07,Dr. Ananya Reddy,T04,Addiction Recovery,Group Session,24,Male,Chennai,45,True,428,Pending,4.0,18,Doctor referral
+P1035,2023-04-07,Dr. Rohan Gupta,T03,Addiction Recovery,Follow-up,31,Female,Kolkata,90,True,734,Pending,3.0,13,NGO partner
+P1892,2023-08-12,Dr. Ananya Reddy,T04,Child & Adolescent,Group Session,56,Male,Chennai,90,True,390,Pending,3.0,0,NGO partner
+P4000,2024-03-28,Dr. Vikram Singh,T05,Anxiety & Stress,Follow-up,26,Female,Kolkata,60,False,563,Paid,,12,Word of mouth
+P2456,2024-02-04,Dr. Vikram Singh,T05,Trauma & PTSD,Crisis Intervention,37,Male,Hyderabad,60,True,1100,Paid,,13,Online search
+P3155,2024-01-19,Dr. Arjun Kumar,T07,Anxiety & Stress,Follow-up,25,Female,Delhi,45,True,796,Paid,,0,Doctor referral

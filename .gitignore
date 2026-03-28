@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+! .streamlit/config.toml
+
+# Local dev/IDEs
+.vscode/
+.idea/
+.gemini/
+
+# Large raw data (optional - user requested all data, but usually raw data is best kept local)
+# For now, following user's "all data" request.

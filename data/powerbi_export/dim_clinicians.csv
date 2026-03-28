@@ -1,0 +1,21 @@
+ClinicianID,Name,Specialization,Qualification,Experience_Yrs,HireDate
+C-001,Dr. Sanders,Social Worker,MSc,12,2016-10-21
+C-002,Dr. Reeves,Counselor,BSc,25,2021-01-10
+C-003,Dr. Henderson,Occupational Therapist,MD,10,2020-01-30
+C-004,Dr. Scott,Counselor,PhD,3,2015-10-24
+C-005,Dr. Hawkins,Psychiatrist,MSW,11,2015-06-11
+C-006,Dr. Cook,Clinical Psychologist,MSW,23,2016-12-30
+C-007,Dr. Ruiz,Occupational Therapist,MSc,24,2018-01-05
+C-008,Dr. Barajas,Psychiatrist,MSc,13,2022-12-28
+C-009,Dr. Lambert,Occupational Therapist,PhD,9,2021-10-28
+C-010,Dr. George,Clinical Psychologist,MSW,6,2021-05-13
+C-011,Dr. Pacheco,Social Worker,BSc,13,2015-01-17
+C-012,Dr. King,Social Worker,BSc,17,2020-04-09
+C-013,Dr. James,Occupational Therapist,PhD,26,2018-05-11
+C-014,Dr. Lambert,Clinical Psychologist,BSc,29,2016-02-15
+C-015,Dr. Donaldson,Psychiatrist,BSc,16,2019-10-05
+C-016,Dr. Williams,Occupational Therapist,MSc,4,2016-07-11
+C-017,Dr. Green,Occupational Therapist,MD,3,2019-04-15
+C-018,Dr. Vasquez,Occupational Therapist,BSc,8,2017-11-19
+C-019,Dr. Humphrey,Occupational Therapist,BSc,6,2016-02-14
+C-020,Dr. Davis,Clinical Psychologist,MSc,29,2021-01-15

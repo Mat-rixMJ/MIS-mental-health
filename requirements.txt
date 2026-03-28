@@ -1,9 +1,10 @@
+streamlit
 pandas==2.2.1
+plotly>=5.10.0
+numpy==1.26.4
 openpyxl==3.1.2
 reportlab==4.1.0
 faker==24.4.0
-numpy==1.26.4
-streamlit
-plotly
-watchdog
 statsmodels
+scipy
+watchdog
